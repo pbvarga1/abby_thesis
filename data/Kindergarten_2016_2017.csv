@@ -1,0 +1,1372 @@
+SCHOOL_NAME,SCHOOL_TYPE,SCHOOL_ADDRESS_ONE,CITY,COUNTY,ZIP_CODE,HAS_NURSE,NURSE_TYPE,ENROLLED,PCT_IMMUNE_DTAP,PCT_EXEMPT_DTAP,PCT_COMPLIANCE_DTAP,PCT_IMMUNE_POLIO,PCT_EXEMPT_POLIO,PCT_COMPLIANCE_POLIO,PCT_IMMUNE_MMR,PCT_EXEMPT_MMR,PCT_COMPLIANCE_MMR,PCT_IMMUNE_HEPB,PCT_EXEMPT_HEPB,PCT_COMPLIANCE_HEPB,PCT_IMMUNE_VAR,PCT_EXEMPT_VAR,PCT_COMPLIANCE_VAR,PCT_PBE,PCT_MEDICAL_EXEMPT,PCT_PBE_EXEMPT_ALL
+91st Psalm Christian School,private,2020 E BASELINE RD,PHOENIX,MARICOPA,85042,n,,21,86,9.5,95,86,9.5,95,91,9.5,100,91,9.5,100,,14.3,100,14.3,0,9.5
+A J Mitchell Elementary School,public,855 N BAUTISTA ST,NOGALES,SANTA CRUZ,85621,y,rn,64,100,0,100,100,0,100,100,0,100,100,0,100,,0,100,0,0,0
+Abia Judd,public,1749 N WILLIAMSON VALLEY RD,PRESCOTT,YAVAPAI,86305,y,rn,91,88,8.8,97,88,8.8,98,88,9.9,98,89,8.8,98,,9.9,99,8.8,1.1,0
+Abraham Lincoln,public,10444 N 39TH AVE,PHOENIX,MARICOPA,85051,n,,84,98,2.4,100,98,2.4,100,98,2.4,100,98,2.4,100,,0,100,2.4,0,2.4
+Acacia Elementary School,public,12955 E COLOSSAL CAVE RD,VAIL,PIMA,85641,n,,122,96,4.1,100,96,4.1,100,96,4.1,100,96,3.3,99,,3.3,100,4.1,0,0
+Academy Adventures Midtown,charter,3025 N WINSTEL BLVD,TUCSON,PIMA,85716,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Academy Adventures Primary School,charter,3902 N FLOWING WELLS RD,TUCSON,PIMA,85705,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Academy Del Sol,charter,732 W ROGER RD,TUCSON,PIMA,85705,n,,25,100,0,100,100,0,100,100,0,100,100,0,100,,0,100,0,0,0
+Academy Del Sol - Hope,charter,7102 W VALLEY CREST PL,TUCSON,PIMA,85757,n,,76,99,1.3,100,99,1.3,100,99,1.3,100,99,1.3,100,,0,100,1.3,0,1.3
+Academy Of Excellence,charter,425 N 36TH ST,PHOENIX,MARICOPA,85008,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Academy Of Math And Science,charter,1557 W PRINCE RD,TUCSON,PIMA,85705,n,,56,100,0,100,100,0,100,100,0,100,100,0,100,,0,100,0,0,0
+Academy Of Math and Science Camelback,charter,6633 W CAMELBACK RD,PHOENIX,MARICOPA,85033,n,,85,98,1.2,99,98,1.2,99,94,1.2,95,98,1.2,99,,1.2,99,1.2,0,1.2
+Academy Of Mathematics And Science South,charter,3335 W FLOWER ST,PHOENIX,MARICOPA,85017,n,,88,96,2.3,98,96,2.3,98,97,2.3,99,97,2.3,99,,2.3,99,2.3,0,0
+Academy Of Tucson Elementary School,charter,9209 E WRIGHTSTOWN RD,TUCSON,PIMA,85715,n,,51,100,0,100,100,0,100,100,0,100,100,0,100,,0,100,0,0,0
+Accel,private,10251 N 35TH AVE,PHOENIX,MARICOPA,85051,y,rn,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Accelerated Learning Laboratory,charter,5245 N CAMINO DE OESTE,TUCSON,PIMA,85745,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Acorn Montessori,charter,7555 E LONG LOOK DR,PRESCOTT VALLEY,YAVAPAI,86314,n,,69,93,7.2,100,93,7.2,100,93,7.2,100,93,7.2,100,,7.2,100,8.7,0,8.7
+Adams Elementary School,public,738 S LONGMORE,MESA,MARICOPA,85202,y,rn,105,100,0,100,100,0,100,100,0,100,100,0,100,,0,100,0,0,0
+Adams Traditional Academy,charter,2323 W PARKSIDE LN,PHOENIX,MARICOPA,85027,y,rn,128,88,11.7,100,88,9.4,100,88,11.7,100,90,10.2,100,,8.6,100,60.2,0,6.3
+Adobe Montessori School Inc.,private,6400 W DEL RIO ST,CHANDLER,MARICOPA,85226,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Advance U,charter,449 E SOUTHERN AVE,PHOENIX,MARICOPA,85040,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Adventure School,charter,5757 E PIMA ST,TUCSON,PIMA,85712,n,,23,78,17.4,96,78,17.4,100,78,17.4,96,83,17.4,100,,17.4,100,17.4,0,17.4
+Agua Caliente Elementary School,public,11420 E LIMBERLOST RD,TUCSON,PIMA,85749,y,rn,51,94,5.9,100,94,5.9,100,94,5.9,100,94,5.9,100,,5.9,100,5.9,0,5.9
+Aguila Elementary School,public,50023 N 51ST AVE,AGUILA,MARICOPA,85320,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Aguilar School,public,5800 S FOREST AVE,TEMPE,MARICOPA,85283,y,rn,71,93,7,100,93,4.2,100,93,7,100,96,4.2,100,,1.4,100,4.2,0,0
+Ahwatukee Foothills Montessori,private,3221 E CHANDLER BLVD,PHOENIX,MARICOPA,85048,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Aire Libre Elementary School,public,16428 N 21ST ST,PHOENIX,MARICOPA,85022,y,rn,39,100,0,100,100,0,100,100,0,100,100,0,100,,0,100,0,0,0
+Ajo Elementary,public,111 N WELL RD,AJO,PIMA,85321,y,,29,97,3.4,100,97,0,97,83,0,83,97,0,97,,0,97,3.4,0,0
+Alfred F Garcia School,public,1441 S 27TH AVE,PHOENIX,MARICOPA,85009,y,lpn,48,90,0,90,90,0,96,96,0,96,98,0,98,,0,100,0,0,0
+Alhambra Traditional School,public,3736 W OSBORN RD,PHOENIX,MARICOPA,85019,y,lpn,97,98,2.1,100,98,2.1,100,98,2.1,100,100,0,100,,0,100,4.1,0,0
+Alice Byrne Elementary School,public,811 W 16TH ST,YUMA,YUMA,85364,n,,45,96,4.4,100,96,4.4,100,96,4.4,100,96,4.4,100,,4.4,100,4.4,0,4.4
+All Aboard Charter School,charter,5827 N 35TH AVE,PHOENIX,MARICOPA,85017,n,,24,96,4.2,100,96,4.2,96,92,4.2,96,88,4.2,92,,4.2,100,4.2,0,4.2
+All Saints Catholic School,private,1425 E YAQUI ST,SIERRA VISTA,COCHISE,85650,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+All Saints Episcopal Day School,private,6300 N CENTRAL AVE,PHOENIX,MARICOPA,85012,y,rn,44,98,2.3,100,98,4.5,100,96,4.5,100,93,4.5,98,,4.5,100,9.1,0,2.3
+Alpine Elementary School,private,#101 COUNTY ROAD 2311,ALPINE,APACHE,85920,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Alta E Butler School,public,2037 W TONTO ST,PHOENIX,MARICOPA,85009,n,,807,100,.1,100,100,.1,100,100,.1,100,100,.1,100,,0,100,.1,0,0
+Alta Loma School,public,9750 N 87TH AVE,PEORIA,MARICOPA,85345,y,rn,92,97,1.1,98,97,1.1,98,99,0,99,97,1.1,98,,0,100,1.1,0,0
+Alta Vista Elementary,public,8710 N 31ST AVE,PHOENIX,MARICOPA,85051,y,rn,87,93,1.1,94,93,0,95,100,0,100,94,0,94,,1.1,100,2.3,0,0
+Ambassador Academy,charter,3820 E RAY RD,PHOENIX,MARICOPA,85044,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Amberlea Elementary,public,8455 W VIRGINIA AVE,PHOENIX,MARICOPA,85037,n,,76,95,3.9,99,95,1.3,100,96,3.9,100,97,2.6,100,,3.9,100,3.9,0,0
+American Heritage Academy,charter,132 W GENERAL CROOK TRL,CAMP VERDE,YAVAPAI,86322,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+American Heritage Academy,charter,2030 E CHERRY ST,COTTONWOOD,YAVAPAI,86326,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+American Leadership Academy - Gilbert,charter,3155 S SAN TAN VILLAGE PKWY,GILBERT,MARICOPA,85295,n,,108,85,13.9,99,85,12,100,87,13,100,89,9.3,98,,7.4,100,15.7,.9,6.5
+American Leadership Academy - Mesa,charter,4507 S MOUNTAIN RD,MESA,MARICOPA,85212,n,,90,92,6.7,99,92,6.7,100,97,3.3,100,93,6.7,100,,3.3,100,8.9,0,2.2
+American Leadership Academy - San Tan,charter,34969 N VILLAGE LN,SAN TAN VALLEY,MARICOPA,85142,n,,95,91,8.4,99,91,8.4,100,93,7.4,100,93,6.3,99,,6.3,100,8.4,0,4.2
+American Leadership Academy Anthem South Campus,charter,4380 N HUNT HWY,FLORENCE,PINAL,85132,n,,70,83,12.9,96,83,12.9,96,86,14.3,100,89,11.4,100,,10,100,15.7,5.7,10
+American Leadership Academy Ironwood Elementary Campus,charter,650 W COMBS RD,QUEEN CREEK,PINAL,85140,n,,87,94,5.7,100,94,5.7,99,95,4.6,100,93,5.7,99,,5.7,100,9.2,0,2.3
+American Leadership Acadmey - Queen Creek Elementary,charter,19843 E CHANDLER HEIGHTS RD,CHANDLER HTS,MARICOPA,85142,n,,97,89,11.3,100,89,12.4,100,90,10.3,100,89,11.3,100,,8.2,100,14.4,0,7.2
+Amerischools Academy - Camelback,charter,1333 W CAMELBACK RD,PHOENIX,MARICOPA,85013,n,,24,88,12.5,100,88,12.5,96,88,12.5,100,88,12.5,100,,12.5,100,12.5,0,12.5
+Amerischools Academy - Country Club,charter,1150 N COUNTRY CLUB RD,TUCSON,PIMA,85716,n,,21,91,0,91,91,0,91,95,0,95,100,0,100,,0,100,0,0,0
+Amerischools Academy - Yuma South Campus,charter,2098 S 3RD AVE,YUMA,YUMA,85364,n,,46,98,2.2,100,98,2.2,100,98,2.2,100,98,2.2,100,,2.2,100,2.2,0,2.2
+Amerischools Academy North,charter,1220 S 4TH AVE,YUMA,YUMA,85364,n,,42,100,0,100,100,0,100,95,0,95,100,0,100,,0,100,0,0,0
+Amy L. Houston Academy,public,7139 S 10TH ST,PHOENIX,MARICOPA,85042,y,lpn,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Anasazi Elementary School,public,12121 N 124TH ST,SCOTTSDALE,MARICOPA,85259,n,,63,92,7.9,100,92,6.3,100,92,7.9,100,94,6.3,100,,7.9,100,6.3,0,6.3
+Anlc,public,4330 N 62ND ST,SCOTTSDALE,MARICOPA,85251,y,rn,37,87,13.5,100,87,13.5,100,87,13.5,100,87,13.5,100,,0,100,18.9,0,0
+Anna Henry Elementary School,public,650 N IGO WAY,TUCSON,PIMA,85710,y,rn,64,97,0,97,97,0,98,100,0,100,100,0,100,,0,100,0,0,0
+Anna Marie Jacobson  Elementary School,public,1515 NW JACARANDA PKWY,CHANDLER,MARICOPA,85248,n,,106,100,0,100,100,0,100,100,0,100,99,.9,100,,4.7,100,6.6,.9,3.8
+Annie Kellond Elementary School,public,6606 E LEHIGH DR,TUCSON,PIMA,85710,y,rn,82,98,0,98,98,0,98,98,0,98,98,0,98,,1.2,98,1.2,0,0
+Annunciation Catholic School,private,32648 N CAVE CREEK RD,CAVE CREEK,MARICOPA,85331,y,rn,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Anthem K-8 School,public,2700 N ANTHEM WAY,FLORENCE,PINAL,85232,n,,62,86,8.1,94,86,8.1,97,90,8.1,98,97,3.2,100,,3.2,100,8.1,0,0
+Anthem Preparatory Academy,charter,39808 N GAVILAN PEAK PKWY,ANTHEM,MARICOPA,85086,n,,59,92,6.8,98,92,6.8,100,93,3.4,97,88,10.2,98,,5.1,98,10.2,0,6.8
+Anthem School,public,41020 N FREEDOM WAY,ANTHEM,MARICOPA,85086,y,lpn,56,95,5.4,100,95,5.4,100,95,5.4,100,98,1.8,100,,1.8,100,3.6,0,0
+Anza Trail School,public,15490 S RANCHO SAHUARITA BLVD,SAHUARITA,PIMA,85629,n,,92,98,0,98,98,0,98,99,0,99,98,0,98,,0,100,0,0,0
+Apache,public,8633 W JOHN CABOT RD,PEORIA,MARICOPA,85382,y,rn,68,88,11.8,100,88,11.8,100,87,13.2,100,87,13.2,100,,0,100,19.1,0,0
+Apache Elementary School,public,10488 N SKELETON CANYON RD,DOUGLAS,COCHISE,85608,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Arcadia Montessori,private,5115 E VIRGINIA AVE,PHOENIX,MARICOPA,85008,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Archway Arete Classical Academy,charter,4525 E BASELINE RD,GILBERT,MARICOPA,85234,y,rn,86,85,15.1,100,85,19.8,100,83,17.4,100,85,15.1,100,,12.8,100,20.9,0,8.1
+Archway Clasical Academy Glendale,charter,23276 N 83RD AVE,PEORIA,MARICOPA,85383,y,rn,84,93,7.1,100,93,8.3,100,93,7.1,100,89,10.7,100,,6,100,13.1,0,4.8
+Archway Classical Academy - Chandler,charter,1951 N ALMA SCHOOL RD,CHANDLER,MARICOPA,85224,n,,87,98,2.3,100,98,2.3,100,97,3.4,100,95,4.6,100,,2.3,100,5.7,0,1.1
+Archway Classical Academy - Trivium,charter,14130 W MCDOWELL RD,GOODYEAR,MARICOPA,85395,n,,72,94,5.6,100,94,2.8,100,94,5.6,100,94,5.6,100,,5.6,100,5.6,0,0
+Archway Classical Academy - Trivium West,charter,2001 N BULLARD AVE,GOODYEAR,MARICOPA,85395,n,,85,93,7.1,100,93,9.4,100,92,8.2,100,91,9.4,100,,7.1,100,12.9,0,4.7
+Archway Classical Academy - Veritas,charter,3102 N 56TH ST STE 200,PHOENIX,MARICOPA,85018,y,rn,88,93,6.8,100,93,10.2,100,90,10.2,100,89,11.4,100,,3.4,100,9.1,2.3,3.4
+Archway Classical Academy Scottsdale,charter,7496 E TIERRA BUENA LN,SCOTTSDALE,MARICOPA,85260,y,rn,89,99,1.1,100,99,3.4,100,97,3.4,100,94,5.6,100,,2.2,100,7.9,0,7.9
+Archway Classical Academy-cicero,charter,7205 N PIMA RD,SCOTTSDALE,MARICOPA,85258,y,rn,81,84,9.9,94,84,9.9,93,83,11.1,94,83,9.9,93,,11.1,99,11.1,0,11.1
+Archway North Phoenix,charter,13613 N CAVE CREEK RD BLDG C,PHOENIX,MARICOPA,85022,n,,99,86,14.1,100,86,13.1,100,84,16.2,100,79,21.2,100,,13.1,100,25.3,0,12.1
+Arizona Academy Of Science And Technology,charter,1875 N CENTRAL AVE,PHOENIX,MARICOPA,85004,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Arizona Autism Charter School,charter,4433 N 7TH ST,PHOENIX,MARICOPA,85014,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Arizona Charter Academy,charter,16011 N DYSART RD,SURPRISE,MARICOPA,85374,n,,74,96,1.4,97,96,1.4,96,96,1.4,97,99,1.4,100,,1.4,100,1.4,0,1.4
+Arizona Connections Academy,charter,335 E GERMANN RD STE 140,GILBERT,MARICOPA,85297,n,,71,70,29.6,100,70,26.8,100,72,28.2,100,70,29.6,100,,25.4,100,28.2,2.8,28.2
+Arizona Cultural Academy and College Prep,private,7810 S 42ND PL,PHOENIX,MARICOPA,85042,n,,22,100,0,100,100,0,100,100,0,100,100,0,100,,0,100,0,0,0
+Arizona Desert Elementary School,public,8803 W VAN BUREN ST,TOLLESON,MARICOPA,85353,y,,65,100,0,100,100,0,100,99,0,99,100,0,100,,0,100,0,0,0
+Arizona Desert Elementary School,public,1245 N MAIN ST,SAN LUIS,YUMA,85349,n,,65,100,0,100,100,0,100,100,0,100,100,0,100,,0,100,0,0,0
+Arizona School For The Deaf And Blind,public,1200 W SPEEDWAY BLVD,TUCSON,PIMA,85745,y,rn,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Arlington Elementary School,public,9410 S 355TH AVE,ARLINGTON,MARICOPA,85322,n,,23,100,0,100,100,0,100,100,0,100,100,0,100,,0,100,0,0,0
+Arredondo Elementary School at Meyer Campus,public,2615 E DORSEY LANE,TEMPE,MARICOPA,85282,y,rn,43,93,2.3,95,93,2.3,95,93,2.3,95,93,4.7,98,,0,100,0,4.7,0
+Arrowhead Christian Academy,private,4030 W YORKSHIRE DR,GLENDALE,MARICOPA,85308,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Arrowhead Elementary School,public,3820 E NISBET RD,PHOENIX,MARICOPA,85032,y,rn,54,93,7.4,100,93,5.6,100,93,5.6,98,94,5.6,100,,0,100,5.6,0,0
+Arrowhead Elementary School,public,7490 W UNION HILLS DR,GLENDALE,MARICOPA,85308,y,lpn,91,97,3.3,100,97,3.3,100,98,2.2,100,97,3.3,100,,2.2,100,4.4,0,2.2
+Arroyo School,public,4535 W CHOLLA ST,GLENDALE,MARICOPA,85304,n,,42,100,0,100,100,0,100,100,0,100,100,0,100,,0,100,0,0,0
+Arthur M. Hamilton,public,2020 W DURANGO ST,PHOENIX,MARICOPA,85009,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Arts Academy At Estrella Mountain,charter,2504 S 91ST AVE,TOLLESON,MARICOPA,85353,n,,107,95,4.7,100,95,3.7,100,95,4.7,100,98,1.9,100,,0,100,.9,0,0
+Ascension Lutheran School,private,1220 W MAGEE RD,TUCSON,PIMA,85704,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Ash Fork Joint Unified,public,4699 N. 5TH STREET,ASH FORK,YAVAPAI,86320,y,rn,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Ashland Elementary,public,1945 S ASHLAND RANCH RD,GILBERT,MARICOPA,85295,y,rn,93,94,5.4,99,94,5.4,100,94,5.4,99,94,5.4,99,,4.3,100,1.1,0,7.5
+Ashton Ranch Elementary School,public,14898 W ACOMA DR,SURPRISE,MARICOPA,85379,y,lpn,76,93,6.6,100,93,3.9,100,93,6.6,100,95,3.9,99,,3.9,100,7.9,2.6,5.3
+Asu Preparatory Academy - Phoenix Elementary,charter,735 E FILLMORE ST,PHOENIX,MARICOPA,85006,y,rn,75,95,4,99,95,4,99,95,4,99,96,4,100,,4,100,4,0,4
+Asu Preparatory Academy Polytechnic Elementary,charter,6950 E WILLIAMS FIELD RD,MESA,MARICOPA,85212,n,,70,89,11.4,100,89,8.6,100,89,11.4,100,93,7.1,100,,8.6,100,11.4,0,7.1
+Athos Traditional Academy,charter,3201 S GILBERT RD BLDG B,CHANDLER,MARICOPA,85286,n,,128,88,11.7,100,88,11.7,100,89,10.9,100,88,12.5,100,,9.4,100,12.5,1.6,10.9
+Atonement Lutheran School,private,4001 W BEARDSLEY RD,GLENDALE,MARICOPA,85308,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Audrey And Robert Ryan Elementary,public,4600 S BRIGHT ANGEL WAY,CHANDLER,MARICOPA,85249,n,,86,95,4.7,100,95,4.7,100,95,4.7,100,98,1.2,99,,0,100,4.7,1.2,4.7
+Augusta Ranch Elementary,public,9430 E NEVILLE AVE,MESA,MARICOPA,85209,y,rn,114,93,4.4,97,93,0,99,95,5.3,100,94,4.4,98,,4.4,100,6.1,0,0
+Augustus H Shaw Jr School,public,123 N 13TH ST,PHOENIX,MARICOPA,85034,y,rn,61,97,3.3,100,97,4.9,100,95,4.9,100,95,4.9,100,,4.9,100,4.9,0,4.9
+Avalon Elementary,charter,1045 S SAN MARCOS DR,APACHE JUNCTION,PINAL,85220,n,,41,88,12.2,100,88,9.8,100,88,12.2,100,90,9.8,100,,4.9,100,4.9,7.3,0
+Awakening Seed School (k-4th),private,6630 S 40TH ST,PHOENIX,MARICOPA,85042,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+B.e.s.d.#26 - Bouse Elementary School,public,44936 JOSHUA DR,BOUSE,LA PAZ,85325,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Bagdad Elementary School,public,515 BREEZY CIR,BAGDAD,YAVAPAI,86321,n,,30,97,3.3,100,97,3.3,100,97,3.3,100,97,3.3,100,,3.3,100,3.3,0,0
+Bales Elementary School,public,25400 W MARICOPA RD,BUCKEYE,MARICOPA,85326,n,,75,95,2.7,97,95,0,96,95,2.7,97,99,1.3,100,,0,100,5.3,0,0
+Balsz Elementary,public,4309 E BELLEVIEW ST,PHOENIX,MARICOPA,85008,y,rn,78,99,1.3,100,99,1.3,100,99,1.3,100,99,1.3,100,,1.3,100,1.3,0,0
+Barbara B Robey Elementary,public,5340 N WIGWAM CREEK BLVD,LITCHFIELD PARK,MARICOPA,85340,y,lpn,104,95,3.8,99,95,3.8,99,94,4.8,99,95,3.8,99,,3.8,99,4.8,0,3.8
+Barbara Bush Elementary School,public,4925 E INGRAM ST,MESA,MARICOPA,85205,y,rn,68,93,7.4,100,93,5.9,100,94,5.9,100,94,5.9,100,,0,100,5.9,1.5,5.9
+Basha Elementary,public,3535 S BASHA RD,CHANDLER,MARICOPA,85248,n,,91,89,11,100,89,11,100,90,9.9,100,93,6.6,100,,5.5,100,12.1,0,5.5
+Basis Chandler Primary North Campus,public,1800 E CHANDLER BLVD,CHANDLER,MARICOPA,85225,n,,121,98,1.7,100,98,1.7,100,98,1.7,100,99,.8,100,,0,100,2.5,0,1.7
+Basis Chandler Primary School South Campus,charter,204 W CHANDLER HEIGHTS RD,CHANDLER,MARICOPA,85248,n,,63,97,3.2,100,97,3.2,100,97,3.2,100,97,3.2,100,,3.2,100,3.2,0,3.2
+Basis Goodyear Primary,charter,15800 W SHERMAN ST,GOODYEAR,MARICOPA,85338,n,,122,89,10.7,100,89,9.8,100,89,10.7,100,95,4.9,100,,5.7,100,10.7,0,4.9
+Basis Oro Valley Primary,charter,11129 N ORACLE RD,ORO VALLEY,PIMA,85737,n,,128,95,4.7,100,95,3.9,100,95,4.7,100,95,4.7,100,,3.1,100,5.5,1.6,0
+Basis Phoenix Central,charter,201 E INDIANOLA AVE,PHOENIX,MARICOPA,85012,n,,144,92,7.6,100,92,7.6,100,88,11.8,100,90,9.7,100,,7.6,100,14.6,0,7.6
+Basis Prescott,charter,1901 PRESCOTT LAKES PKWY,PRESCOTT,YAVAPAI,86301,n,,64,84,15.6,100,84,18.8,100,84,15.6,100,84,15.6,100,,10.9,100,29.7,0,6.3
+Basis Scottsdale Primary,charter,11440 N 136TH ST,SCOTTSDALE,MARICOPA,85259,n,,129,94,4.7,98,94,3.9,99,95,4.7,99,95,3.9,99,,1.6,100,4.7,1.6,0
+Basis Tucson,charter,3825 E 2ND ST,TUCSON,PIMA,85716,n,,161,98,1.9,100,98,1.9,100,98,1.9,100,98,1.9,100,,1.9,100,1.9,0,1.9
+Bayer School,private,23555 N 67TH AVE,GLENDALE,MARICOPA,85310,y,rn,21,100,0,100,100,0,100,95,0,95,100,0,100,,0,100,0,0,0
+Beautiful Savior Academy,private,7570 N THORNYDALE RD,TUCSON,PIMA,85741,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Beaver Creek School,public,4810 E BEAVER CREEK RD,RIMROCK,YAVAPAI,86335,n,,25,92,8,100,92,8,100,96,4,100,92,8,100,,4,100,8,0,4
+Beaver Dam Elementary,public,3436 RIO VIRGIN RD,LITTLEFIELD,MOHAVE,86432,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Bella Vista Elementary School,public,801 N LENZNER AVE,SIERRA VISTA,COCHISE,85635,n,,48,98,2.1,100,98,2.1,100,98,2.1,100,98,2.1,100,,2.1,100,2.1,0,0
+Bellair Elementary School,public,4701 W GROVERS AVE,GLENDALE,MARICOPA,85308,y,lpn,64,91,6.3,97,91,6.3,100,94,6.3,100,94,6.3,100,,3.1,100,6.3,0,0
+Benchmark School,charter,4120 E ACOMA DR,PHOENIX,MARICOPA,85032,n,,61,95,1.6,97,95,1.6,97,84,1.6,85,95,1.6,97,,1.6,98,1.6,0,1.6
+Benjamin Franklin Charter School - Gilbert,charter,1475 S VAL VISTA DR,GILBERT,MARICOPA,85296,y,rn,110,82,18.2,100,82,18.2,100,82,18.2,100,86,14.5,100,,15.5,100,23.6,.9,10.9
+Benjamin Franklin Charter School - Power,charter,22951 S POWER RD,GILBERT,MARICOPA,85298,y,rn,108,72,27.8,100,72,28.7,100,73,26.9,100,74,25.9,100,,13.9,100,34.3,0,10.2
+Benjamin Franklin Charter School - Queen,charter,22120 E QUEEN CREEK RD,QUEEN CREEK,MARICOPA,85242,y,rn,115,79,20.9,100,79,18.3,100,79,20.9,100,84,16.5,100,,14.8,100,22.6,.9,11.3
+Bennett Academy,charter,2930 W BETHANY HOME RD,PHOENIX,MARICOPA,85017,n,,21,100,0,100,100,0,95,100,0,100,100,0,100,,0,100,0,0,0
+Bennett Academy Venture Site,charter,1535 W DUNLAP AVE,PHOENIX,MARICOPA,85021,n,,22,68,13.6,82,68,13.6,91,77,13.6,91,82,13.6,96,,13.6,100,13.6,0,0
+Benson Unified School District,public,360 S PATAGONIA ST,BENSON,COCHISE,85602,y,rn,89,92,6.7,99,92,6.7,100,92,7.9,100,93,6.7,100,,7.9,100,0,0,7.9
+Bernard Black Elementary,public,6550 S 27TH AVE,PHOENIX,MARICOPA,85041,y,rn,87,97,2.3,99,97,2.3,100,98,2.3,100,98,2.3,100,,0,100,2.3,0,0
+Bethany Christian School,private,6304 S PRICE RD,TEMPE,MARICOPA,85283,y,rn,22,73,27.3,100,73,27.3,100,73,27.3,100,73,27.3,100,,22.7,100,18.2,0,18.2
+Bicentennial South,public,7240 W COLTER ST,GLENDALE,MARICOPA,85303,y,,132,97,0,97,97,0,97,100,0,100,99,0,99,,.8,100,.8,.8,0
+Big Park Community School,public,25 W SADDLEHORN CT,SEDONA,YAVAPAI,86351,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Biltmore Prep,public,4601 N 34TH ST,PHOENIX,MARICOPA,85018,y,lpn,95,96,4.2,100,96,4.2,100,96,4.2,100,96,4.2,100,,3.2,100,4.2,0,0
+Black Mountain Elementary School,public,33016 N 60TH ST,CAVE CREEK,MARICOPA,85327,y,rn,51,88,11.8,100,88,11.8,100,88,11.8,100,82,17.6,100,,3.9,100,17.6,0,5.9
+Black Mountain Elementary School,public,3404 N SANTA MARIA RD,GOLDEN VALLEY,MOHAVE,86413,y,lpn,47,89,8.5,98,89,8.5,98,89,8.5,98,87,10.6,98,,8.5,98,8.5,0,8.5
+Blackwater Community School,charter,3652 E BLACKWATER SCHOOL RD,COOLIDGE,PINAL,85128,n,,67,97,1.5,99,97,1.5,100,99,1.5,100,100,0,100,,1.5,100,1.5,0,0
+Blake Primary School,public,701 S NAVAJO AVE,PARKER,LA PAZ,85344,n,,121,97,1.7,98,97,1.7,98,98,1.7,100,98,1.7,99,,1.7,101,1.7,0,0
+Blenman Elementary School,public,1695 N COUNTRY CLUB RD,TUCSON,PIMA,85716,y,rn,53,93,0,93,93,0,100,100,0,100,98,1.9,100,,0,100,0,1.9,0
+Blessed Sacrament Kindergarten And Preschool,private,11300 N 64TH ST,SCOTTSDALE,MARICOPA,85254,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Bloom,public,8310 E PIMA ST,TUCSON,PIMA,85715,n,,64,100,0,100,100,0,100,100,0,100,100,0,100,,0,100,0,0,0
+Blue Ridge Elementary,public,1200 W WHITE MOUNTAIN BLVD,LAKESIDE,NAVAJO,85929,n,,128,81,2.3,84,81,2.3,84,81,2.3,84,98,2.3,100,,0,100,2.3,0,0
+Bonillas Elementary Basic Curriculum Magn,public,4757 E WINSETT ST,TUCSON,PIMA,85711,y,rn,55,96,0,96,96,1.8,96,96,0,96,98,0,98,,0,100,0,1.8,0
+Bonita Elementary School,public,18008 S FORT GRANT RD,WILLCOX,GRAHAM,85643,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Bonnie Brennan School,public,100 COCHISE DR,WINSLOW,NAVAJO,86047,n,,153,98,1.3,99,98,.7,100,99,.7,100,99,.7,100,,.7,100,1.3,0,.7
+Booth-fickett Math/science Magnet School,public,450 S MONTEGO DR,TUCSON,PIMA,85710,y,rn,43,100,0,100,100,0,100,100,0,100,100,0,100,,0,100,0,0,0
+Borman Elementary School,public,6630 E LIGHTNING DR,TUCSON,PIMA,85708,y,rn,101,97,2,99,97,0,97,97,0,97,97,0,97,,0,97,2,0,0
+Borton Magnet Elementary,public,700 E 22ND ST,TUCSON,PIMA,85713,y,rn,72,100,0,100,100,0,100,100,0,100,97,2.8,100,,2.8,100,2.8,0,0
+Boulder Creek Elementary,public,8045 E PORTOBELLO AVE,MESA,MARICOPA,85212,y,rn,78,92,3.8,96,92,5.1,99,95,3.8,99,95,5.1,100,,5.1,100,5.1,0,5.1
+Boulder Creek Elementary School,public,22801 N 22ND ST,PHOENIX,MARICOPA,85024,y,rn,118,94,5.9,100,94,5.1,100,95,5.1,100,93,6.8,100,,5.1,100,5.1,0,5.1
+Bouse Elementary School District 26,public,44031 E BOUSE AVE,BOUSE,LA PAZ,85325,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Bowie Elementary School,public,315 W 5TH ST,BOWIE,COCHISE,85605,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Bret A. Tarver,public,4308 N 51ST AVE STE 102,PHOENIX,MARICOPA,85031,y,lpn,97,94,3.1,97,94,3.1,99,97,3.1,100,99,1,100,,0,100,3.1,0,3.1
+Bridges Elementary,public,5205 S SOBOBA ST,GILBERT,MARICOPA,85298,n,,73,99,1.4,100,99,2.7,100,97,2.7,100,99,1.4,100,,1.4,100,2.7,0,1.4
+Bridges Preschool And Kindergarten,private,7570 S WILLOW DR,TEMPE,MARICOPA,85283,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Bright Beginnings School #1,charter,400 N ANDERSEN BLVD,CHANDLER,MARICOPA,85224,n,,35,94,5.7,100,94,5.7,100,89,11.4,100,91,8.6,100,,8.6,100,11.4,0,5.7
+Broadmor Elementary School,public,311 E AEPLI DR,TEMPE,MARICOPA,85282,y,rn,119,98,2.5,100,98,2.5,100,98,2.5,100,98,2.5,100,,1.7,100,3.4,0,.8
+Brunson-lee Elementary,public,1350 N 48TH ST,PHOENIX,MARICOPA,85008,y,rn,69,97,2.9,100,97,2.9,100,97,2.9,100,97,2.9,100,,2.9,100,2.9,0,0
+Buckeye Primary School,public,210 S 6TH ST,BUCKEYE,MARICOPA,85326,y,lpn,75,96,4,100,96,2.7,100,96,4,100,99,1.3,100,,1.3,100,4,0,0
+Burk Elementary School,public,545 N BURK ST,GILBERT,MARICOPA,85234,y,rn,40,100,0,100,100,0,100,100,0,100,100,0,100,,0,100,0,0,0
+Burke Basic School,charter,131 E SOUTHERN AVE,MESA,MARICOPA,85210,y,lpn,141,97,0,97,97,0,97,97,0,97,99,0,99,,0,100,0,0,0
+Butterfield Elementary School,public,43800 W HONEYCUTT RD,MARICOPA,PINAL,85239,y,rn,107,86,10.3,96,86,3.7,92,88,4.7,93,89,7.5,96,,3.7,98,3.7,0,3.7
+Butterfield Elementary School,public,3400 W MASSINGALE RD,TUCSON,PIMA,85741,n,,63,98,0,98,98,0,98,97,0,97,98,0,98,,0,98,0,0,0
+C E Rose Elementary School,public,710 W MICHIGAN ST,TUCSON,PIMA,85714,y,rn,95,99,1.1,100,99,1.1,99,98,1.1,99,100,0,100,,0,100,1.1,0,0
+C J Jorgensen School,public,1701 W ROESER RD,PHOENIX,MARICOPA,85041,y,lpn,51,98,2,100,98,2,100,100,0,100,98,2,100,,2,100,2,0,2
+C.i Waggoner,public,1050 E CARVER RD,TEMPE,MARICOPA,85284,n,,74,92,8.1,100,92,6.8,100,92,8.1,100,99,1.4,100,,0,100,9.5,0,1.4
+C.u.s.d. #24 - Tsaile Public School,public,HWY 12 and HWY 64,CHINLE,APACHE,86556,n,,43,100,0,100,100,0,100,100,0,100,100,0,100,,0,100,0,0,0
+C.w. Mcgraw,public,2345 S ARIZONA AVE,YUMA,YUMA,85364,n,,100,97,0,97,97,0,99,100,0,100,97,0,97,,0,99,0,0,0
+Cactus View Elementary,public,17602 N CENTRAL AVE,PHOENIX,MARICOPA,85022,y,rn,78,100,0,100,100,2.6,100,96,3.8,100,99,1.3,100,,0,100,3.8,0,3.8
+Cactus Wren Elementary,public,9650 N 39TH AVE,PHOENIX,MARICOPA,85051,n,,47,98,2.1,100,98,2.1,100,98,2.1,100,98,2.1,100,,2.1,100,2.1,0,2.1
+Calabasas Middle School,public,131 CAMINO MARICOPA,RIO RICO,SANTA CRUZ,85648,y,rn,60,100,0,100,100,0,98,100,0,100,100,0,100,,0,100,0,0,0
+Calibre,charter,15688 W ACOMA DR,SURPRISE,MARICOPA,85379,n,,60,93,6.7,100,93,6.7,100,93,6.7,100,93,6.7,100,,6.7,100,6.7,0,0
+Calvary Chapel Christian School,private,8725 E SPEEDWAY BLVD,TUCSON,PIMA,85710,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Calvary Christian Academy,private,1605 MCCULLOCH BLVD S,LAKE HAVASU CITY,MOHAVE,86406,n,,26,96,3.8,100,96,3.8,100,85,3.8,89,96,3.8,100,,3.8,100,3.8,0,3.8
+Cambridge Academy - Mesa Campus,charter,9412 E BROWN RD,MESA,MARICOPA,85207,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Cambridge Academy - Queen Creek,charter,20365 E OCOTILLO RD,MESA,MARICOPA,85207,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Camelback Academy,charter,7634 W CAMELBACK RD,GLENDALE,MARICOPA,85303,n,,54,96,0,96,96,0,98,94,0,94,98,0,98,,0,100,0,0,0
+Camelback Desert School,private,9606 E KALIL DR,SCOTTSDALE,MARICOPA,85260,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Camino Montessori - Charter,charter,44301 W MARICOPA CASA GRANDE HWY,MARICOPA,PINAL,85138,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Camp Verde Elementary School,public,200 CAMP LINCOLN RD,CAMP VERDE,YAVAPAI,86322,n,,100,81,18,99,81,17,100,81,18,99,86,14,100,,14,100,18,0,13
+Camp Verde United Christian School,private,903 W FINNIE FLAT RD,CAMP VERDE,YAVAPAI,86322,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Campo Bello Elementary,public,2 650 E CONTENTION MINE ROAD,PHOENIX,MARICOPA,85032,y,rn,51,96,3.9,100,96,2,100,96,3.9,100,96,3.9,100,,0,100,2,2,2
+Candeo Schools,charter,9965 W CALLE LEJOS,PEORIA,MARICOPA,85383,n,,77,86,9.1,95,86,9.1,95,86,9.1,95,84,10.4,95,,10.4,99,9.1,1.3,9.1
+Canon School,public,18800 E SCHOOL HOUSE RD,BLACK CANYON CITY,YAVAPAI,85324,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Canyon Breeze Elementary,public,11675 W ENCANTO BLVD,AVONDALE,MARICOPA,85392,n,,75,95,0,95,95,0,97,97,0,97,96,0,96,,0,96,1.3,0,0
+Canyon De Chelly Elementary School,public,HWY 191,CHINLE,APACHE,86503,y,,58,100,0,100,100,0,100,100,0,100,100,0,100,,0,100,0,0,0
+Canyon Elementary,public,5490 W PARADISE LN,GLENDALE,MARICOPA,85306,y,rn,28,93,3.6,96,93,3.6,100,96,3.6,100,100,0,100,,0,100,3.6,0,0
+Canyon Pointe Academy,charter,4941 W UNION HILLS DR,GLENDALE,MARICOPA,85308,n,,44,80,20.5,100,80,20.5,100,80,20.5,100,80,20.5,100,,13.6,100,20.5,0,0
+Canyon Ridge Elementary,public,17359 W SURPRISE FARMS LOOP,SURPRISE,MARICOPA,85388,y,rn,83,93,6,99,93,6,99,93,6,99,95,3.6,99,,2.4,100,4.8,2.4,2.4
+Canyon Rim Elementary,public,3045 S CANYON RIM,MESA,MARICOPA,85212,y,rn,102,93,6.9,100,93,9.8,99,91,8.8,100,93,6.9,100,,6.9,100,9.8,0,6.9
+Canyon View Elementary School,public,5725 N SABINO CANYON RD,TUCSON,PIMA,85750,y,rn,53,98,1.9,100,98,1.9,100,98,1.9,100,98,1.9,100,,1.9,100,1.9,1.9,0
+Capitol Elementary School,public,330 N 16TH AVE,PHOENIX,MARICOPA,85007,y,rn,66,97,0,97,97,0,100,100,0,100,100,0,100,,0,100,0,0,0
+Carden Christian Academy Center,private,2727 N SWAN RD,TUCSON,PIMA,85712,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Carden Of Tucson,charter,5260 N ROYAL PALM DR,TUCSON,PIMA,85705,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Career Success - Sage Campus,charter,3120 N 32ND ST,PHOENIX,MARICOPA,85018,n,,37,97,2.7,100,97,5.4,100,97,2.7,100,95,5.4,100,,0,100,5.4,0,0
+Carmichael Elementary School,public,701 NE CARMICHAEL AVE,SIERRA VISTA,COCHISE,85635,y,rn,47,92,8.5,100,92,8.5,100,89,10.6,100,94,6.4,100,,0,100,6.4,2.1,0
+Carminati Elementary School,public,4001 S MCALLISTER AVE,TEMPE,MARICOPA,85282,y,rn,65,95,3.1,99,95,3.1,99,97,3.1,100,97,3.1,100,,3.1,100,3.1,0,3.1
+Carol G. Peck Elementary School,public,5810 N 49TH AVE,GLENDALE,MARICOPA,85301,n,,148,98,0,98,98,0,98,99,.7,99,99,0,99,,1.4,100,2,0,0
+Carol Rae Ranch Elementary,public,3777 E HOUSTON AVE,GILBERT,MARICOPA,85234,y,rn,89,93,5.6,99,93,5.6,99,94,5.6,100,93,6.7,100,,6.7,100,6.7,0,5.6
+Carrillo Intermediate Magnet School,public,440 S MAIN AVE,TUCSON,PIMA,85701,y,,49,100,0,100,100,0,100,100,0,100,100,0,100,,0,100,0,0,0
+Cartwright Elementary School,public,5833 W THOMAS RD,PHOENIX,MARICOPA,85031,y,lpn,69,99,1.4,100,99,0,100,100,0,100,100,0,100,,0,99,1.4,0,0
+Casa Academy,charter,1500 W MARYLAND AVE,PHOENIX,MARICOPA,85015,n,,63,100,0,100,100,0,100,100,0,100,100,0,100,,0,100,0,0,0
+Casa Blanca Community School,charter,3455 W. CASA BLANCA ROD,BAPCHULE,PINAL,85121,y,rn,50,96,0,96,96,0,100,100,0,100,100,0,100,,0,100,0,0,0
+Casa Ninos Montessori - East Campus,private,8655 E BROADWAY BLVD,TUCSON,PIMA,85710,y,rn,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Castlehill Country Day School Kinderarten,private,3225 N CRAYCROFT RD,TUCSON,PIMA,85712,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Catalina Ventura School,public,6331 N 39TH AVE,PHOENIX,MARICOPA,85019,y,rn,93,98,0,98,98,0,100,100,0,100,100,0,100,,0,100,0,0,0
+Caurus Academy,charter,41900 N 42ND AVE,ANTHEM,MARICOPA,85086,n,,45,69,8.9,78,69,8.9,78,69,8.9,78,76,8.9,84,,8.9,87,8.9,0,8.9
+Cave Creek Montessori School,private,29209 N 56TH ST,CAVE CREEK,MARICOPA,85331,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Cavett Elementary School,public,2120 E NACO VIS,TUCSON,PIMA,85713,y,rn,57,98,0,98,98,0,97,98,0,98,98,0,98,,0,100,0,0,0
+Cedar Hills School,public,9501 E NELLIE DR,KINGMAN,MOHAVE,86401,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Centennial Elementary,public,3507 S RANCH HOUSE PKWY,GILBERT,MARICOPA,85297,n,,105,97,2.9,100,97,3.8,100,96,3.8,100,96,3.8,100,,2.9,100,3.8,0,3.8
+Centennial Elementary School,public,2200 W WETMORE RD,TUCSON,PIMA,85705,n,,58,98,1.7,100,98,1.7,100,98,1.7,100,98,1.7,100,,1.7,100,1.7,0,1.7
+Center For Academic Success,charter,900 CARMELITA DR,SIERRA VISTA,COCHISE,85635,n,,47,100,0,100,100,0,100,100,0,100,100,0,100,,0,100,0,0,0
+Center For Educational Excellence,charter,1700 E ELLIOT RD,TEMPE,MARICOPA,85284,n,,38,95,5.3,100,95,5.3,100,95,5.3,100,95,5.3,100,,5.3,100,5.3,0,5.3
+Centerra Mirage Elementary,public,15151 W CENTERRA DR S,GOODYEAR,MARICOPA,85338,y,lpn,42,100,0,100,100,0,100,100,0,100,100,0,100,,0,100,0,0,0
+Cerbat Elementary,public,2689 E JAGERSON AVE,KINGMAN,MOHAVE,86409,y,rn,107,92,8.4,100,92,9.3,100,89,11.2,100,93,7.5,100,,2.8,100,12.1,0,.9
+Cesar Chavez Elementary,public,1130 N 10TH AVE,SAN LUIS,YUMA,85349,y,,95,100,0,100,100,0,100,100,0,100,100,0,100,,0,100,0,0,0
+Cesar Chavez Elementary School,public,4001 S 3RD ST,PHOENIX,MARICOPA,85040,y,lpn,55,100,0,100,100,0,100,100,0,100,100,0,100,,0,100,0,0,0
+Challenge Charter School,charter,5801 W GREENBRIAR DR,GLENDALE,MARICOPA,85308,n,,92,88,12,100,88,13,100,88,12,100,90,9.8,100,,9.8,100,13,0,6.5
+Challenger Basic School,charter,1315 N GREENFIELD RD,GILBERT,MARICOPA,85234,n,,49,90,10.2,100,90,10.2,100,88,12.2,100,88,12.2,100,,8.2,100,12.2,0,8.2
+Challenger Elementary School,public,901 E CALLE MAYER,NOGALES,SANTA CRUZ,85621,y,rn,86,99,0,99,99,0,100,100,0,100,100,0,100,,0,100,0,0,0
+Champion Schools,charter,250 S MCQUEEN RD,CHANDLER,MARICOPA,85225,n,,64,81,6.3,88,81,6.3,89,81,6.3,88,88,6.3,94,,6.3,95,6.3,0,4.7
+Champion Schools_correct Data,charter,7900 S JESSE OWENS PKWY,PHOENIX,MARICOPA,85042,n,,66,74,9.1,83,74,9.1,83,74,9.1,83,74,9.1,83,,9.1,83,9.1,0,9.1
+Chandler Christian Academy2,private,19620 S MCQUEEN RD,CHANDLER,MARICOPA,85286,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Chandler Traditional Academy - Freedom,public,6040 S JOSLYN LN,GILBERT,MARICOPA,85298,n,,92,94,6.5,100,94,7.6,100,92,7.6,100,94,5.4,99,,5.4,100,7.6,0,7.6
+Chandler Traditional Academy - Goodman Ca,public,2600 W KNOX RD,CHANDLER,MARICOPA,85224,n,,122,94,5.7,100,94,4.9,100,93,6.6,100,95,4.9,100,,2.5,100,9.8,0,2.5
+Chandler Traditional Academy - Independen,public,1405 W LAKE DR,SUN LAKES,MARICOPA,85248,y,rn,122,98,1.6,100,98,2.5,100,98,1.6,100,98,1.6,100,,.8,100,3.3,0,.8
+Chandler Traditional Academy - Liberty Ca,public,550 N EMMETT DR,CHANDLER,MARICOPA,85225,n,,120,98,1.7,100,98,1.7,100,98,1.7,100,97,3.3,100,,2.5,100,4.2,0,.8
+Chaparral Elementary School,public,3380 E FRYE RD,GILBERT,MARICOPA,85295,n,,147,93,4.8,97,93,5.4,99,94,5.4,99,92,6.8,99,,4.1,100,8.8,0,4.8
+Chaparral Elementary School,public,3808 W JOAN D`ARC,PHOENIX,MARICOPA,85029,n,,80,100,0,100,100,0,100,100,0,100,100,0,100,,0,100,0,0,0
+Charles W Harris Elementary School,public,2252 N 55TH AVE,PHOENIX,MARICOPA,85035,y,rn,112,97,0,97,97,0,99,97,0,97,99,0,99,,0,100,0,0,0
+Charles W Sechrist Elementary School,public,2230 N FORT VALLEY RD,FLAGSTAFF,COCONINO,86001,y,,85,93,7.1,100,93,8.2,100,94,5.9,100,94,5.9,100,,4.7,100,9.4,0,0
+Charlotte Patterson Elementary,public,7520 S. ADORA BVLD.,GILBERT,MARICOPA,85298,n,,149,94,6,100,94,5.4,100,93,6.7,100,94,6,100,,4,100,8.1,.7,3.4
+Cheatham Elementary School,public,4725 W SOUTH MOUNTAIN RD,LAVEEN,MARICOPA,85339,y,rn,80,95,0,95,95,0,98,99,0,99,96,0,96,,0,100,0,0,0
+Cheyenne Elementary,public,11806 N 87TH AVE,PEORIA,MARICOPA,85345,y,rn,65,99,1.5,100,99,1.5,100,97,1.5,99,99,1.5,100,,1.5,100,1.5,0,1.5
+Cheyenne Traditional Elementary School,public,13636 N 100TH ST,SCOTTSDALE,MARICOPA,85260,y,rn,93,96,4.3,100,96,4.3,100,95,5.4,100,96,4.3,100,,4.3,100,6.5,1.1,3.2
+Children First Leadership Academy,charter,1648 S 16TH ST,PHOENIX,MARICOPA,85034,y,rn,24,100,0,100,100,0,100,100,0,100,100,0,100,,0,100,0,0,0
+Children Reaching For The Sky Preparatory,charter,1844 S ALVERNON WAY,TUCSON,PIMA,85711,n,,38,97,2.6,100,97,2.6,100,97,2.6,100,97,2.6,100,,2.6,100,2.6,0,0
+Chinle Boarding School,public,2600 LAKEVIEW DRIVE,MANY FARMS,APACHE,86538,n,,27,100,0,100,100,0,100,100,0,100,100,0,100,,0,100,0,0,0
+Chinle Elementary School,public,HWY 191 AND NAVAJO ROUTE 7,CHINLE,APACHE,86503,y,rn,64,100,0,100,100,0,100,100,0,100,100,0,100,,0,100,0,0,0
+Cholla Elementary School,public,1180 E KORTSEN RD,CASA GRANDE,PINAL,85222,y,rn,72,97,1.4,99,97,1.4,99,97,1.4,99,97,1.4,99,,1.4,99,1.4,0,1.4
+Christ Church School,private,4015 E LINCOLN DR,PARADISE VALLEY,MARICOPA,85253,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Christ Lutheran School,private,3901 E INDIAN SCHOOL RD,PHOENIX,MARICOPA,85018,y,rn,38,90,10.5,100,90,7.9,100,82,15.8,97,84,15.8,100,,5.3,100,18.4,0,5.3
+Christ The King Catholic Elementary School,private,1551 E DANA AVE,MESA,MARICOPA,85204,y,rn,29,97,3.4,100,97,3.4,100,97,3.4,100,93,6.9,100,,6.9,100,6.9,0,0
+Christ's Greenfield Lutheran School,private,425 N GREENFIELD RD,GILBERT,MARICOPA,85234,n,,40,90,10,100,90,10,100,93,7.5,100,93,7.5,100,,7.5,100,10,0,7.5
+Christian Academy Of Prescott,private,148 S MARINA ST,PRESCOTT,YAVAPAI,86303,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Cimarron Springs Elementary School,public,17032 W SURPRISE FARMS LOOP S,SURPRISE,MARICOPA,85388,y,lpn,95,98,2.1,100,98,2.1,100,97,2.1,99,98,2.1,100,,2.1,100,2.1,0,2.1
+Circle Cross Ranch K-8 School,public,35900 N CHARBRAY,QUEEN CREEK,MARICOPA,85242,n,,82,88,12.2,100,88,12.2,95,84,11,95,89,11,100,,8.5,100,7.3,4.9,7.3
+Civano Community School,public,10625 E DREXEL RD,TUCSON,PIMA,85747,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Clarkdale-jerome Elementary School,public,1615 MAIN ST,CLARKDALE,YAVAPAI,86324,n,,31,77,0,77,77,0,77,84,0,84,87,0,87,,0,97,0,0,0
+Clawson School,public,1235 E 7TH ST,DOUGLAS,COCHISE,85607,y,rn,50,100,0,100,100,0,100,98,0,98,100,0,100,,0,98,0,0,0
+Cloves Campbell Elementary School,public,2624 E SOUTH MOUNTAIN AVE,PHOENIX,MARICOPA,85042,n,,44,98,2.3,100,98,2.3,100,98,2.3,100,98,2.3,100,,2.3,100,2.3,0,0
+Cochise Elementary School,public,9451 N 84TH ST,SCOTTSDALE,MARICOPA,85258,y,rn,72,88,12.5,100,88,13.9,100,88,12.5,100,85,15.3,100,,13.9,100,15.3,0,8.3
+Cochise Elementary School,public,5025 BOWIE AVE,COCHISE,COCHISE,85606,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Cochise Sda Christian School,private,4162 S. NACO HIGHWAY,BISBEE,COCHISE,85603,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Colegio Petite,charter,850 N MORLEY AVE,NOGALES,SANTA CRUZ,85621,n,,24,67,0,67,67,0,58,63,0,63,96,0,96,,0,83,0,0,0
+Collier Elementary,public,350 S 118TH AVE,AVONDALE,MARICOPA,85323,y,rn,95,87,3.2,91,87,2.1,97,90,3.2,93,97,2.1,99,,3.2,100,3.2,0,3.2
+Collier Elementary School,public,3900 N BEAR CANYON RD,TUCSON,PIMA,85749,y,rn,29,86,0,86,86,0,83,90,0,90,97,0,97,,0,97,0,0,0
+Colonel Johnston Elementary School,public,47121 H AVENUE,FORT HUACHUCA,COCHISE,85613,y,rn,109,100,0,100,100,0,100,100,0,100,100,0,100,,0,100,0,0,0
+Combs Traditional School,public,37327 N GANTZEL RD,SAN TAN VALLEY,PINAL,85240,y,rn,37,95,5.4,100,95,5.4,100,92,8.1,100,92,8.1,100,,10.8,100,10.8,0,2.7
+Concho Elementary School,public,HWY 61 AND CINDER RD/6 COUNTY RD 5101,CONCHO,APACHE,85924,y,,23,70,26.1,96,70,26.1,83,52,26.1,78,74,26.1,100,,26.1,96,26.1,0,0
+Congregation Anshei Israel Esther B Feldman Preschool/kindergarten,private,5550 E 5TH ST,TUCSON,PIMA,85711,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Congress Elementary School,public,26400 S TENDERFOOT HILL RD,CONGRESS,YAVAPAI,85332,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Constitution Elementary School,public,18440 N 15TH AVE,PHOENIX,MARICOPA,85023,y,rn,91,100,0,100,100,0,100,100,0,100,99,0,99,,0,100,0,0,0
+Continental Elementary School,public,1991 E WHITEHOUSE CANYON RD,GREEN VALLEY,PIMA,85614,y,rn,59,100,0,100,100,0,100,100,0,100,100,0,100,,0,100,0,0,0
+Copper Basin K-8,public,28682 N MAIN ST,SAN TAN VALLEY,PINAL,85143,y,rn,61,90,6.6,97,90,6.6,98,89,6.6,95,92,6.6,98,,6.6,100,6.6,0,6.6
+Copper Canyon Academy,charter,7785 W PEORIA AVE,PEORIA,MARICOPA,85345,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Copper Canyon Elementary School,public,17630 N 54TH ST,SCOTTSDALE,MARICOPA,85254,y,,108,100,0,100,100,0,100,99,.9,100,98,1.9,100,,0,100,3.7,0,0
+Copper Creek Elementary,public,11620 N COPPER SPRING TRL,TUCSON,PIMA,85737,n,,78,97,2.6,100,97,2.6,100,97,2.6,100,97,2.6,100,,1.3,100,1.3,1.3,1.3
+Copper Creek Elementary,public,7071 W HILLCREST BLVD,GLENDALE,MARICOPA,85310,y,rn,91,97,3.3,100,97,3.3,100,98,2.2,100,96,3.3,99,,2.2,100,3.3,0,2.2
+Copper King Elementary,public,10730 W CAMPBELL AVE,PHOENIX,MARICOPA,85037,y,,84,89,10.7,100,89,9.5,100,93,7.1,100,98,2.4,100,,0,100,8.3,0,0
+Copper Ridge Elementary School,public,17650 S. CANYON EDGE TRAIL,CORONA DE TUCSON,PIMA,85641,n,,64,98,1.6,100,98,1.6,100,98,1.6,100,97,3.1,100,,1.6,100,3.1,0,0
+Copper Ridge School,public,10101 E THOMPSON PEAK PKWY,SCOTTSDALE,MARICOPA,85255,y,rn,82,94,6.1,100,94,6.1,100,93,7.3,100,98,2.4,100,,3.7,100,4.9,1.2,1.2
+Copper Rim Elementary School,public,1600 E MESQUITE ST,GLOBE,GILA,85501,y,rn,103,98,1,99,98,1,99,99,1,100,99,1,100,,1,100,1,0,0
+Copper Trail Elementary,public,16875 W CANYON TRAILS BLVD,GOODYEAR,MARICOPA,85338,y,lpn,112,96,3.6,100,96,3.6,100,97,2.7,100,96,3.6,100,,0,100,2.7,0,0
+Copper View Elementary School,public,16200 S STARLIGHT VIEW LN,SAHUARITA,PIMA,85629,n,,94,98,0,98,98,0,98,96,0,96,98,0,98,,1.1,100,1.1,0,1.1
+Copperwood,public,11232 N 65TH AVE,GLENDALE,MARICOPA,85304,y,rn,87,92,1.1,93,92,1.1,94,91,1.1,92,94,1.1,95,,1.1,100,1.1,0,0
+Cordova,public,5631 N 35TH AVE,PHOENIX,MARICOPA,85017,n,,72,100,0,100,100,0,100,100,0,100,100,0,100,,0,100,0,1.4,0
+Coronado Elementary,public,4333 S DEANZA BLVD,GILBERT,MARICOPA,85297,n,,91,91,8.8,100,91,8.8,100,91,8.8,100,91,8.8,100,,6.6,100,12.1,1.1,0
+Coronado Elementary School,public,50 N WATER ST,SAINT JOHNS,APACHE,85936,n,,58,86,13.8,100,86,12.1,100,88,12.1,100,86,13.8,100,,0,100,12.1,3.4,0
+Coronado K-8 School,public,3401 E WILDS RD,TUCSON,PIMA,85739,y,rn,67,100,0,100,100,0,100,99,1.5,100,100,0,100,,0,100,1.5,0,1.5
+Coronado School,public,5148 S CORONADO SCHOOL DR,SIERRA VISTA,COCHISE,85650,y,rn,32,97,3.1,100,97,3.1,100,97,3.1,100,97,3.1,100,,3.1,100,3.1,0,3.1
+Corte Sierra Elementary School,public,3300 N SANTA FE TRL,AVONDALE,MARICOPA,85392,y,rn,122,100,0,100,100,0,100,100,0,100,100,0,100,,0,100,0,0,0
+Cortez Park Charter Elementary,charter,3535 W DUNLAP AVE,PHOENIX,MARICOPA,85051,n,,105,95,1.9,97,95,1.9,100,97,1.9,99,97,1.9,99,,1.9,100,1.9,0,1.9
+Cortina Elementary,public,19680 S 188TH ST,QUEEN CREEK,MARICOPA,85242,y,rn,119,95,5,100,95,5,100,94,5.9,100,95,5,100,,5,100,6.7,0,6.7
+Cotton Boll Elementary,public,8540 W BUTLER DR,PEORIA,MARICOPA,85345,y,rn,83,94,4.8,99,94,4.8,99,94,4.8,99,94,4.8,99,,4.8,99,4.8,0,0
+Cottonwood Elementary,public,1667 N KADOTA AVE,CASA GRANDE,PINAL,85122,y,rn,70,96,0,96,96,0,100,100,0,100,100,0,100,,0,100,0,0,0
+Cottonwood Elementary,public,9950 E REES LOOP,TUCSON,PIMA,85747,n,,99,99,0,99,99,0,100,99,0,99,100,0,100,,0,100,0,0,0
+Country Gardens Charter School,charter,6313 W SOUTHERN AVE,LAVEEN,MARICOPA,85339,n,,29,93,6.9,100,93,6.9,100,93,6.9,100,93,6.9,100,,0,93,6.9,0,0
+Country Meadows Elementary School,public,8409 N 111TH AVE,PEORIA,MARICOPA,85345,y,rn,104,97,0,97,97,0,97,99,0,99,98,0,98,,0,99,0,0,0
+Country Place Elementary,public,10207 W COUNTRY PLACE BLVD,TOLLESON,MARICOPA,85353,y,lpn,96,97,2.1,99,97,2.1,100,98,2.1,100,98,2.1,100,,2.1,100,2.1,0,2.1
+Countryside Elementary,public,15034 N PARKVIEW PL,SURPRISE,MARICOPA,85379,y,lpn,61,97,3.3,100,97,1.6,100,97,3.3,100,95,4.9,100,,3.3,100,4.9,0,3.3
+Coyote Canyon School,public,1820 LAKESIDE DR,BULLHEAD CITY,MOHAVE,86442,n,,75,96,1.3,97,96,2.7,99,92,8,100,95,4,99,,4,100,8,1.3,1.3
+Coyote Hills Elementary,public,21180 N 87TH AVE,PEORIA,MARICOPA,85382,y,rn,68,96,2.9,99,96,2.9,99,96,2.9,99,99,1.5,100,,0,100,2.9,0,0
+Coyote Ridge,public,7677 W BETHANY HOME RD,GLENDALE,MARICOPA,85303,y,rn,78,90,2.6,92,90,2.6,97,96,1.3,97,99,1.3,100,,1.3,100,2.6,0,0
+Coyote Springs Elementary School,public,6625 E. CATTLETRACK,PRESCOTT VALLEY,YAVAPAI,86314,y,lpn,78,92,7.7,100,92,7.7,100,92,7.7,100,92,7.7,100,,7.7,100,9,0,7.7
+Coyote Trail Elementary School,public,8000 N SILVERBELL RD,TUCSON,PIMA,85743,n,,64,91,9.4,100,91,9.4,100,91,9.4,100,95,4.7,100,,4.7,100,9.4,0,3.1
+Cradleboard School,public,7301 N POWERLINE RD,WHITERIVER,NAVAJO,85941,n,,50,100,0,100,100,0,100,100,0,100,100,0,100,,0,100,0,0,0
+Cragin Elementary School,public,2945 N TUCSON BLVD,TUCSON,PIMA,85716,y,rn,49,86,4.1,90,86,4.1,96,92,6.1,98,98,2,100,,0,100,4.1,2,4.1
+Craycroft Elementary School,public,5455 E LITTLETOWN RD,TUCSON,PIMA,85756,y,rn,114,95,5.3,100,95,5.3,100,95,5.3,100,95,5.3,100,,0,100,5.3,0,5.3
+Create Academy Charter School,charter,2645 N 24TH ST,PHOENIX,MARICOPA,85008,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Creighton Elementary School,public,2802 E MCDOWELL RD,PHOENIX,MARICOPA,85008,y,lpn,66,100,0,100,100,0,100,100,0,100,100,0,100,,0,100,0,0,0
+Crismon Elementary School,public,825 W MEDINA AVE,MESA,MARICOPA,85210,y,rn,87,94,3.4,98,94,2.3,98,97,3.4,100,95,4.6,100,,0,100,5.7,0,2.3
+Crockett Elementary School,public,501 N 36TH ST,PHOENIX,MARICOPA,85008,y,lpn,50,96,4,100,96,4,100,96,4,100,96,4,100,,4,100,4,0,0
+Crown Charter School,charter,12450 W MARYLAND AVE,LITCHFIELD PARK,MARICOPA,85340,n,,94,100,0,100,100,0,100,100,0,100,100,0,100,,0,100,0,0,0
+Curiel Primary School,public,1000 N CURIEL ST,ELOY,PINAL,85131,y,rn,91,100,0,100,100,0,100,100,0,100,100,0,100,,0,100,0,0,0
+Curry Elementary School,public,1974 E MEADOW DR,TEMPE,MARICOPA,85282,y,rn,90,94,4.4,99,94,4.4,100,96,4.4,100,96,4.4,100,,3.3,100,4.4,0,4.4
+Dan Hinton,public,150 E 400 S,PIMA,GRAHAM,85543,y,rn,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Davidson Elementary School,public,3915 E FORT LOWELL RD,TUCSON,PIMA,85712,y,rn,47,100,0,100,100,0,100,100,0,100,100,0,100,,0,100,0,0,0
+Davis Bilingual Magnet School,public,500 W SAINT MARYS RD,TUCSON,PIMA,85701,y,rn,49,98,2,100,98,0,100,98,2,100,100,0,100,,0,100,2,0,0
+Dayspring Kindergarten,private,1365 E ELLIOT RD,TEMPE,MARICOPA,85284,n,,24,92,8.3,100,92,12.5,100,88,12.5,100,96,4.2,100,,8.3,100,12.5,0,0
+"Deer Valley Unified School Dist # 97, Canyon Springs",public,42901 N 45TH AVE,PHOENIX,MARICOPA,85087,y,rn,61,93,4.9,98,93,4.9,97,93,4.9,98,95,4.9,100,,4.9,100,4.9,0,0
+Degrazia Elementary School,public,5051 W OVERTON RD,TUCSON,PIMA,85742,y,rn,55,96,3.6,100,96,1.8,100,96,3.6,100,98,1.8,100,,1.8,100,3.6,0,3.6
+Demiguel Elementary,public,3500 S GILLENWATER DR,FLAGSTAFF,COCONINO,86005,y,rn,134,89,10.4,99,89,9,100,90,9.7,100,93,7.5,100,,11.2,100,11.2,0,7.5
+Dennehotso Boarding School,private,EAST HIGHWAY 160,DENNEHOTSO,APACHE,86353,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Desert Canyon Middle School,public,10203 E MCDOWELL MOUNTAIN RANCH RD,SCOTTSDALE,MARICOPA,85255,y,rn,80,88,6.3,94,88,5,91,89,6.3,95,90,7.5,98,,6.3,99,11.3,0,5
+Desert Christian Schools K-8,private,9415 E WRIGHTSTOWN RD,TUCSON,PIMA,85715,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Desert Cove Elementary School,public,11020 N 28TH ST,PHOENIX,MARICOPA,85028,n,,72,93,5.6,99,93,5.6,99,93,5.6,99,94,4.2,99,,4.2,100,5.6,0,5.6
+Desert Garden Elementary School,public,7020 W OCOTILLO RD,GLENDALE,MARICOPA,85303,y,lpn,172,79,.6,80,79,.6,87,84,.6,84,92,.6,93,,0,98,0,.6,0
+Desert Garden Montessori,private,5130 E WARNER RD,PHOENIX,MARICOPA,85044,n,,23,39,13,52,39,17.4,65,44,17.4,61,78,21.7,100,,21.7,96,21.7,0,13
+Desert Heights Charter School,charter,5821 W BEVERLY LN,GLENDALE,MARICOPA,85306,n,,92,94,6.5,100,94,9.8,100,91,8.7,100,95,5.4,100,,3.3,100,4.3,7.6,3.3
+Desert Horizon Elementary School,public,8525 W OSBORN RD,PHOENIX,MARICOPA,85037,y,lpn,106,90,0,90,90,0,94,99,0,99,100,0,100,,0,84,0,0,0
+Desert Jewish Academy,private,3400 N DOBSON RD,CHANDLER,MARICOPA,85224,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Desert Meadows Elementary School,public,6855 W MEADOWS LOOP E,LAVEEN,MARICOPA,85339,y,rn,66,94,3,97,94,3,100,96,3,99,97,3,100,,3,100,3,0,3
+Desert Mirage,public,8605 W MARYLAND AVE,GLENDALE,MARICOPA,85305,n,,71,96,4.2,100,96,4.2,100,96,4.2,100,96,4.2,100,,4.2,100,4.2,0,0
+Desert Mountain Elementary,public,22301 S HAWES RD,QUEEN CREEK,MARICOPA,85242,y,rn,111,95,5.4,100,95,5.4,100,96,4.5,100,94,6.3,100,,2.7,100,8.1,0,1.8
+Desert Mountain Middle School,public,35959 N 7TH AVE,DESERT HILLS,MARICOPA,85086,y,rn,48,83,16.7,100,83,16.7,100,83,16.7,100,96,4.2,100,,14.6,100,16.7,0,0
+Desert Oasis Elementary School,public,8802 W MCDOWELL RD,PHOENIX,MARICOPA,85037,y,lpn,76,100,0,100,100,0,100,100,0,100,100,0,100,,0,100,0,0,0
+Desert Oasis Elementary School,public,17161 W BAJADA RD,SURPRISE,MARICOPA,85387,y,rn,50,96,4,100,96,4,100,94,4,98,96,4,100,,4,100,4,0,2
+Desert Palms,public,11441 N 55TH AVE,GLENDALE,MARICOPA,85304,y,lpn,56,96,1.8,98,96,1.8,98,95,1.8,96,98,1.8,100,,1.8,100,1.8,0,1.8
+Desert Sage Elementary School,public,4035 W ALAMEDA RD,GLENDALE,MARICOPA,85310,y,rn,100,92,8,100,92,8,100,92,8,100,95,5,100,,0,100,7,1,5
+Desert Shadows Elementary School,public,5902 E SWEETWATER AVE,SCOTTSDALE,MARICOPA,85254,y,rn,52,85,9.6,94,85,9.6,94,87,9.6,96,90,9.6,100,,9.6,100,9.6,0,9.6
+Desert Sky Community School,charter,1350 N ARCADIA AVE,TUCSON,PIMA,85712,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Desert Sonora Elementary School,public,301 N CARLISLE AVE,SOMERTON,YUMA,85350,y,rn,64,95,1.6,97,95,3.1,100,97,3.1,100,100,0,100,,0,100,3.1,0,0
+Desert Spirit,public,7355 W ORANGEWOOD AVE,GLENDALE,MARICOPA,85303,y,rn,78,96,1.3,97,96,1.3,99,100,0,100,95,1.3,96,,0,100,1.3,0,1.3
+Desert Springs Academy,charter,10129 E SPEEDWAY BLVD,TUCSON,PIMA,85748,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Desert Springs Preparatory Elementary School,public,6010 E ACOMA DR,SCOTTSDALE,MARICOPA,85254,y,rn,65,94,4.6,99,94,9.2,100,91,9.2,100,89,10.8,100,,3.1,100,12.3,1.5,6.2
+Desert Star Elementary School,public,2131 S 157TH AVE,GOODYEAR,MARICOPA,85338,y,rn,69,94,1.4,96,94,1.4,96,94,1.4,96,99,1.4,100,,1.4,100,1.4,0,1.4
+Desert Sun Academy,charter,27880 N 64TH ST,SCOTTSDALE,MARICOPA,85266,n,,55,93,7.3,100,93,7.3,96,91,9.1,100,93,5.5,98,,5.5,100,9.1,0,5.5
+Desert Sun Child Development Center,private,1512 W ELLIOT RD,CHANDLER,MARICOPA,85224,n,,21,71,19,91,71,19,91,71,19,91,71,19,91,,19,91,19,0,19
+Desert Thunder School,public,16750 W GARFIELD ST,GOODYEAR,MARICOPA,85338,y,lpn,84,99,1.2,100,99,1.2,100,99,1.2,100,99,1.2,100,,1.2,100,1.2,0,1.2
+Desert Trails Elementary School,public,4315 E CASHMAN DR,PHOENIX,MARICOPA,85050,y,rn,85,97,3.5,100,97,3.5,100,97,3.5,100,97,3.5,100,,3.5,100,3.5,0,3.5
+Desert Valley Elementary,public,12901 N 63RD AVE,GLENDALE,MARICOPA,85304,y,rn,52,98,0,98,98,0,100,100,0,100,100,0,100,,0,100,0,0,0
+Desert Valley Elementary-2,public,1066 MARINA BLVD,BULLHEAD CITY,MOHAVE,86442,n,,63,97,1.6,98,97,1.6,98,98,1.6,100,100,0,100,,1.6,100,1.6,0,0
+Desert View Academy,charter,3777 W 16TH ST,YUMA,YUMA,85364,n,,152,95,4.6,100,95,2,100,97,3.3,100,99,1.3,100,,.7,100,3.3,.7,0
+Desert View Elementary,public,1508 N 10TH AVE,SAN LUIS,YUMA,85349,n,,97,100,0,100,100,0,100,100,0,100,100,0,100,,0,100,0,0,0
+Desert View Elementary School,public,8621 N 3RD ST,PHOENIX,MARICOPA,85020,y,rn,47,87,10.6,98,87,10.6,98,92,8.5,100,87,10.6,98,,0,100,10.6,0,8.5
+Desert Vista Elementary School,public,3701 E BROADWAY AVE,APACHE JUNCTION,PINAL,85119,y,lpn,85,100,0,100,100,0,100,100,0,100,99,0,99,,0,100,0,0,0
+Desert Willow Elementary,public,4322 E DESERT WILLOW PKWY,CAVE CREEK,MARICOPA,85331,n,,73,96,4.1,100,96,4.1,99,92,8.2,100,95,5.5,100,,4.1,100,8.2,0,5.5
+Desert Willow Elementary,public,9400 E ESMOND LOOP,TUCSON,PIMA,85747,n,,127,96,3.9,100,96,3.1,100,96,3.9,100,97,3.1,100,,3.1,100,3.1,.8,3.1
+Desert Willow Elementary School,public,2172 N ARIZOLA RD,CASA GRANDE,PINAL,85122,y,rn,62,98,1.6,100,98,1.6,100,98,1.6,100,98,1.6,100,,1.6,100,1.6,0,0
+Desert Willow Elementary School,public,3700 PROSPECTOR ST,KINGMAN,MOHAVE,86401,n,,67,93,7.5,100,93,7.5,100,93,7.5,100,93,7.5,100,,3,100,7.5,0,7.5
+Deserty Shadows Montessori,private,6709 E UNIVERSITY DR,MESA,MARICOPA,85205,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Destiny School,public,22 E PRICKLY PEAR DR,GLOBE,GILA,85501,n,,43,98,2.3,100,98,2.3,100,98,2.3,100,98,2.3,100,,2.3,100,2.3,0,2.3
+Diamond Canyon Elementary,public,40004 N LIBERTY BELL WAY,ANTHEM,MARICOPA,85086,y,rn,96,95,5.2,100,95,3.1,100,96,4.2,100,95,5.2,100,,3.1,100,5.2,0,0
+Diamondback Elementary School,public,2550 TESOTA WAY,BULLHEAD CITY,MOHAVE,86442,y,rn,103,99,1,100,99,1,100,99,1,100,99,1,100,,1,100,1,0,0
+Dietz Elementary School,public,7575 E PALMA ST,TUCSON,PIMA,85710,y,rn,57,81,3.5,84,81,3.5,90,95,3.5,98,83,5.3,88,,3.5,98,5.3,0,3.5
+Dilworth Brinton Elementary,public,11455 E SUNLAND AVE,MESA,MARICOPA,85208,n,rn,75,93,6.7,100,93,6.7,100,93,6.7,100,93,6.7,100,,0,100,8,0,0
+Discover U,charter,13226 N 113TH AVE,YOUNGTOWN,MARICOPA,85363,n,,32,75,25,100,75,25,100,75,25,100,78,21.9,100,,21.9,100,25,0,21.9
+Discovery Elementary,public,7910 W MARYLAND AVE,GLENDALE,MARICOPA,85303,y,rn,63,100,0,100,100,0,100,100,0,100,100,0,100,,0,100,0,0,0
+Discovery Plus Academy,charter,852 W 250 N,PIMA,GRAHAM,85543,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+"Dishcii""bikosh Community School",private,211 S. ELM ST.,CIBECUE,NAVAJO,85911,y,rn,58,100,0,100,100,0,100,100,0,100,100,0,100,,0,100,0,0,0
+Dobson Academy A-ball Charter School,charter,2207 N DOBSON RD,CHANDLER,MARICOPA,85224,n,,60,88,3.3,92,88,3.3,92,87,3.3,90,93,3.3,97,,1.7,97,3.3,0,0
+Dobson Montessori K-12,private,745 S EXTENSION RD,MESA,MARICOPA,85210,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Donaldson Elementary,public,2040 W OMAR DR,TUCSON,PIMA,85704,n,,45,98,0,98,98,0,100,100,0,100,100,0,100,,0,100,0,0,0
+Dorothy Stinson School,public,2013 S 8TH AVE,SAFFORD,GRAHAM,85546,y,rn,88,98,0,98,98,0,99,99,0,99,100,0,100,,0,100,0,0,0
+Dos Rios,public,2150 S 87TH AVE,TOLLESON,MARICOPA,85353,n,,73,88,12.3,100,88,8.2,100,99,1.4,100,97,1.4,99,,0,100,1.4,0,0
+Double Adobe Elementary School,public,7081 N CENTRAL HWY,MC NEAL,COCHISE,85617,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Dr Daniel Bright Elementary School,public,1500 S MONTE TESORO DR,COTTONWOOD,YAVAPAI,86326,n,,120,88,7.5,96,88,5,96,93,5,98,94,3.3,98,,10,100,10,.8,2.5
+Dr Howard K Conley Elementary School,public,500 S ARROWHEAD DR,CHANDLER,MARICOPA,85224,n,,95,91,9.5,100,91,7.4,100,93,7.4,100,96,4.2,100,,3.2,100,7.4,0,3.2
+Dr. Charles A. Bejarano Elementary School,public,4635 E RAGUS RD B,MIAMI,GILA,85539,n,,98,90,3.1,93,90,3.1,74,70,3.1,74,89,3.1,92,,3.1,98,2,1,0
+Dr. Gary And Annette Auxier Elementary School,public,22700 S POWER RD,QUEEN CREEK,MARICOPA,85142,n,,133,87,13.5,100,87,14.3,100,89,11.3,100,90,10.5,100,,7.5,100,17.3,0,6
+Drachman Primary Magnet School,public,1085 S 10TH AVE,TUCSON,PIMA,85701,y,rn,56,96,3.6,100,96,3.6,100,96,3.6,100,96,3.6,100,,3.6,100,3.6,0,0
+Dreaming Summit Elementary,public,13335 W MISSOURI AVE,LITCHFIELD PARK,MARICOPA,85340,y,lpn,105,95,1.9,97,95,1.9,98,95,1.9,97,97,1.9,99,,1,100,1,1,1
+Drexel Elementary School,public,801 E DREXEL RD,TUCSON,PIMA,85706,y,rn,66,99,0,99,99,0,99,100,0,100,99,0,99,,0,100,0,0,0
+Duncan Elementary School,public,1 MCGRATH AVE,DUNCAN,GREENLEE,85534,n,,29,97,0,97,97,0,93,93,0,93,97,0,97,,0,97,0,0,0
+Dunham Elementary School,public,9850 E 29TH ST,TUCSON,PIMA,85748,y,rn,47,96,4.3,100,96,4.3,100,96,4.3,100,96,4.3,100,,0,100,4.3,0,0
+Dwight Patterson Elementary,public,615 S CHESHIRE,MESA,MARICOPA,85208,y,rn,80,90,10,100,90,7.5,100,93,7.5,100,93,7.5,100,,1.3,100,7.5,3.8,0
+Dysart Elementary School,public,12950 W VARNEY RD,EL MIRAGE,MARICOPA,85335,y,lpn,89,96,4.5,100,96,4.5,100,96,4.5,100,97,3.4,100,,3.4,100,4.5,1.1,2.2
+Dzil Libei Elementary School/ Tuba City Unified School District #15,public,"50 MILES NORTH OF FLAGSTAFF HWY 89, MILE POST 463",CAMERON,COCONINO,86020,n,lpn,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Eagle College Prep,charter,2450 W SOUTH MOUNTAIN AVE,PHOENIX,MARICOPA,85041,n,,73,95,0,95,95,0,96,95,0,95,95,0,95,,0,99,0,0,0
+Eagle College Prep Harmony,charter,2435 E PECAN RD,PHOENIX,MARICOPA,85040,n,,45,98,2.2,100,98,2.2,100,98,2.2,100,98,2.2,100,,2.2,100,2.2,0,2.2
+Eagle College Prep Maryvale,charter,3950 N 53RD AVE,PHOENIX,MARICOPA,85031,n,,53,100,0,100,100,0,100,98,1.9,100,100,0,100,,0,100,0,1.9,0
+Eagle College Prep:mesa,charter,1619 E MAIN ST,MESA,MARICOPA,85203,n,,36,92,8.3,100,92,0,100,100,0,100,100,0,100,,0,100,8.3,0,0
+Eagle Ridge Elementary School,public,19801 N 13TH ST,PHOENIX,MARICOPA,85024,y,rn,49,96,0,96,96,0,98,100,0,100,100,0,100,,0,100,0,0,0
+Eagleridge Enrichment Program,public,1313 W MEDINA AVE,MESA,MARICOPA,85202,y,rn,80,63,37.5,100,63,35,100,65,35,100,68,32.5,100,,37.5,100,36.3,1.3,0
+East Fork Lutheran School,private,4325 FORT APACHE RD,WHITERIVER,NAVAJO,85941,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+East Valley Academy,charter,1858 E BROWN RD,MESA,MARICOPA,85203,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Echo Mountain Primary School,public,1750 E GROVERS AVE,PHOENIX,MARICOPA,85022,y,rn,132,95,5.3,100,95,5.3,99,94,5.3,99,95,5.3,100,,2.3,100,5.3,0,5.3
+Ed and Verma Pastor Elementary School,public,2101 W ALTA VISTA RD,PHOENIX,MARICOPA,85041,y,lpn,54,98,0,98,98,1.9,100,98,1.9,100,98,1.9,100,,1.9,100,1.9,0,1.9
+Edison Elementary School,charter,545 N HORNE,MESA,MARICOPA,85203,y,rn,88,91,9.1,100,91,6.8,100,93,6.8,100,94,5.7,100,,0,100,6.8,2.3,0
+Edupreneurship Student Center (esc) Phoen,charter,7310 N 27TH AVE,PHOENIX,MARICOPA,85051,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Eduprize School,charter,4567 W ROBERTS RD,QUEEN CREEK,PINAL,85142,y,rn,190,91,8.9,100,91,9.5,100,91,8.9,100,90,10,100,,7.9,100,7.9,.5,7.9
+Eduprize School Gilbert,charter,580 W MELODY AVE,GILBERT,MARICOPA,85233,y,rn,180,87,12.8,100,87,12.8,100,88,12.2,100,86,13.9,100,,11.1,100,14.4,0,6.1
+Eisenhower Elementary School,public,848 N MESA DR,MESA,MARICOPA,85201,y,rn,60,97,0,97,97,0,98,97,1.7,98,98,0,98,,0,100,1.7,0,0
+El Dorado Private School K-8,private,20624 N 76TH ST,SCOTTSDALE,MARICOPA,85255,n,,22,100,0,100,100,0,100,100,0,100,100,0,100,,0,100,0,0,0
+El Mirage Elementary,public,13500 N EL MIRAGE RD,EL MIRAGE,MARICOPA,85335,y,lpn,56,98,0,98,98,0,98,100,0,100,100,0,100,,0,100,0,0,0
+Elfrida Elementary School,public,4070 W JEFFERSON RD,ELFRIDA,COCHISE,85610,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Elgin Elementary School,public,293 UPPER ELGIN RD,ELGIN,SANTA CRUZ,85611,y,rn,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Ellsworth Elementary,public,1651 E PIMA RD,SAN TAN VALLEY,PINAL,85140,n,,89,89,6.7,96,89,5.6,99,89,5.6,94,93,5.6,99,,0,94,6.7,0,5.6
+Elvira Elementary,public,250 W ELVIRA RD,TUCSON,PIMA,85756,y,rn,81,100,0,100,100,0,100,100,0,100,100,0,100,,0,100,0,0,0
+Emerson,public,415 N WESTWOOD,MESA,MARICOPA,85201,y,,121,89,9.9,99,89,2.5,99,98,2.5,100,95,4.1,99,,1.7,100,1.7,9.9,1.7
+Emmanuel Christian Academy,private,3120 HUALAPAI MOUNTAIN RD,KINGMAN,MOHAVE,86401,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Emmanuel Lutheran School,private,715 W SOUTHERN AVE,TEMPE,MARICOPA,85282,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Emmaus Lutheran School,private,3841 W SWEETWATER AVE,PHOENIX,MARICOPA,85029,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Enchanted Home Montessori School,private,5452 W WHISPERING WIND DR,GLENDALE,MARICOPA,85310,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Entz Elementary School,public,4132 E ADOBE ST,MESA,MARICOPA,85205,y,rn,87,86,13.8,100,86,13.8,100,86,13.8,100,85,14.9,100,,14.9,100,14.9,0,12.6
+Esmond Station School,public,9400 S ATTERBURY WASH WAY,TUCSON,PIMA,85747,n,,56,98,1.8,100,98,1.8,100,98,1.8,100,100,0,100,,0,100,1.8,0,0
+Esperanza Elementary School,public,3025 W MCDOWELL RD,PHOENIX,MARICOPA,85009,n,,121,100,0,100,100,0,100,100,0,100,100,0,100,,0,100,0,0,0
+Esperanza Elementary School,public,251 W MOHAWK LN,PHOENIX,MARICOPA,85027,y,,97,90,7.2,97,90,7.2,99,92,7.2,99,94,5.2,99,,6.2,100,9.3,0,0
+Esperanza Elementary School,public,2353 E BANTAM RD,TUCSON,PIMA,85706,y,rn,98,99,1,100,99,1,100,99,1,100,99,1,100,,1,100,1,0,1
+Estrella Mountain Elementary School,public,10301 S SAN MIGUEL AVE,GOODYEAR,MARICOPA,85338,n,,34,97,2.9,100,97,2.9,100,97,2.9,100,100,0,100,,0,100,0,2.9,0
+Estrella Vista Elementary,public,11905 W COCOPAH CIR,AVONDALE,MARICOPA,85323,y,rn,96,96,4.2,100,96,1,100,97,3.1,100,99,1,100,,0,100,3.1,2.1,1
+Ethos Academy,charter,7614 N 43RD AVE,GLENDALE,MARICOPA,85301,n,,38,76,5.3,82,76,5.3,84,76,5.3,82,95,5.3,100,,5.3,100,5.3,0,0
+Eva Marshall Elementary School,public,850 N BONITO ST,FLAGSTAFF,COCONINO,86001,y,rn,91,98,2.2,100,98,2.2,100,99,1.1,100,98,2.2,100,,2.2,100,2.2,0,2.2
+Evergreen Elementary School,public,1000 N AMARILLO,CASA GRANDE,PINAL,85222,y,rn,67,97,0,97,97,0,99,97,1.5,99,100,0,100,,0,100,1.5,0,0
+Excelencia School,public,2181 E MCDOWELL RD,PHOENIX,MARICOPA,85006,y,lpn,83,98,2.4,100,98,2.4,100,98,2.4,100,95,2.4,98,,2.4,100,2.4,0,2.4
+F.o.holaway Elementary School,public,3500 N CHERRY AVE,TUCSON,PIMA,85719,n,,67,99,1.5,100,99,1.5,99,97,1.5,99,99,1.5,100,,1.5,100,1.5,1.5,1.5
+Faith Christian School,private,6659 E UNIVERSITY DR,MESA,MARICOPA,85205,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Faith Community Acad,private,2551 W ORANGE GROVE RD,TUCSON,PIMA,85741,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Faith Lutheran Church And School And Preschool,private,3925 E 5TH ST,TUCSON,PIMA,85711,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Falcon Hill Elementary School,public,1645 N STERLING,MESA,MARICOPA,85207,n,,72,94,5.6,100,94,5.6,100,93,6.9,100,96,4.2,100,,5.6,100,8.3,0,4.2
+Family Life Academy,private,530 S PANTANO RD,TUCSON,PIMA,85710,n,,25,92,8,100,92,8,100,92,8,100,88,12,100,,8,100,12,0,8
+Family Of Christ Early Education Center Kindergarten,private,3501 E CHANDLER BLVD,PHOENIX,MARICOPA,85048,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Faras Elementary School,public,410 W FIR AVE,DOUGLAS,COCHISE,85607,y,rn,32,100,0,100,100,0,100,100,0,100,100,0,100,,0,100,0,0,0
+Festival Foothills Elementary School,public,26252 W DESERT VISTA BLVD,BUCKEYE,MARICOPA,85396,n,,30,93,6.7,100,93,6.7,100,93,6.7,100,90,10,100,,6.7,100,10,0,6.7
+Field Elementary,public,2325 E ADOBE ST,MESA,MARICOPA,85213,y,rn,73,95,5.5,100,95,4.1,100,96,4.1,100,96,4.1,100,,4.1,100,4.1,0,4.1
+Fine Arts Academy,public,1700 S. 103RD AVENUE,TOLLESON,MARICOPA,85353,y,lpn,48,83,0,83,83,0,83,81,0,81,83,0,83,,0,85,0,0,0
+Finley Farms Elementary,public,375 S COLUMBUS DR,GILBERT,MARICOPA,85296,y,rn,97,95,5.2,100,95,5.2,100,95,5.2,100,98,2.1,100,,2.1,100,5.2,0,2.1
+Fireside Elementary School,public,3725 E LONE CACTUS DR,PHOENIX,MARICOPA,85050,y,rn,105,91,8.6,100,91,13.3,100,90,10.5,100,86,14.3,100,,5.7,100,13.3,0,13.3
+First Avenue Elementary School,public,914 N FIRST AVE,SAN MANUEL,PINAL,85631,n,,34,59,0,59,59,0,59,56,0,56,100,0,100,,0,100,0,0,0
+First Baptist Christian Academy,private,1447 S 7TH ST,SIERRA VISTA,COCHISE,85635,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+First Southern Christian School,private,445 E SPEEDWAY BLVD,TUCSON,PIMA,85705,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Flagstaff Junior Academy Elementary Campus,charter,306 W CEDAR AVE,FLAGSTAFF,COCONINO,86001,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Flora Thew Elementary School,public,2130 E HOWE AVE,TEMPE,MARICOPA,85281,y,rn,82,95,0,95,95,0,95,98,0,98,98,0,98,,0,100,0,0,0
+Florence K-8,public,460 S PARK ST,FLORENCE,PINAL,85232,y,,84,80,6,86,80,6,86,76,6,82,89,6,95,,6,98,6,0,6
+Foothills Academy College Preparatory,charter,7191 E ASHLER HILLS DR,SCOTTSDALE,MARICOPA,85266,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Foothills Elementary,public,158080 N. 63RD AVE,GLENDALE,MARICOPA,85306,y,rn,70,94,4.3,99,94,4.3,100,96,4.3,100,97,2.9,100,,4.3,100,4.3,0,4.3
+Ford Elementary School,public,8001 E STELLA RD,TUCSON,PIMA,85730,y,rn,65,91,1.5,92,91,1.5,97,97,1.5,99,92,1.5,94,,1.5,100,1.5,0,1.5
+Fort Mohave Elementary School,public,1760 E JOY LN,FORT MOHAVE,MOHAVE,86426,y,rn,115,93,1.7,95,93,1.7,96,95,1.7,97,95,1.7,97,,1.7,99,1.7,0,0
+Fort Thomas Elementary,public,15560 W ELEMENTARY SCHOOL ROAD,FORT THOMAS,GRAHAM,85536,y,rn,32,100,0,100,100,0,100,100,0,100,100,0,100,,0,100,0,0,0
+Foundation For Blind Children,private,1234 E NORTHERN AVE,PHOENIX,MARICOPA,85020,y,rn,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Fountain Hills Charter School - Glenbrook,charter,16751 E GLENBROOK BLVD,FOUNTAIN HILLS,MARICOPA,85268,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Four Peaks Elementary School,public,1785 N IDAHO RD,APACHE JUNCTION,PINAL,85119,y,rn,93,93,6.5,99,93,5.4,100,94,6.5,100,95,5.4,100,,4.3,100,6.5,0,0
+Fowler Elementary,public,6707 W VAN BUREN ST,PHOENIX,MARICOPA,85043,n,,94,92,8.5,100,92,7.4,100,94,6.4,100,95,5.3,100,,0,99,2.1,2.1,0
+Frances Brandon Pickett Elementary,public,22076 VILLAGE LOOP,QUEEN CREEK,MARICOPA,85142,y,rn,114,96,4.4,100,96,3.5,100,95,5.3,100,97,2.6,100,,3.5,100,5.3,1.8,1.8
+Frances J Warren Elementary School,public,3505 W MILTON RD,TUCSON,PIMA,85746,y,rn,52,96,0,96,96,0,98,96,0,96,98,0,98,,0,100,0,1.9,0
+Frank Borman Middle School,public,3637 N 55TH AVE,PHOENIX,MARICOPA,85031,y,lpn,106,97,0,97,97,0,98,99,0,99,98,0,98,,0,100,0,0,0
+Frank School,public,8409 S AVENIDA DEL YAQUI,GUADALUPE,MARICOPA,85283,y,rn,74,96,2.7,99,96,2.7,100,97,2.7,100,99,1.4,100,,1.4,100,2.7,0,2.7
+Franklin At Alma Elementary,public,1313 W MEDINA AVE,MESA,MARICOPA,85202,y,rn,62,98,1.6,100,98,1.6,100,98,1.6,100,98,1.6,100,,0,100,3.2,0,0
+Franklin East Elementary,public,1753 E 8TH AVE,MESA,MARICOPA,85204,y,rn,118,94,5.9,100,94,5.9,100,94,5.9,100,93,6.8,100,,3.4,100,5.9,.8,3.4
+Franklin Elementary At Brimhall,public,4949 E SOUTHERN AVE,MESA,MARICOPA,85206,y,rn,138,91,8.7,100,91,7.2,100,92,8,100,94,6.5,100,,0,100,11.6,.7,0
+Franklin Phonetic Primary School,charter,6116 E HIGHWAY 69,PRESCOTT VALLEY,YAVAPAI,86314,n,,52,94,3.8,98,94,0,98,94,3.8,98,94,5.8,100,,3.8,100,3.8,5.8,0
+Franklin Phonetic School Sunnyslope,charter,9317 N 2ND ST,PHOENIX,MARICOPA,85020,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Franklin West Elementary,public,236 S SIRRINE,MESA,MARICOPA,85210,y,rn,87,89,9.2,98,89,8,98,91,9.2,100,92,8,100,,0,100,8,0,0
+Fredonia Elementary School,public,222 N 200 EAST,FREDONIA,COCONINO,86022,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Freedom Academy North,charter,28700 N PIMA RD,SCOTTSDALE,MARICOPA,85266,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+"Freedom Academy, Inc",charter,3916 E PARADISE LN,PHOENIX,MARICOPA,85032,n,,48,85,14.6,100,85,14.6,100,85,14.6,100,85,14.6,100,,0,100,14.6,0,0
+Freedom Elementary School,public,22150 W SUNDANCE PKWY,BUCKEYE,MARICOPA,85326,y,lpn,57,97,1.8,98,97,0,98,98,1.8,100,100,0,100,,0,100,1.8,0,0
+Friendly House Academia Del Pueblo Elem,charter,201 E DURANGO ST,PHOENIX,MARICOPA,85004,n,,50,98,2,100,98,2,100,98,2,100,98,2,100,,2,100,2,0,0
+Frontier Elementary School,public,21258 N 81ST AVE,PEORIA,MARICOPA,85382,y,rn,89,94,5.6,100,94,5.6,100,94,5.6,100,97,3.4,100,,3.4,100,5.6,0,0
+Fruchthendler Elementary School,public,7470 E CLOUD RD,TUCSON,PIMA,85750,y,rn,60,97,3.3,100,97,3.3,100,97,3.3,100,97,3.3,100,,3.3,100,3.3,0,3.3
+Frye Elementary School,public,801 E FRYE RD,CHANDLER,MARICOPA,85225,n,,76,96,3.9,100,96,1.3,100,97,2.6,100,99,1.3,100,,1.3,100,2.6,1.3,0
+Fuller Elementary School,public,1975 E CORNELL DR,TEMPE,MARICOPA,85283,y,rn,120,99,0,99,99,.8,100,98,1.7,100,98,1.7,100,,1.7,100,2.5,.8,1.7
+G Frank Davidson,public,6935 W OSBORN RD,PHOENIX,MARICOPA,85033,y,lpn,110,97,0,97,97,1.8,100,98,1.8,100,98,1.8,100,,0,100,1.8,0,1.8
+G.p.s. - Playa Del Rey Elementary,public,550 N HORNE ST,GILBERT,MARICOPA,85233,y,rn,69,94,4.3,99,94,4.3,100,94,4.3,99,96,4.3,100,,1.4,100,5.8,0,1.4
+Gadsden Elementary School,public,PO BOX 6870,SAN LUIS,YUMA,85349,y,lpn,61,100,0,100,100,0,100,100,0,100,100,0,100,,0,100,0,0,0
+Gale Elementary School,public,678 S GOLLOB RD,TUCSON,PIMA,85710,y,rn,62,100,0,100,100,0,100,100,0,100,100,0,100,,0,100,0,0,0
+Gallego Primary Fine Arts Magnet,public,6200 S HEMISPHERE PL,TUCSON,PIMA,85706,y,rn,114,99,0,99,99,0,99,99,0,99,99,0,99,,0,99,0,0,0
+Galveston Elementary School,public,661 E GALVESTON ST,CHANDLER,MARICOPA,85225,n,,84,99,0,99,99,0,100,99,0,99,100,0,100,,0,100,0,0,0
+Ganado Primary School,public,US-191 and AZ-264,GANADO,APACHE,86505,n,,69,100,0,100,100,0,100,99,0,99,100,0,100,,0,100,0,0,0
+Garden Lakes Elementary School,public,10825 W GARDEN LAKES PKWY,AVONDALE,MARICOPA,85392,y,lpn,78,95,5.1,100,95,3.8,100,95,5.1,100,97,2.6,100,,5.1,105,5.1,0,5.1
+Garfield School,public,811 N 13TH ST,PHOENIX,MARICOPA,85006,y,rn,60,98,0,98,98,0,95,98,0,98,98,0,98,,0,100,0,0,0
+Gary A Knox Elementary,public,2926 S 21ST DR,YUMA,YUMA,85364,y,rn,90,99,1.1,100,99,1.1,100,99,1.1,100,99,1.1,100,,1.1,100,1.1,0,1.1
+Gateway Pointe Elementary,public,2069 S DELATORRE DR,HIGLEY,MARICOPA,85236,n,,97,96,4.1,100,96,4.1,100,96,4.1,100,97,3.1,100,,3.1,100,4.1,0,3.1
+Gateway Polytechnic Academy,public,5149 S SIGNAL BUTTE RD,MESA,MARICOPA,85212,n,,137,96,3.6,100,96,3.6,100,95,5.1,100,96,3.6,100,,2.2,100,5.1,0,2.2
+Gateway School,public,1100 N 35TH ST,PHOENIX,MARICOPA,85008,y,rn,69,99,1.4,100,99,0,100,99,1.4,100,100,0,100,,0,100,1.4,0,0
+Gavilan Peak Elementary,public,2701 W MEMORIAL DR,ANTHEM,MARICOPA,85086,y,rn,37,97,2.7,100,97,2.7,100,97,2.7,100,97,2.7,100,,2.7,100,2.7,0,0
+Gem Charter School,charter,1704 N CENTER ST,MESA,MARICOPA,85201,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+George Washington Carver Elementary School,public,1341 W 5TH ST,YUMA,YUMA,85364,y,rn,59,98,0,98,98,0,97,97,0,97,100,0,100,,0,95,0,0,0
+Gethsemane Lutheran School,private,1035 E GUADALUPE RD,TEMPE,MARICOPA,85283,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Gila Crossing Elementary School,private,4408 W PECOS RD,LAVEEN,MARICOPA,85339,y,rn,61,97,0,97,97,0,100,100,0,100,100,0,100,,0,100,0,0,0
+Gilbert Arts Academy,charter,862 E ELLIOT RD,GILBERT,MARICOPA,85234,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Gilbert Christian Elementary And Middle Sch,private,1424 S PROMENADE LN,GILBERT,MARICOPA,85296,n,,45,84,15.6,100,84,17.8,100,78,22.2,100,82,17.8,100,,15.6,100,15.6,2.2,15.6
+Gilbert Elementary School Kg,public,175 W ELLIOT RD,GILBERT,MARICOPA,85233,y,rn,72,96,4.2,100,96,4.2,100,97,2.8,100,96,4.2,100,,0,100,4.2,0,2.8
+Gladden Farms Elementary,public,11745 W GLADDEN FARMS DR,MARANA,PIMA,85653,n,,83,98,1.2,99,98,1.2,100,99,1.2,100,96,1.2,98,,1.2,100,1.2,0,1.2
+Glendale American School,public,8530 N 55TH AVE,GLENDALE,MARICOPA,85302,y,rn,73,95,5.5,100,95,4.1,100,97,2.7,100,95,5.5,100,,0,100,2.7,2.7,2.7
+Glendale Landmark Middle School,public,5730 W MYRTLE AVE,GLENDALE,MARICOPA,85301,y,lpn,79,96,0,96,96,0,98,99,0,99,99,0,99,,0,100,0,0,0
+Glenn F Burton School,public,4801 W MARYLAND AVE,GLENDALE,MARICOPA,85301,y,lpn,65,89,3.1,92,89,3.1,94,92,3.1,95,99,1.5,100,,3.1,100,3.1,0,0
+Glenn L Downs School,public,3600 N 47TH AVE,PHOENIX,MARICOPA,85031,y,rn,57,100,0,100,100,0,100,100,0,100,100,0,100,,0,100,0,0,0
+Glenview Adventist School,private,6801 N 43RD AVE,PHOENIX,MARICOPA,85019,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Gowan Science Academy,public,1590 S AVENUE C,YUMA,YUMA,85364,n,,61,79,3.3,82,79,3.3,82,80,3.3,84,90,3.3,93,,3.3,100,3.3,0,0
+Grace Christian Academy,private,1200 E SOUTHERN AVE,TEMPE,MARICOPA,85282,y,rn,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Grace Ev. Lutheran School,private,5600 W PALMAIRE AVE,GLENDALE,MARICOPA,85301,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Grace Fellowship Academy,private,1330 N MILLER RD,BUCKEYE,MARICOPA,85326,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Grace Neal Learning Center,public,1730 KINO AVE,KINGMAN,MOHAVE,86409,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Gracepointe Christian Academy Elementary,private,5455 S WESTOVER AVE,TUCSON,PIMA,85746,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Granada Primary,public,3232 W CAMPBELL AVE,PHOENIX,MARICOPA,85017,n,,183,98,.5,98,98,.5,99,100,.5,100,99,.5,100,,.5,100,.5,0,.5
+Grand Canyon School,public,100 BOULDER ST,GRAND CANYON,COCONINO,86023,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Grande Innovation Academy,charter,950 N PEART RD,CASA GRANDE,PINAL,85122,n,,65,94,6.2,100,94,6.2,100,94,6.2,100,94,6.2,100,,6.2,100,6.2,0,0
+Granville Elementary,public,5250 N STOVER DR,PRESCOTT VALLEY,YAVAPAI,86314,y,rn,71,86,1.4,87,86,1.4,89,89,1.4,90,92,1.4,93,,1.4,96,1.4,0,0
+Grayhawk Elementary School- Preschool,public,7525 E GRAYHAWK DR,SCOTTSDALE,MARICOPA,85255,n,rn,70,100,0,100,100,5.7,94,87,5.7,93,86,5.7,91,,0,94,5.7,0,0
+Great Expectations Academy,charter,1466 W CAMINO ANTIGUA,SAHUARITA,PIMA,85629,n,,36,92,0,92,92,8.3,92,83,8.3,92,92,5.6,97,,8.3,100,8.3,0,8.3
+Great Hearts Academies-lincoln Prep,charter,2250 S GILBERT RD,CHANDLER,MARICOPA,85286,n,,82,90,3.7,94,90,4.9,96,90,3.7,94,89,4.9,94,,4.9,100,4.9,0,2.4
+Green Fields School,private,6000 N CAMINO DE LA TIERRA,TUCSON,PIMA,85741,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Greenbrier Elementary School,public,6150 W GREENBRIAR DR,GLENDALE,MARICOPA,85308,n,,65,85,15.4,100,85,15.4,99,85,15.4,100,88,12.3,100,,12.3,100,13.8,1.5,13.8
+Greenfield Elementary School,public,2550 E ELLIOT RD,GILBERT,MARICOPA,85234,y,rn,106,95,4.7,100,95,4.7,95,94,5.7,100,93,4.7,98,,0,100,7.5,0,4.7
+Greenway Elementary,public,100 OLD DOUGLAS RD,BISBEE,COCHISE,85603,y,,42,93,2.4,95,93,2.4,95,93,2.4,95,93,2.4,95,,2.4,95,2.4,0,0
+Griffith Elementary School,public,4505 E PALM LN,PHOENIX,MARICOPA,85008,n,,56,93,1.8,95,93,1.8,95,93,1.8,95,98,1.8,100,,1.8,100,1.8,0,1.8
+Guiding Light Christian Educational Cente,private,220 MESCAL LN,LAKE HAVASU CITY,MOHAVE,86403,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+H.l. Suverkrup,public,1590 S AVENUE C,YUMA,YUMA,85364,n,,58,98,0,98,98,0,97,98,0,98,97,0,97,,0,98,0,0,0
+Hale Elementary School,public,1425 N 23RD ST,MESA,MARICOPA,85213,y,rn,69,93,5.8,99,93,5.8,99,94,5.8,100,93,5.8,99,,0,100,5.8,0,5.8
+Haley Elementary,public,3401 S LAYTON LAKES BLVD,CHANDLER,MARICOPA,85286,n,,150,96,4,100,96,4.7,100,95,4.7,100,96,4,100,,4.7,100,4.7,0,3.3
+Hand In Hand Christian Preschool,private,150 W 28TH ST,YUMA,YUMA,85364,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Happy Valley School - East Campus,charter,266 E WESTBROOKE RD,SAN TAN VALLEY,PINAL,85140,n,,92,91,8.7,100,91,8.7,100,90,9.8,100,96,4.3,100,,5.4,100,9.8,0,3.3
+Harold Steele Elementary School,public,700 S SARNOFF DR,TUCSON,PIMA,85710,y,rn,54,98,0,98,98,0,100,100,0,100,100,0,100,,0,100,0,0,0
+Harold W Smith School,public,6534 N 63RD AVE,GLENDALE,MARICOPA,85301,y,lpn,108,95,.9,96,95,.9,99,99,.9,100,100,0,100,,0,100,.9,0,0
+Harriet Johnson Primary School,public,6060 S JOSEPH AVE,TUCSON,PIMA,85757,y,rn,66,99,0,99,99,0,100,100,0,100,100,0,100,,0,100,0,0,0
+Harris Elementary School,public,1820 S HARRIS DR,MESA,MARICOPA,85204,y,rn,64,98,1.6,100,98,1.6,100,98,1.6,100,98,1.6,100,,1.6,100,1.6,0,0
+Hartford Sylvia Encinas Elementary School,public,700 N HARTFORD ST,CHANDLER,MARICOPA,85225,n,,85,99,1.2,100,99,1.2,100,99,1.2,100,99,1.2,100,,0,100,1.2,0,1.2
+Harvest Preparatory Academy,charter,350 E 18TH ST,YUMA,YUMA,85364,y,,68,100,0,100,100,0,100,100,0,100,100,0,100,,0,100,0,0,0
+"Harvest Preparatory Academy, Goodyear Az",charter,14900 W VAN BUREN ST,GOODYEAR,MARICOPA,85338,y,,45,96,4.4,100,96,4.4,100,96,4.4,100,96,4.4,100,,4.4,100,4.4,0,4.4
+"Harvest Preparatory Academy, San Luis Az",charter,1044 N 10TH AVE,SAN LUIS,YUMA,85349,y,,94,100,0,100,100,0,100,100,0,100,100,0,100,,0,100,0,0,0
+Hassayampa Elementary,charter,251 S TEGNER ST,WICKENBURG,MARICOPA,85390,n,,55,91,3.6,95,91,3.6,98,87,3.6,91,93,3.6,96,,3.6,93,3.6,0,0
+Havasu Preparatory Academy,charter,3155 MARICOPA AVE,LAKE HAVASU CITY,MOHAVE,86406,n,,38,95,0,95,95,0,97,100,0,100,100,0,100,,0,100,0,0,0
+Havasupai Elementary School,public,880 CASHMERE DR,LAKE HAVASU CITY,MOHAVE,86404,y,rn,55,95,3.6,98,95,1.8,98,96,1.8,98,100,0,100,,1.8,100,3.6,0,1.8
+Haven Montessori Charter School,charter,621 W CLAY AVE,FLAGSTAFF,COCONINO,86001,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Hawthorne Elementary School,public,630 N HUNT DR,MESA,MARICOPA,85203,y,rn,79,95,5.1,100,95,3.8,100,95,5.1,100,99,1.3,100,,0,100,3.8,0,0
+Hearn Academy A-ball Charter School,charter,17606 N 7TH AVE,PHOENIX,MARICOPA,85023,y,rn,61,95,4.9,100,95,4.9,100,95,4.9,100,95,4.9,100,,3.3,100,4.9,0,3.3
+Heartland Ranch Elementary School,public,1600 W CAROLINE ST,COOLIDGE,PINAL,85128,y,rn,39,97,2.6,100,97,2.6,100,97,2.6,100,97,2.6,100,,2.6,100,2.6,0,2.6
+Heatherbrae Elementary School,public,7070 W HEATHERBRAE DR,PHOENIX,MARICOPA,85033,y,rn,107,99,0,99,99,0,100,97,0,97,100,0,100,,0,99,0,0,0
+Helen Keeling Elementary School,public,2837 N LOS ALTOS AVE,TUCSON,PIMA,85705,n,,63,98,1.6,100,98,1.6,100,98,1.6,100,98,1.6,100,,1.6,100,1.6,0,0
+Henry Hank Oyama,public,2700 S LA CHOLLA BLVD,TUCSON,PIMA,85713,y,rn,52,98,1.9,100,98,1.9,100,98,1.9,100,96,1.9,98,,1.9,100,1.9,0,1.9
+Herencia Guadalupana Lab Schools,private,6855 S MARK RD,TUCSON,PIMA,85757,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Heritage Elementary,charter,790 E RODEO RD,WILLIAMS,COCONINO,86046,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Heritage Elementary,public,5312 W MOUNTAIN VIEW RD,GLENDALE,MARICOPA,85302,y,lpn,54,98,0,98,98,0,98,96,0,96,100,0,100,,0,100,0,0,0
+Heritage Elementary School - East Campus,charter,6805 N 125TH AVE,GLENDALE,MARICOPA,85307,n,,90,93,4.4,98,93,4.4,98,93,4.4,98,93,4.4,98,,4.4,98,4.4,0,4.4
+Hermosa Montessori,charter,12051 E FORT LOWELL RD,TUCSON,PIMA,85749,n,,30,97,3.3,100,97,3.3,100,97,3.3,100,97,3.3,100,,3.3,100,3.3,0,3.3
+Hermosa Vista Elementary School,public,2626 N 24TH ST,MESA,MARICOPA,85213,y,rn,95,92,6.3,98,92,6.3,100,92,8.4,100,92,7.4,99,,7.4,100,10.5,0,5.3
+Hi-star Center For Children,private,5807 N 43RD AVE,PHOENIX,MARICOPA,85019,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Hidden Hills Elementary School,public,1919 E SHARON DR,PHOENIX,MARICOPA,85022,y,rn,61,98,1.6,100,98,1.6,100,97,1.6,98,98,1.6,100,,1.6,100,1.6,0,1.6
+Highland Elementary School,public,3042 E ADOBE ST,MESA,MARICOPA,85213,y,rn,120,93,6.7,100,93,6.7,100,95,5,100,96,4.2,100,,3.3,100,4.2,1.7,3.3
+Highland Free School,charter,510 S HIGHLAND AVE,TUCSON,PIMA,85719,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Highland Lakes,public,19000 N 63RD AVE,GLENDALE,MARICOPA,85308,y,rn,76,95,3.9,99,95,3.9,99,96,3.9,100,97,2.6,100,,2.6,100,3.9,0,0
+Highland Primary School,public,360 W ROGERS,SNOWFLAKE,NAVAJO,85937,n,,100,91,7,98,91,10,100,90,10,100,92,8,100,,7,100,11,0,4
+Higley Elementary School,public,3391 E VEST AVE,HIGLEY,MARICOPA,85236,n,,102,94,2.9,97,94,3.9,100,96,3.9,100,95,4.9,100,,2.9,100,4.9,0,2.9
+Hirsch Academy A Challenge Foundation,charter,6535 E OSBORN RD STE 401,SCOTTSDALE,MARICOPA,85251,n,,23,96,0,96,96,0,100,96,0,96,100,0,100,,0,100,0,0,0
+Hohokam Elementary School,public,8451 E OAK ST,SCOTTSDALE,MARICOPA,85257,y,rn,68,90,1.5,91,90,1.5,93,93,1.5,94,99,1.5,100,,1.5,100,1.5,0,0
+Holdeman Elementary School,public,1326 W 18TH ST,TEMPE,MARICOPA,85281,y,rn,75,97,0,97,97,0,97,97,0,97,100,0,100,,0,100,2.7,0,2.7
+Holiday Park Elementary School,public,4417 N 66TH AVE,PHOENIX,MARICOPA,85033,y,rn,93,96,0,96,96,0,100,96,0,96,100,0,100,,0,100,0,0,0
+Holladay Intermediate Magnet School,public,1110 E 33RD ST,TUCSON,PIMA,85713,y,rn,37,100,0,100,100,0,100,97,2.7,100,100,0,100,,0,100,2.7,0,0
+Hollinger Elementary School,public,150 W AJO WAY,TUCSON,PIMA,85713,y,rn,47,98,0,98,98,0,96,98,0,98,100,0,100,,0,100,0,0,0
+Holmes Elementary School,public,948 S HORNE,MESA,MARICOPA,85204,y,rn,97,96,0,96,96,0,96,96,0,96,97,0,97,,0,98,0,0,0
+Holsteiner Agricultural School,charter,44400 W HONEYCUTT RD STE 105,MARICOPA,PINAL,85138,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Homer Davis Elementary School,public,4250 N ROMERO RD,TUCSON,PIMA,85705,n,,59,100,0,100,100,0,100,100,0,100,100,0,100,,0,100,0,0,0
+Hope Christian Academy,private,1125 N DOBSON RD,CHANDLER,MARICOPA,85224,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Hopi Elementary School,public,5110 E LAFAYETTE BLVD,PHOENIX,MARICOPA,85018,n,,130,91,6.9,98,91,6.9,99,92,6.9,99,93,6.2,99,,6.9,100,6.9,0,6.9
+Horizon Honors Elementary School,charter,16233 S 48TH ST,PHOENIX,MARICOPA,85048,n,,82,98,2.4,100,98,2.4,100,98,2.4,100,98,2.4,100,,1.2,100,6.1,0,1.2
+Horizon School,public,8520 N 47TH AVE,GLENDALE,MARICOPA,85302,y,rn,83,96,0,96,96,0,96,98,0,98,96,0,96,,0,100,3.6,1.2,0
+Horseshoe Trail Elementary School,public,5405 E PINNACLE PEAK RD,PHOENIX,MARICOPA,85054,n,,86,94,4.7,99,94,4.7,100,94,4.7,99,92,5.8,98,,3.5,100,5.8,1.2,1.2
+Houston Elementary School,public,500 E HOUSTON AVE,GILBERT,MARICOPA,85234,y,rn,45,98,2.2,100,98,2.2,100,98,2.2,100,100,0,100,,4.4,100,4.4,0,0
+Howell Peter Elementary School,public,401 N IRVING AVE,TUCSON,PIMA,85711,y,rn,42,95,0,95,95,0,98,95,2.4,98,98,2.4,100,,0,100,2.4,2.4,0
+Huachuca City Elementary School,public,100 SCHOOL DR,HUACHUCA CITY,COCHISE,85616,n,,32,97,0,97,97,0,100,94,0,94,100,0,100,,0,100,0,0,0
+Huachuca Mountain Elementary School,public,3228 SAINT ANDREWS DR,SIERRA VISTA,COCHISE,85650,y,rn,91,100,0,100,100,0,100,100,0,100,100,0,100,,0,100,0,0,0
+Hualapai Elementary School,public,350 EASTERN ST,KINGMAN,MOHAVE,86401,y,lpn,135,89,8.9,98,89,8.9,99,92,8.1,100,90,8.9,99,,6.7,100,9.6,0,5.2
+Hudlow Elementary School,public,502 N CARIBE AVE,TUCSON,PIMA,85710,y,rn,45,89,4.4,93,89,4.4,93,89,4.4,93,93,4.4,98,,2.2,100,4.4,0,4.4
+Hudson Elementary School,public,1325 E MALIBU DR,TEMPE,MARICOPA,85282,y,lpn,71,93,7,100,93,7,100,93,7,100,93,7,100,,7,100,7,0,0
+Humboldt Elementary,public,2750 S CORRAL ST,HUMBOLDT,YAVAPAI,86329,y,,65,97,3.1,100,97,3.1,100,97,3.1,100,97,3.1,100,,3.1,100,3.1,0,3.1
+Hunter's Point Boarding School,charter,"ROUTE 12, SOUTH LUPTON ROAD",ST MICHAELS,APACHE,86511,n,,25,100,0,100,100,0,100,100,0,100,100,0,100,,0,100,0,0,0
+Ignacio Conchos Elementary School,public,1718 W VINEYARD RD,PHOENIX,MARICOPA,85041,y,lpn,56,95,1.8,96,95,1.8,93,95,3.6,98,95,0,95,,0,98,3.6,0,0
+Imagine Bell Canyon,charter,18052 N BLACK CANYON HWY,PHOENIX,MARICOPA,85053,n,,47,89,8.5,98,89,8.5,98,89,8.5,98,89,8.5,98,,6.4,96,8.5,0,8.5
+Imagine Camelback Elementary,charter,5050 N 19TH AVE,PHOENIX,MARICOPA,85015,n,,59,92,1.7,93,92,1.7,98,92,1.7,93,97,1.7,98,,1.7,100,1.7,0,1.7
+Imagine Charter Elementary School At East,charter,9701 E SOUTHERN AVE,MESA,MARICOPA,85209,n,,100,36,1,37,36,1,33,37,1,38,51,1,52,,1,96,1,0,0
+Imagine Elementary At Avondale,charter,950 N ELISIO C FELIX JR WAY,AVONDALE,MARICOPA,85053,n,,99,94,6.1,100,94,6.1,100,94,6.1,100,94,6.1,100,,6.1,100,6.1,0,6.1
+Imagine Elementary At Desert West,charter,6738 W MCDOWELL RD,PHOENIX,MARICOPA,85035,n,,112,95,0,95,95,0,95,95,0,95,95,0,95,,0,95,0,0,0
+Imagine Elementary At Tempe,charter,1538 E SOUTHERN AVE,TEMPE,MARICOPA,85282,n,,61,93,3.3,97,93,3.3,97,93,3.3,97,93,3.3,97,,3.3,97,3.3,0,3.3
+Imagine Rosefield,charter,12050 N BULLARD AVE,SURPRISE,MARICOPA,85379,n,,106,91,9.4,100,91,8.5,100,90,10.4,100,92,8.5,100,,9.4,100,11.3,.9,7.5
+Imagine Schools West Gilbert,charter,2061 S GILBERT RD,GILBERT,MARICOPA,85295,n,,53,91,0,91,91,0,85,83,0,83,100,0,100,,0,100,0,0,0
+Immaculate Conception Catholic,private,501 S AVENUE B,YUMA,YUMA,85364,n,,24,100,0,100,100,0,100,100,0,100,100,0,100,,0,100,0,0,0
+Immaculate Heart School,private,410 E MAGEE RD,TUCSON,PIMA,85704,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Immanuel Mission School,private,2000 S 351 RD,GREEN VALLEY,PIMA,85614,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Inca Elementary School,public,236000 W DURANGO ST,BUCKEYE,MARICOPA,85326,n,,70,99,1.4,100,99,0,100,99,0,99,100,0,100,,0,100,1.4,0,0
+Incito Schools,charter,877 N SARIVAL AVE,GOODYEAR,MARICOPA,85338,n,,50,86,2,88,86,2,90,90,0,90,94,2,96,,0,98,2,0,0
+Indian Bend Elementary School,public,3633 E THUNDERBIRD RD,PHOENIX,MARICOPA,85032,y,rn,80,95,0,95,95,0,100,100,0,100,98,0,98,,0,100,0,0,0
+Indian Oasis Elementary,public,HWY 86 and MILEPOST 115.5,SELLS,PIMA,85634,n,,86,100,0,100,100,0,100,100,0,100,100,0,100,,0,100,0,0,0
+Indian Wells Elementary,public,INDIAN RT 15 AND INDIAN RT 17,INDIAN WELLS,NAVAJO,86025,y,rn,49,94,2,96,94,2,98,98,2,100,96,0,96,,0,100,0,2,0
+Inspire Kids Montessori Preschool,private,4025 E CHANDLER BLVD STE 11,PHOENIX,MARICOPA,85048,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Integrity Education Centre,charter,515 E CONTINENTAL DR,TEMPE,MARICOPA,85281,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+International School Of Arizona,private,9522 E SAN SALVADOR DR,SCOTTSDALE,MARICOPA,85258,n,,26,85,15.4,100,85,15.4,100,81,15.4,96,81,15.4,96,,15.4,100,15.4,0,11.5
+International School Of Tucson,private,1701 E SENECA ST,TUCSON,PIMA,85719,n,,23,100,0,100,100,0,100,100,0,100,91,8.7,100,,0,100,8.7,0,0
+Ira A Fulton Elementary,public,4750 S SUNLAND DR,CHANDLER,MARICOPA,85248,n,,129,95,4.7,100,95,4.7,100,95,4.7,100,95,5.4,100,,3.9,100,6.2,0,3.9
+Ira A Murphy School,public,7231 W NORTH LN,PEORIA,MARICOPA,85345,y,rn,42,95,2.4,98,95,2.4,100,98,2.4,100,100,0,100,,0,100,2.4,0,0
+Irene Erickson Elementary School,public,6750 E STELLA RD,TUCSON,PIMA,85730,y,rn,66,91,1.5,92,91,1.5,97,92,1.5,94,94,3,97,,1.5,99,3,0,1.5
+Irene Lopez School,public,4610 S 12TH ST,PHOENIX,MARICOPA,85040,y,rn,44,98,0,98,98,0,100,100,0,100,98,0,98,,0,100,0,0,0
+Ironwood Elementary School,public,1500 N COLORADO ST,CASA GRANDE,PINAL,85122,y,rn,84,99,0,99,99,0,100,100,0,100,100,0,100,,0,100,0,0,0
+Ironwood Elementary School,public,3300 W FREER DR,TUCSON,PIMA,85742,n,,77,92,7.8,100,92,7.8,100,92,7.8,100,92,7.8,100,,7.8,100,7.8,0,7.8
+Ironwood Elementary School,public,14850 N 39TH AVE,PHOENIX,MARICOPA,85053,n,,83,94,6,100,94,6,100,94,6,100,94,6,100,,6,100,6,0,6
+Irving Elementary School,public,3220 E PUEBLO AVE,MESA,MARICOPA,85204,y,rn,75,93,6.7,100,93,4,100,95,4,99,96,4,100,,0,100,8,0,8
+Isaac E Imes School,public,6625 N 56TH AVE,GLENDALE,MARICOPA,85301,y,rn,56,98,0,98,98,0,100,100,0,100,100,0,100,,0,100,0,0,0
+Ishikawa Elementary School,public,2635 N 32ND ST,MESA,MARICOPA,85213,y,rn,90,90,8.9,99,90,8.9,100,90,10,100,96,4.4,100,,3.3,100,12.2,0,3.3
+Islands Elementary School,public,245 S MCQUEEN RD,GILBERT,MARICOPA,85233,y,rn,63,91,9.5,100,91,7.9,100,91,9.5,100,92,7.9,100,,6.3,100,9.5,0,0
+J B Sutton Elementary School,public,1001 N 31ST AVE,PHOENIX,MARICOPA,85009,n,,120,98,0,98,98,0,97,93,0,93,98,0,98,,0,98,0,0,0
+J Robert Hendricks Elementary,public,3400 W ORANGE GROVE RD,TUCSON,PIMA,85741,y,rn,67,99,1.5,100,99,1.5,100,99,1.5,100,99,1.5,100,,1.5,100,1.5,0,1.5
+Jack Barnes Elementary School,public,20750 S 214TH ST,QUEEN CREEK,MARICOPA,85242,y,,115,97,1.7,99,97,1.7,99,97,2.6,99,97,2.6,100,,1.7,100,2.6,0,1.7
+Jack Harmon Elementary,public,39315 N CORTONA DR,QUEEN CREEK,PINAL,85240,n,,73,86,12.3,99,86,12.3,99,86,12.3,99,86,12.3,99,,6.8,100,8.2,4.1,6.8
+Jack L Kuban Elementary School,public,3201 W SHERMAN ST,PHOENIX,MARICOPA,85009,y,rn,34,100,0,100,100,0,100,100,0,100,100,0,100,,0,100,0,0,0
+Jack Thoman Air And Space Academy Perform,charter,730 W CALLE ARROYO SUR,GREEN VALLEY,PIMA,85614,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Jamaica Elementary,public,3437 JAMAICA BLVD S,LAKE HAVASU CITY,MOHAVE,86406,y,rn,66,99,1.5,100,99,1.5,100,99,1.5,100,99,1.5,100,,1.5,100,1.5,0,1.5
+James B Rolle School,public,2711 S ENGLER AVE,YUMA,YUMA,85365,y,rn,96,100,0,100,100,0,100,100,0,100,100,0,100,,0,100,0,0,0
+James D Price,public,1010 BARRANCA RD,YUMA,YUMA,85365,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+James W. Rice Primary,public,4530 W CAMPBELL AVE,PHOENIX,MARICOPA,85031,y,lpn,185,97,2.7,100,97,0,100,100,0,100,100,0,100,,0,100,1.6,1.1,0
+Jane D. Hull Elementary,public,2424 E MAREN DR,CHANDLER,MARICOPA,85249,n,,84,93,7.1,100,93,6,100,94,6,100,92,8.3,100,,4.8,100,11.9,0,3.6
+Jeehdeez'a Elementary School,private,3 MILES EAST OF NAVAJO ROUTE 60,PINON,NAVAJO,86510,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Jefferson Elementary School,public,120 S JEFFERSON AVE,MESA,MARICOPA,85208,y,rn,68,97,2.9,100,97,1.5,100,99,1.5,100,99,1.5,100,,1.5,100,2.9,0,1.5
+Joanne Todd Christian School,private,321 W MALEY ST,WILLCOX,COCHISE,85643,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Joe Carlson Elementary School,public,1700 N LOUIS AVE,DOUGLAS,COCHISE,85607,y,rn,53,91,1.9,93,91,1.9,93,91,1.9,93,96,1.9,98,,1.9,100,1.9,0,0
+John And Carol Carlson Elementary,public,5400 S WHITE DR,CHANDLER,MARICOPA,85249,n,,112,89,10.7,100,89,8.9,100,91,8.9,100,89,10.7,100,,7.1,100,17,0,1.8
+John E White Elementary School,public,2315 W CANADA ST,TUCSON,PIMA,85746,y,,99,98,2,100,98,2,100,96,2,98,98,2,100,,2,100,2,0,2
+John E Wright Elementary School,public,4311 E LINDEN ST,TUCSON,PIMA,85712,y,rn,84,91,0,91,91,0,91,91,0,91,89,1.2,91,,0,100,1.2,1.2,1.2
+John F Kennedy Elementary School,public,6825 S 10TH ST,PHOENIX,MARICOPA,85042,y,rn,98,95,0,95,95,0,99,99,0,99,99,0,99,,0,99,0,0,0
+John F Kennedy School,public,1500 W PANTHER DR,SUPERIOR,PINAL,85173,n,,35,100,0,100,100,0,100,100,0,100,100,0,100,,0,100,0,0,0
+John F Long School,public,4407 N 55TH AVE,PHOENIX,MARICOPA,85031,y,,135,98,1.5,99,98,1.5,99,98,1.5,99,98,1.5,99,,1.5,100,1.5,0,0
+John F. Kennedy School,private,110 EAST DISH CHIN ROAD,WHITERIVER,NAVAJO,85941,n,,24,96,0,96,96,0,88,92,0,92,100,0,100,,0,96,0,0,0
+John Jacobs Elementary School,public,14421 N 23RD AVE,PHOENIX,MARICOPA,85023,n,,77,95,5.2,100,95,6.5,100,95,5.2,100,97,2.6,100,,0,100,5.2,1.3,3.9
+John M Andersen Elementary School,public,1350 N PENNINGTON DR,CHANDLER,MARICOPA,85224,n,,100,92,7,99,92,7,99,92,7,99,92,7,99,,7,99,7,0,7
+John Q Thomas Elementary School,public,3300 E LOCKETT RD,FLAGSTAFF,COCONINO,86004,y,rn,98,93,7.1,100,93,7.1,100,93,7.1,100,94,6.1,100,,0,100,7.1,0,6.1
+John R Davis School,public,6209 S 15TH AVE,PHOENIX,MARICOPA,85041,y,rn,53,98,1.9,100,98,1.9,98,96,1.9,98,96,1.9,98,,1.9,100,1.9,0,0
+Johnson Elementary School,public,3807 E PUEBLO AVE,MESA,MARICOPA,85206,y,rn,79,90,7.6,98,90,7.6,99,91,7.6,99,90,7.6,98,,0,100,7.6,0,7.6
+Jordan Elementary School,public,3320 N CARRIAGE LN,CHANDLER,MARICOPA,85224,y,rn,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Joseph City Elementary School,public,8176 N WESTOVER AVE,JOSEPH CITY,NAVAJO,86032,n,,32,72,28.1,100,72,28.1,100,69,28.1,97,72,28.1,100,,9.4,100,28.1,0,9.4
+Joseph Zito Elementary,public,4525 W ENCANTO BLVD,PHOENIX,MARICOPA,85035,n,,125,97,.8,98,97,.8,98,96,2.4,98,99,.8,100,,0,100,2.4,.8,0
+Joy Christian School,private,21000 N 75TH AVE,GLENDALE,MARICOPA,85308,y,rn,34,94,5.9,100,94,5.9,100,91,8.8,100,94,5.9,100,,5.9,100,8.8,0,8.8
+Justine Spitalny Elementary School,public,3201 N 46TH DR,PHOENIX,MARICOPA,85031,y,rn,88,98,1.1,99,98,1.1,97,98,1.1,99,98,1.1,99,,1.1,100,1.1,0,0
+Kachina Elementary School,public,5304 W CROCUS DR,GLENDALE,MARICOPA,85306,y,rn,46,96,4.3,100,96,4.3,100,96,4.3,100,96,4.3,100,,4.3,100,4.3,0,4.3
+Kathryn Sue Simonton Elementary,public,40300 N SIMONTON BLVD,SAN TAN VALLEY,PINAL,85140,n,,79,89,8.9,98,89,7.6,96,92,5.1,98,95,5.1,100,,3.8,100,6.3,2.5,3.8
+Kayenta Elementary School,public,NORTH HIGHWAY 163 MUSTANG BLVD,KAYENTA,NAVAJO,86033,n,,103,85,0,85,85,0,87,87,0,87,97,0,97,,0,98,0,0,0
+Keller Elementary School,public,1445 E HILTON AVE,MESA,MARICOPA,85204,y,rn,79,96,3.8,100,96,0,98,98,0,98,99,0,99,,0,99,1.3,0,0
+Kenilworth Elementary,public,1210 N 5TH AVE,PHOENIX,MARICOPA,85003,y,rn,51,96,2,98,96,2,98,98,2,100,100,0,100,,2,100,2,0,0
+Kerr Elementary School,public,125 E MCLELLAN RD,MESA,MARICOPA,85201,y,rn,80,88,12.5,100,88,11.3,100,91,8.8,100,95,5,100,,1.3,100,1.3,1.3,0
+Keystone Montessori Charter School,private,1025 E LIBERTY LN,PHOENIX,MARICOPA,85048,n,,25,84,8,92,84,8,100,84,8,92,88,12,100,,8,100,12,0,8
+Khalsa Montessori School,charter,346 E CORONADO RD,PHOENIX,MARICOPA,85004,n,,24,88,12.5,100,88,12.5,100,79,16.7,96,79,12.5,92,,16.7,100,16.7,0,0
+Khalsa School - River Road,charter,3701 E RIVER RD,TUCSON,PIMA,85718,n,,42,88,9.5,98,88,9.5,98,88,9.5,98,69,23.8,93,,11.9,98,14.3,2.4,7.1
+Kin Dah Lichi'i Olta,private,2 MILES N OF MP 452 ON HWY 2,KIN-LI-CHEE,APACHE,86505,y,,30,100,0,100,100,0,100,100,0,100,100,0,100,,0,100,0,0,0
+Kindergarten At North Phoenix,private,5757 N CENTRAL AVE,PHOENIX,MARICOPA,85012,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Kingman Academy Of Learning - Primary,charter,3400 N BURBANK ST,KINGMAN,MOHAVE,86409,n,,95,86,7.4,94,86,5.3,96,87,7.4,95,95,4.2,99,,0,100,6.3,1.1,5.3
+Kingswood,public,15150 W MONDELL RD,SURPRISE,MARICOPA,85374,y,rn,63,95,0,95,95,1.6,100,95,1.6,97,98,0,98,,1.6,100,1.6,0,0
+Kino School,private,6625 N 1ST AVE,TUCSON,PIMA,85718,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Kinsey Inquiry And Discovery School,public,1601 S LONE TREE RD,FLAGSTAFF,COCONINO,86001,y,rn,67,97,3,100,97,3,100,97,3,100,96,4.5,100,,3,100,4.5,4.5,3
+Kirkland Elementary School District,public,14200 W KIRKLAND HILLSIDE RD,KIRKLAND,YAVAPAI,86332,n,rn,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Kiser Elementary School,public,38739 W I 8,GILA BEND,MARICOPA,85337,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Knox Elementary School,public,700 W ORCHID LN,CHANDLER,MARICOPA,85225,n,,64,98,1.6,100,98,1.6,100,98,1.6,100,98,1.6,100,,0,100,3.1,0,0
+Kyrene De La Colina,public,13612 S 36TH ST,PHOENIX,MARICOPA,85044,n,,58,90,10.3,100,90,10.3,100,90,10.3,100,91,8.6,100,,0,100,12.1,0,0
+Kyrene De La Esperanza,public,14841 S 41ST PL,PHOENIX,MARICOPA,85044,n,,95,99,1.1,100,99,2.1,100,98,2.1,100,99,1.1,100,,2.1,100,2.1,0,0
+Kyrene De La Estrella Elementary School,public,2620 E LIBERTY LN,PHOENIX,MARICOPA,85048,n,,45,91,8.9,100,91,8.9,100,91,8.9,100,93,6.7,100,,0,100,13.3,0,0
+Kyrene De La Mariposa School,public,50 E KNOX RD,TEMPE,MARICOPA,85284,n,,66,100,0,100,100,1.5,100,99,1.5,100,97,1.5,99,,1.5,100,1.5,0,1.5
+Kyrene De La Mirada School,public,5500 W GALVESTON ST,CHANDLER,MARICOPA,85226,n,,84,96,3.6,100,96,3.6,100,96,3.6,100,95,4.8,100,,3.6,100,4.8,0,3.6
+Kyrene De La Paloma,public,5000 W WHITTEN ST,CHANDLER,MARICOPA,85226,n,,62,94,0,94,94,0,94,94,0,94,92,0,92,,0,97,8.1,1.6,8.1
+Kyrene De La Sierra,public,1122 E LIBERTY LN,PHOENIX,MARICOPA,85048,n,,88,98,2.3,100,98,2.3,100,98,2.3,100,98,2.3,100,,0,100,2.3,0,0
+Kyrene De Las Brisas School,public,777 N DESERT BREEZE BLVD E,CHANDLER,MARICOPA,85226,n,,101,89,2,91,89,2,93,89,2,91,96,2,98,,2,99,2,0,0
+Kyrene De Las Lomas School,public,11820 S WARNER ELLIOT LOOP,PHOENIX,MARICOPA,85044,n,,88,93,6.8,100,93,6.8,100,93,6.8,100,93,3.4,97,,1.1,100,5.7,1.1,0
+Kyrene De Las Manitas School,public,1201 W COURTNEY LN,TEMPE,MARICOPA,85284,y,rn,83,89,7.2,96,89,4.8,95,95,3.6,99,90,6,96,,2.4,100,10.8,0,1.2
+Kyrene De Los Cerritos,public,14620 S DESERT FOOTHILLS PKWY,PHOENIX,MARICOPA,85048,n,rn,61,90,9.8,100,90,9.8,100,90,9.8,100,90,9.8,100,,9.8,100,9.8,0,0
+Kyrene De Los Lagos School,private,17001 S 34TH WAY,PHOENIX,MARICOPA,85048,n,,98,89,11.2,100,89,9.2,100,91,9.2,100,91,9.2,100,,0,100,13.3,0,0
+Kyrene De Los Ninos School,public,1330 E DAVA DR,TEMPE,MARICOPA,85283,n,,70,93,4.3,97,93,4.3,99,91,5.7,97,93,4.3,97,,2.9,99,5.7,0,4.3
+Kyrene Del Cielo School,public,1350 N LAKESHORE DR,CHANDLER,MARICOPA,85226,y,rn,105,98,1.9,100,98,1,100,97,2.9,100,98,1.9,100,,1,100,3.8,0,1
+Kyrene Del Milenio,private,4630 E FRYE RD,PHOENIX,MARICOPA,85048,n,,94,95,4.3,99,95,4.3,99,95,4.3,99,95,4.3,99,,5.3,100,5.3,0,4.3
+Kyrene Del Norte,public,1331 E REDFIELD RD,TEMPE,MARICOPA,85283,n,,95,95,5.3,100,95,5.3,100,96,4.2,100,97,3.2,100,,0,100,5.3,0,3.2
+Kyrene Del Sureno School,public,3375 W GALVESTON ST,CHANDLER,MARICOPA,85226,n,,97,94,2.1,96,94,2.1,97,93,2.1,95,96,2.1,98,,2.1,100,2.1,0,2.1
+Kyrene Monte Vista,public,15221 S RAY RD,PHOENIX,MARICOPA,85048,y,rn,121,98,2.5,100,98,3.3,100,98,1.7,100,98,2.5,100,,2.5,100,2.5,.8,1.7
+L.m. Prince Elementary,public,125 E PRINCE RD,TUCSON,PIMA,85705,n,,111,92,.9,93,92,.9,96,97,0,97,94,0,94,,0,98,.9,0,0
+La Paloma Academy,charter,8140 E DESERT COVE CIR.,TUCSON,PIMA,85730,n,,112,99,.9,100,99,.9,99,98,.9,99,99,.9,100,,.9,100,.9,0,0
+La Paloma Academy - Central Campus,charter,2050 N WILMOT RD,TUCSON,PIMA,85712,n,,89,100,0,100,100,0,100,100,0,100,100,0,100,,0,100,0,0,0
+La Paloma Academy South,charter,5660 S 12TH AVE,TUCSON,PIMA,85706,n,,45,100,0,100,100,0,100,100,0,100,98,0,98,,0,100,0,2.2,0
+La Tierra Community School,charter,124 N VIRGINIA ST,PRESCOTT,YAVAPAI,86301,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Lafe Nelson School,public,1100 S 10TH AVE,SAFFORD,GRAHAM,85546,y,rn,70,99,0,99,99,0,99,99,0,99,99,0,99,,0,99,0,0,0
+Laguna,public,5001 N SHANNON RD,TUCSON,PIMA,85705,n,,42,98,0,98,98,0,98,98,0,98,98,0,98,,0,98,0,0,0
+Laguna Elementary School,public,10475 E LAKEVIEW DR,SCOTTSDALE,MARICOPA,85258,y,rn,62,92,8.1,100,92,9.7,100,89,11.3,100,89,11.3,100,,6.5,100,11.3,0,0
+Laird School,public,1500 N SCOVEL ST,TEMPE,MARICOPA,85281,y,rn,55,91,1.8,93,91,1.8,98,93,1.8,95,98,1.8,100,,1.8,100,1.8,0,0
+Lake Pleasant Elementary,public,31501 N WESTLAND RD,PEORIA,MARICOPA,85383,y,rn,63,94,3.2,97,94,3.2,100,97,3.2,100,97,3.2,100,,3.2,100,3.2,0,0
+Lake Valley Elementary School,public,3900 N STARLIGHT DR,PRESCOTT VALLEY,YAVAPAI,86314,y,rn,72,81,5.6,86,81,5.6,90,82,5.6,88,89,5.6,94,,5.6,97,6.9,0,5.6
+Lakeview Elementary School,public,3040 W YUCCA ST,PHOENIX,MARICOPA,85029,n,,56,96,3.6,100,96,3.6,100,96,3.6,100,98,1.8,100,,3.6,100,5.4,0,1.8
+Lamb's Gate Christian School,private,4700 N SWAN RD,TUCSON,PIMA,85718,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Larkspur Elementary School,public,2430 E LARKSPUR DR,PHOENIX,MARICOPA,85032,y,rn,53,94,5.7,100,94,3.8,100,94,5.7,100,96,3.8,100,,1.9,100,5.7,0,5.7
+Larry C Kennedy School,public,2702 E OSBORN RD,PHOENIX,MARICOPA,85016,y,rn,64,97,1.6,98,97,1.6,100,98,1.6,100,98,1.6,100,,1.6,100,1.6,3.1,1.6
+Las Brisas Academy,public,18211 W LAS BRISAS DR,GOODYEAR,MARICOPA,85338,n,,62,94,6.5,100,94,6.5,100,94,6.5,100,98,1.6,100,,4.8,100,6.5,0,6.5
+Las Brisas Elementary School,public,5805 W ALAMEDA RD,GLENDALE,MARICOPA,85310,y,rn,99,92,8.1,100,92,8.1,100,91,8.1,99,93,7.1,100,,4,100,8.1,1,0
+Las Sendas Elementary School,public,3120 N RED MTN,MESA,MARICOPA,85207,y,rn,102,93,6.9,100,93,5.9,100,93,6.9,100,95,4.9,100,,2,100,6.9,0,0
+Lattie Coor School,public,1406 N CENTRAL AVE,AVONDALE,MARICOPA,85323,y,lpn,146,92,.7,93,92,.7,93,94,.7,95,94,.7,95,,.7,97,.7,0,.7
+Laura N. Banks Elementary,private,3200 S LEAD FLOWER AVE,TUCSON,PIMA,85735,y,rn,48,96,0,96,96,0,98,96,0,96,98,0,98,,0,98,0,0,0
+Laveen Elementary School,public,4141 W MCNEIL ST,LAVEEN,MARICOPA,85339,y,rn,50,92,2,94,92,2,98,96,2,98,98,2,100,,0,100,0,2,0
+Laveen Traditional School,charter,7900 S 43RD AVE,LAVEEN,MARICOPA,85339,y,,88,92,8,100,92,5.7,100,93,6.8,100,93,6.8,100,,5.7,100,10.2,0,10.2
+Le Pera Elementary School,public,19121 TAHBO RD,POSTON,LA PAZ,85371,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Leading Edge Academy - East Mesa Campus,charter,10222 E CALYPSO AVE,MESA,MARICOPA,85208,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Leading Edge Academy - Gilbert Elementary Campus,charter,717 W RAY RD,GILBERT,MARICOPA,85233,n,,32,59,40.6,100,59,40.6,100,59,40.6,100,69,31.3,100,,28.1,100,40.6,0,31.3
+Leading Edge Academy - Mountain View Campus,charter,4815 W HUNT HWY,QUEEN CREEK,PINAL,85142,n,,59,85,15.3,100,85,13.6,100,86,13.6,100,88,11.9,100,,10.2,100,15.3,0,10.2
+Leading Edge Academy Maricopa,charter,18700 N PORTER RD,MARICOPA,PINAL,85138,n,,109,90,3.7,94,90,3.7,94,90,3.7,94,93,3.7,96,,3.7,98,3.7,0,0
+Learning Foundation And Performing Arts Alta Mesa,charter,5761 E BROWN RD,MESA,MARICOPA,85205,n,,26,62,34.6,96,62,30.8,100,69,30.8,100,65,34.6,100,,30.8,100,30.8,0,0
+Learning Foundation And Performing Arts Stapley,charter,851 N STAPLEY DR BLDG 6,MESA,MARICOPA,85203,n,,24,83,16.7,100,83,16.7,100,88,12.5,100,83,16.7,100,,12.5,100,16.7,0,0
+Learning Foundation And Performing Arts Warner,charter,3939 E WARNER RD,GILBERT,MARICOPA,85296,n,,55,84,14.5,98,84,12.7,98,84,12.7,96,86,14.5,100,,10.9,100,16.4,0,0
+Legacy Montessori Inc,private,45290 GARVEY AVE,MARICOPA,PINAL,85139,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Legacy Traditional School,charter,3500 W CORTARO FARMS RD,TUCSON,PIMA,85742,n,,149,94,5.4,99,94,5.4,99,93,6.7,99,92,6.7,99,,6.7,99,6.7,6,1.3
+Legacy Traditional School - Avondale,charter,12320 W VAN BUREN ST,AVONDALE,MARICOPA,85323,n,,151,97,2.6,100,97,2.6,100,97,2.6,100,95,4.6,100,,3.3,100,5.3,0,1.3
+Legacy Traditional School - Casa Grande,charter,1274 E O'NEIL DR,CASA GRANDE,PINAL,85138,y,lpn,136,96,3.7,100,96,3.7,100,96,3.7,100,96,3.7,100,,4.4,100,4.4,0,3.7
+Legacy Traditional School - Maricopa,charter,17760 N REGENT DR,MARICOPA,PINAL,85138,n,,124,90,10.5,100,90,8.9,100,91,8.9,100,94,6.5,100,,4.8,100,10.5,0,0
+Legacy Traditional School Gilbert,charter,2747 S RECKER RD,GILBERT,MARICOPA,85295,n,,150,88,12,100,88,11.3,100,88,12,100,91,8.7,100,,9.3,100,9.3,6.7,0
+Legacy Traditional School- Glendale,charter,13901 N 67TH AVE,GLENDALE,MARICOPA,85306,y,lpn,115,96,4.3,100,96,4.3,100,97,3.5,100,96,4.3,100,,3.5,100,4.3,0,4.3
+Legacy Traditional School- North Chandler,charter,1900 N MCQUEEN RD,CHANDLER,MARICOPA,85225,n,,66,97,3,100,97,3,100,97,3,100,97,3,100,,3,100,3,0,0
+Legacy Traditional School-peoria,charter,7877 W HILLCREST BLVD,PEORIA,MARICOPA,85383,y,lpn,63,89,11.1,100,89,11.1,100,89,11.1,100,94,6.3,100,,7.9,100,11.1,0,6.3
+Legacy Traditional Surprise,charter,14506 W SWEETWATER AVE,SURPRISE,MARICOPA,85379,n,,161,91,8.7,100,91,8.1,100,91,9.3,100,93,6.8,100,,5.6,100,11.2,0,5.6
+Legacy Traditional/ Queen Creek,charter,41800 N BARNES PKWY,SAN TAN VALLEY,PINAL,85140,n,,121,87,13.2,100,87,14.9,100,85,14.9,100,90,9.9,100,,12.4,100,55.4,0,9.1
+Legend Springs Elementary,public,21150 N ARROWHEAD LOOP RD,GLENDALE,MARICOPA,85308,y,rn,83,93,7.2,100,93,7.2,100,94,6,100,93,7.2,100,,7.2,100,9.6,1.2,6
+Lehi Elementary School,public,2555 N STAPLEY DR,MESA,MARICOPA,85203,y,rn,54,91,5.6,96,91,5.6,98,94,5.6,100,93,5.6,98,,5.6,100,5.6,0,5.6
+Leman Academy Of Excellence,charter,1000 E WILCOX DR,SIERRA VISTA,COCHISE,85635,n,,47,87,12.8,100,87,8.5,100,96,4.3,100,89,10.6,100,,2.1,100,12.8,0,2.1
+Leman Academy Of Excellence,charter,7720 N SILVERBELL RD,TUCSON,PIMA,85743,y,rn,134,90,9.7,100,90,8.2,100,91,9,100,92,8.2,100,,7.5,100,8.2,.7,6.7
+Leonor Hambly K-8,public,824 THORNE AVENUE,WINKELMAN,PINAL,85192,n,,22,91,0,91,91,0,100,100,0,100,100,0,100,,0,100,0,0,0
+Leupp School,public,3285 E SPARROW AVE,FLAGSTAFF,COCONINO,86004,y,rn,22,96,0,96,96,0,96,96,0,96,100,0,100,,0,100,0,0,0
+Liberty Arts Academy,charter,3015 S POWER RD,MESA,MARICOPA,85212,n,,41,61,39,100,61,19.5,100,68,31.7,100,90,9.8,100,,0,100,14.6,0,14.6
+Liberty Elementary School,public,19818 W US HIGHWAY 85,BUCKEYE,MARICOPA,85326,y,lpn,37,100,0,100,100,2.7,100,97,2.7,100,100,0,100,,0,100,2.7,0,0
+Liberty Elementary School,public,5495 S LIBERTY AVE,TUCSON,PIMA,85706,y,rn,106,98,1.9,100,98,.9,100,99,.9,100,100,0,100,,0,100,1.9,0,0
+Liberty Elementary School,public,5125 E MARILYN RD,SCOTTSDALE,MARICOPA,85254,y,rn,59,90,5.1,95,90,5.1,95,92,5.1,97,92,5.1,97,,5.1,98,5.1,0,3.4
+Liberty Traditional Charter School,charter,4027 N 45TH AVE,PHOENIX,MARICOPA,85031,n,,35,97,0,97,97,0,86,94,0,94,97,0,97,,0,94,0,0,0
+"Liberty Traditional Saddleback Charter School In Douglas,arizona",charter,3715 N WASHINGTON AVE,DOUGLAS,COCHISE,85607,n,,25,100,0,100,100,0,100,100,0,100,100,0,100,,0,100,0,0,0
+Liberty Traditional School,public,3300 N LAKE VALLEY RD,PRESCOTT VALLEY,YAVAPAI,86314,y,rn,92,92,7.6,100,92,7.6,100,90,9.8,100,94,6.5,100,,5.4,100,10.9,0,5.4
+Lifelong Learning Academy,charter,3295 W ORANGE GROVE RD,TUCSON,PIMA,85741,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Lincoln Elementary School,public,652 N TYLER AVE,NOGALES,SANTA CRUZ,85621,y,rn,80,100,0,100,100,0,100,100,0,100,100,0,100,,0,100,0,0,0
+Lincoln Elementary School,public,201 PARK AVE,PRESCOTT,YAVAPAI,86303,n,,55,80,7.3,87,80,7.3,89,80,7.3,87,87,7.3,95,,7.3,95,7.3,0,7.3
+Lincoln Elementary School,public,930 S SIRRINE,MESA,MARICOPA,85210,y,rn,94,98,1.1,99,98,1.1,99,99,1.1,100,98,1.1,99,,1.1,100,1.1,0,1.1
+Lindbergh Elementary School,public,930 S LAZONA DR,MESA,MARICOPA,85204,y,rn,52,100,0,100,100,0,100,98,0,98,100,0,100,,0,98,0,0,0
+Linden Elementary School,public,1009 SCHOOL HOUSE LN,SHOW LOW,NAVAJO,85901,n,,23,91,8.7,100,91,8.7,100,91,8.7,100,91,8.7,100,,8.7,100,8.7,0,8.7
+Lineweaver Elementary School,public,461 S BRYANT AVE,TUCSON,PIMA,85711,y,rn,68,97,2.9,100,97,2.9,99,97,2.9,100,97,2.9,100,,2.9,100,2.9,1.5,0
+Litchfield Elementary School,charter,272 E SAGEBRUSH ST,LITCHFIELD PARK,MARICOPA,85340,y,lpn,150,97,3.3,100,97,2,100,97,2.7,100,98,2,100,,1.3,100,3.3,0,3.3
+Little Explorers Early Learning Center,public,3175 E GORDON DR,KINGMAN,MOHAVE,86409,y,,36,94,0,94,94,2.8,97,92,8.3,100,92,5.6,97,,5.6,100,11.1,0,11.1
+Little Red School House,public,7 DUQUESNE RD,NOGALES,SANTA CRUZ,85621,n,,24,100,0,100,100,0,100,96,4.2,100,100,0,100,,0,100,4.2,0,0
+Littleton Elementary School,public,1252 S 115TH AVE,CASHION,MARICOPA,85323,y,rn,53,94,5.7,100,94,3.8,100,94,5.7,100,98,1.9,100,,3.8,100,3.8,1.9,0
+Logos Christian Academy,private,9745 N TREKELL RD,CASA GRANDE,PINAL,85122,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Loma Linda Elementary School,public,2002 E CLARENDON AVE,PHOENIX,MARICOPA,85016,y,lpn,62,100,0,100,100,0,100,100,0,100,100,0,100,,0,100,0,0,0
+Lone Mountain Elementary School,public,5250 E MONTGOMERY RD,CAVE CREEK,MARICOPA,85331,n,,49,92,4.1,96,92,4.1,100,94,4.1,98,98,2,100,,4.1,100,4.1,0,4.1
+Longfellow Elementary School,public,345 S HALL,MESA,MARICOPA,85204,y,rn,77,96,2.6,99,96,2.6,100,97,1.3,99,100,0,100,,0,100,2.6,0,2.6
+Lookout Mountain School,public,15 W CORAL GABLES DR,PHOENIX,MARICOPA,85023,n,,133,92,8.3,100,92,9.8,99,93,7.5,100,94,5.3,99,,3.8,100,9.8,0,3
+Loretto Catholic School,private,1200 E 14TH ST,DOUGLAS,COCHISE,85607,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Los Amigos Elementary School,public,2200 E DREXEL RD,TUCSON,PIMA,85706,y,rn,106,96,0,96,96,0,100,100,0,100,99,0,99,,0,100,0,0,0
+Los Ninos Elementary,public,5445 S ALVERNON WAY,TUCSON,PIMA,85706,y,rn,64,98,0,98,98,0,98,100,0,100,98,0,98,,0,100,0,0,0
+Lourdes Catholic School,private,555 E PATAGONIA HWY,NOGALES,SANTA CRUZ,85621,n,,26,100,0,100,100,0,100,100,0,100,100,0,100,,0,100,0,0,0
+Lowell Elementary School,public,920 E BROADWAY RD,MESA,MARICOPA,85204,y,rn,73,100,0,100,100,0,100,100,0,100,100,0,100,,0,100,0,0,0
+Lowell School,public,1121 S 3RD AVE,PHOENIX,MARICOPA,85003,n,,64,97,1.6,98,97,1.6,100,98,1.6,100,100,0,100,,0,100,1.6,0,1.6
+Luke Elementary School,public,7300 N DYSART RD,GLENDALE,MARICOPA,85307,y,lpn,94,95,1.1,96,95,1.1,97,95,1.1,96,98,1.1,99,,1.1,100,1.1,0,1.1
+Lulu Walker School,public,1750 W ROLLER COASTER RD,TUCSON,PIMA,85704,n,,73,96,0,96,96,0,97,100,0,100,99,0,99,,0,100,0,0,0
+Lynn Urquides Elementary School,public,1573 W AJO WAY,TUCSON,PIMA,85713,y,,89,99,0,99,99,0,100,100,0,100,100,0,100,,0,100,0,0,0
+Mabel Padgett Elementary School,public,15430 W TURNEY AVE,GOODYEAR,MARICOPA,85395,y,rn,96,100,0,100,100,0,100,99,1,100,100,0,100,,0,100,1,0,0
+Macarthur Elementary School,public,1435 E MCLELLAN RD,MESA,MARICOPA,85203,y,rn,77,87,11.7,99,87,11.7,99,90,10.4,100,86,11.7,97,,11.7,99,10.4,1.3,10.4
+Madison Camelview Elementary,public,2002 E CAMPBELL AVE,PHOENIX,MARICOPA,85016,n,,122,95,3.3,98,95,3.3,98,97,3.3,100,95,3.3,98,,3.3,100,3.3,0,3.3
+Madison Elementary School,public,849 S SUNNYVALE,MESA,MARICOPA,85206,y,rn,48,96,4.2,100,96,2.1,100,98,2.1,100,98,2.1,100,,0,100,2.1,0,0
+Madison Heights Elementary School,public,7150 N 22ND ST,PHOENIX,MARICOPA,85020,n,,76,99,0,99,99,0,100,100,0,100,99,0,99,,0,100,0,0,0
+Madison Richard Simis School,public,7302 N 10TH ST,PHOENIX,MARICOPA,85020,n,,173,95,1.7,97,95,1.7,99,97,2.3,99,95,2.9,98,,1.7,98,2.9,0,2.9
+Madison Rose Lane School,public,1155 E ROSE LN,PHOENIX,MARICOPA,85014,y,rn,162,94,4.3,99,94,4.3,100,96,4.3,100,96,4.3,100,,4.3,100,4.3,0,4.3
+Madison Tradition Academy,public,925 E MARYLAND AVE,PHOENIX,MARICOPA,85014,n,,78,100,0,100,100,0,100,97,2.6,100,99,0,99,,0,100,2.6,1.3,0
+Magical Journey Learning Center,private,1241 E CHANDLER BLVD STE 115,PHOENIX,MARICOPA,85048,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Magma Ranch K-8,public,10890 DESERT MOUNTAIN BLVD,FLORENCE,PINAL,85132,y,,62,68,0,68,68,0,71,71,0,71,86,0,86,,0,92,1.6,0,0
+Magnet Traditional,public,2602 N 23RD AVE,PHOENIX,MARICOPA,85009,y,rn,43,100,0,100,100,0,98,98,0,98,100,0,100,,0,100,0,0,0
+Maie Bartlett Heard,public,2301 W THOMAS RD,PHOENIX,MARICOPA,85015,y,lpn,39,92,2.6,95,92,2.6,97,92,2.6,95,95,2.6,97,,2.6,100,2.6,0,0
+Maine Consolidated School,public,10 SPRING VALLEY RD,PARKS,COCONINO,86018,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Maldonado Amelia Elementary School,public,3535 W MESSALA WAY,TUCSON,PIMA,85746,y,rn,54,98,1.9,100,98,1.9,100,98,1.9,100,100,0,100,,0,100,1.9,0,1.9
+Mammoth Elementary School,public,111 W DUNGAN DR,MAMMOTH,PINAL,85618,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Manuel Pena Elementary,public,2550 N 25TH PL,PHOENIX,MARICOPA,85008,y,lpn,132,98,2.3,100,98,2.3,100,97,2.3,99,98,2.3,100,,2.3,100,2.3,0,2.3
+Many Farms Elementary School,public,NORTH HWY 191,MANY FARMS,APACHE,86503,y,lpn,52,98,0,98,98,0,98,100,0,100,100,0,100,,0,100,0,0,0
+Manzanita Elementary School,public,8430 N 39TH AVE,PHOENIX,MARICOPA,85051,n,,109,99,.9,100,99,.9,100,99,.9,100,99,.9,100,,0,100,.9,0,0
+Manzanita Elementary School,public,2601 DETROIT AVE,KINGMAN,MOHAVE,86401,n,,123,80,10.6,90,80,9.8,91,82,8.9,91,89,4.9,94,,3.3,100,10.6,0,3.3
+Manzo Elementary School,public,855 N MELROSE AVE,TUCSON,PIMA,85745,y,rn,43,91,4.7,95,91,2.3,95,95,4.7,100,98,2.3,100,,2.3,100,4.7,0,4.7
+Maricopa Elementary School,public,18150 N ALTERRA PKWY,MARICOPA,PINAL,85139,y,rn,98,97,3.1,100,97,3.1,100,96,4.1,100,97,3.1,100,,0,100,3.1,1,2
+Marilyn Thiele Wilson School,public,5619 E GLADE AVE,MESA,MARICOPA,85206,y,rn,91,87,0,87,87,0,87,86,0,86,89,0,89,,0,100,8.8,3.3,0
+Marjorie W Estes Elementary School,public,13650 N MCDUFF RD,MARANA,PIMA,85653,y,rn,76,93,1.3,95,93,2.6,96,93,2.6,96,95,1.3,96,,2.6,97,2.6,1.3,1.3
+Marley Park Elementary,public,15042 W SWEETWATER AVE,SURPRISE,MARICOPA,85379,y,lpn,116,84,6,90,84,5.2,86,88,7.8,96,75,4.3,79,,4.3,98,33.6,0,0
+Marshall Humphrey Ii Elementary School,public,125 S 132ND ST,CHANDLER,MARICOPA,85225,n,,72,92,8.3,100,92,6.9,100,93,6.9,100,94,5.6,100,,4.2,100,6.9,0,5.6
+Marshall K-5 School,public,9066 E 29TH ST,TUCSON,PIMA,85710,y,rn,51,98,0,98,98,0,98,100,0,100,98,0,98,,0,98,0,0,0
+Marshall Ranch Elementary School,public,12995 N MARSHALL RANCH DR,GLENDALE,MARICOPA,85304,y,lpn,89,100,0,100,100,0,100,100,0,100,99,0,99,,0,100,0,0,0
+Mary A. Otondo,public,2251 S OTONDO DR,YUMA,YUMA,85365,n,,126,98,1.6,100,98,1.6,100,98,1.6,100,98,1.6,100,,0,98,1.6,0,1.6
+Mary Belle Mccorkle,public,4455 S MISSION RD,TUCSON,PIMA,85746,y,rn,89,98,2.2,100,98,2.2,100,98,2.2,100,98,2.2,100,,0,100,2.2,0,0
+Mary C O'brien Elementary School,public,1400 N ELEVEN MILE CORNER RD,CASA GRANDE,PINAL,85294,y,rn,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Mary L Welty Elementary School,public,1050 W CIMARRON ST,NOGALES,SANTA CRUZ,85621,y,rn,63,100,0,100,100,0,100,100,0,100,100,0,100,,0,100,0,0,0
+Mary Mcleod Bethune School,public,1310 S 15TH AVE,PHOENIX,MARICOPA,85007,y,rn,51,100,0,100,100,0,100,100,0,100,100,0,100,,0,100,0,0,0
+Maryland Elementary School,public,6503 N 21ST AVE,PHOENIX,MARICOPA,85015,n,,98,97,1,98,97,1,99,98,1,99,98,1,99,,0,100,1,0,1
+Maryvale Preparatory Academy,public,6301 W INDIAN SCHOOL RD,PHOENIX,MARICOPA,85033,n,,53,93,7.5,100,93,7.5,100,93,7.5,100,93,7.5,100,,7.5,100,7.5,0,7.5
+Math And Science Success Academy,charter,434 W LERDO RD,TUCSON,PIMA,85756,n,,52,100,0,100,100,0,100,100,0,100,100,0,100,,0,100,0,0,0
+Maurice C Cash School,public,3851 W ROESER RD,PHOENIX,MARICOPA,85041,y,rn,94,96,0,96,96,0,97,95,0,95,100,0,100,,0,100,0,0,0
+Maxine O Bush Elementary School,public,602 E SIESTA DR,PHOENIX,MARICOPA,85042,y,rn,43,100,0,100,100,0,100,100,0,100,100,0,100,,0,100,0,0,0
+Mayer Elementary School,public,12568 E MAIN ST,MAYER,YAVAPAI,86333,n,,30,73,26.7,100,73,26.7,100,83,16.7,100,87,13.3,100,,0,100,26.7,0,13.3
+Mccartney Ranch Elementary School,public,2631 N BROWN AVE,CASA GRANDE,PINAL,85122,y,rn,110,97,0,97,97,.9,98,99,.9,100,99,0,99,,0,100,.9,0,0
+Mcdowell Mountain Elementary School,public,14825 N FAYETTE DR,FOUNTAIN HILLS,MARICOPA,85268,n,,78,90,10.3,100,90,10.3,100,89,11.5,100,90,10.3,100,,10.3,100,11.5,0,10.3
+Mcnary Elementary School,public,108 N. POLLOCK,MCNARY,APACHE,85930,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Mcneal Elementary School,public,3979 MCNEAL ST,MC NEAL,COCHISE,85617,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Melvin E Sine School,public,4932 W MYRTLE AVE,GLENDALE,MARICOPA,85301,y,lpn,72,96,0,96,96,0,97,100,0,100,99,0,99,,0,100,0,0,0
+Mendoza Elementary School,public,5831 E MCLELLAN RD,MESA,MARICOPA,85205,y,rn,64,92,7.8,100,92,9.4,100,89,10.9,100,89,10.9,100,,0,100,9.4,1.6,0
+Mercury Mine Elementary School,public,9640 N 28TH ST,PHOENIX,MARICOPA,85028,y,rn,78,97,2.6,100,97,2.6,100,96,3.8,100,95,5.1,100,,2.6,100,5.1,0,0
+Meridian Elementary - Gilbert Public Schools,public,3900 S MOUNTAIN RD,MESA,MARICOPA,85212,y,rn,102,98,1,99,98,1,100,99,1,100,99,1,100,,1,100,1,0,1
+Mesa Arts Academy,charter,221 W 6TH AVE,MESA,MARICOPA,85210,n,,24,96,4.2,100,96,4.2,100,83,4.2,88,96,4.2,100,,0,100,4.2,0,4.2
+Mesa Montessori,private,2830 S CARRIAGE LN,MESA,MARICOPA,85202,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Mesa Verde Elementary School,public,1661 W SAGE ST,TUCSON,PIMA,85704,n,,53,100,0,100,100,0,100,100,0,100,100,0,100,,0,100,0,0,0
+Mesa View Elementary School,public,U.S. HWY 191 and N.R. 7,CHINLE,APACHE,86503,n,,60,100,0,100,100,0,100,100,0,100,100,0,100,,0,100,0,0,0
+Mesquite Elementary,public,9455 E RITA RD,TUCSON,PIMA,85747,n,,114,99,.9,100,99,.9,100,98,1.8,100,98,1.8,100,,.9,100,1.8,0,0
+Mesquite Elementary School,public,129 N ARIZOLA RD,CASA GRANDE,PINAL,85222,y,rn,66,96,3,99,96,3,100,97,3,100,99,1.5,100,,3,100,3,0,3
+Mesquite Elementary School,public,4451 W 28TH ST,YUMA,YUMA,85364,n,,77,99,0,99,99,0,99,100,0,100,100,0,100,,0,100,0,0,0
+Mesquite Elementary School,public,1101 E MESQUITE ST,GILBERT,MARICOPA,85296,y,rn,65,99,1.5,100,99,1.5,100,99,1.5,100,99,1.5,100,,1.5,100,1.5,0,0
+Metcalf Elementary School,public,904 FAIRBANKS RD.,MORENCI,GREENLEE,85540,n,,121,97,.8,98,97,.8,98,98,.8,99,98,.8,99,,.8,100,.8,0,.8
+Mexicayotl Academy,charter,667 N 7TH AVE,TUCSON,PIMA,85705,n,,25,100,0,100,100,0,100,100,0,100,100,0,100,,0,100,0,0,0
+Mexicayotl Charter School,charter,2059 N GRAND AVE,NOGALES,SANTA CRUZ,85621,n,,24,96,4.2,100,96,4.2,100,96,4.2,100,96,4.2,100,,4.2,100,4.2,0,0
+Michael Anderson School,public,45 S 3RD AVE,AVONDALE,MARICOPA,85323,y,lpn,83,96,3.6,100,96,1.2,100,99,1.2,100,99,1.2,100,,1.2,100,1.2,2.4,1.2
+Midtown Primary School,charter,4735 N 19TH AVE,PHOENIX,MARICOPA,85015,n,,23,87,0,87,87,0,96,87,0,87,87,0,87,,0,91,0,0,0
+Miles-exploratory Learning Center,public,1400 E BROADWAY BLVD,TUCSON,PIMA,85719,y,rn,31,100,0,100,100,0,97,97,3.2,100,94,3.2,97,,3.2,100,6.5,3.2,0
+Milestones Charter School_correct Data,charter,4707 E ROBERT E LEE ST,PHOENIX,MARICOPA,85032,n,,63,100,0,100,100,0,100,100,0,100,100,0,100,,0,100,0,0,0
+Miller Elementary School,public,6951 S CAMINO DE LA TIERRA,TUCSON,PIMA,85746,y,rn,80,98,0,98,98,0,98,98,0,98,98,0,98,,0,100,0,0,0
+Mingus Springs Charter School,charter,3600 SUNSET DR,CHINO VALLEY,YAVAPAI,86323,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Mirage Elementary School,public,3910 W GROVERS AVE,GLENDALE,MARICOPA,85308,y,rn,94,99,1.1,100,99,2.1,100,99,1.1,100,97,3.2,100,,0,100,4.3,0,0
+Mis Manos Montessori School/kindergarten,private,100 W MAGEE RD,TUCSON,PIMA,85704,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Mission Manor Elementary School,public,600 W SANTA ROSA ST,TUCSON,PIMA,85706,y,rn,69,97,1.4,99,97,1.4,100,99,1.4,100,99,1.4,100,,1.4,100,1.4,0,1.4
+Mission View Elementary School,public,2600 S 8TH AVE,TUCSON,PIMA,85713,y,rn,27,100,0,100,100,0,100,100,0,100,100,0,100,,0,100,0,0,0
+Mitchell Elementary School,public,1700 N 41ST AVE,PHOENIX,MARICOPA,85009,n,,124,94,.8,94,94,.8,95,94,.8,94,98,.8,99,,.8,100,.8,0,0
+Mobile Elementary School,public,42798 S 99TH AVE,MARICOPA,MARICOPA,85139,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Model Creek Elementary School,public,18912 W HAYS RANCH RD,KIRKLAND,YAVAPAI,86332,n,rn,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Mohave Accelerated Elementary East,charter,945 THUMB BUTTE,BULLHEAD CITY,MOHAVE,86429,n,,22,100,0,100,100,0,100,100,0,100,100,0,100,,0,100,0,0,0
+Mohave Accelerated Learning Center,charter,625 MARINA BLVD,BULLHEAD CITY,MOHAVE,86442,n,,64,95,4.7,100,95,4.7,100,95,4.7,100,95,4.7,100,,3.1,100,3.1,1.6,3.1
+Mohawk Valley School,public,5151 S AVENUE 39 E,ROLL,YUMA,85347,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Monte Vista,public,3501 E OSBORN RD,PHOENIX,MARICOPA,85018,y,rn,94,98,0,98,98,0,98,98,0,98,98,0,98,,0,100,0,4.3,0
+Montebello School,public,5725 N 27TH AVE,PHOENIX,MARICOPA,85017,n,,130,99,0,99,99,0,99,99,0,99,97,0,97,,0,100,0,0,0
+Montessori Academy,charter,6050 N INVERGORDON RD,PARADISE VALLEY,MARICOPA,85253,n,,26,77,23.1,100,77,23.1,100,77,23.1,100,77,23.1,100,,19.2,100,15.4,3.8,15.4
+Montessori Charter School Of Flagstaff - Westside,charter,575 W UNIVERSITY AVE,FLAGSTAFF,COCONINO,86001,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Montessori Children's House,private,2400 W DATSI ST,CAMP VERDE,YAVAPAI,86322,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Montessori Childrens House,private,516 W BETHANY HOME RD,PHOENIX,MARICOPA,85013,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+"Montessori Day Public School, Chartered",charter,9215 N 14TH ST,PHOENIX,MARICOPA,85020,n,,26,73,26.9,100,73,26.9,100,73,26.9,100,77,23.1,100,,26.9,100,26.9,0,26.9
+Montessori Day Schools,charter,1700 W WARNER RD,CHANDLER,MARICOPA,85224,n,,24,83,16.7,100,83,16.7,100,83,16.7,100,83,16.7,100,,12.5,100,29.2,0,8.3
+Montessori De Santa Cruz,charter,18 CALLE BACA,TUBAC,SANTA CRUZ,85646,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Montessori Educare Academy,private,1244 E CHANDLER BLVD,PHOENIX,MARICOPA,85048,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Montessori Education Centre,charter,2834 E SOUTHERN AVE,MESA,MARICOPA,85204,n,,38,66,34.2,100,66,31.6,100,66,34.2,100,79,21.1,100,,23.7,100,31.6,0,18.4
+Montessori Education Centre Charter School,charter,815 N GILBERT RD,MESA,MARICOPA,85203,n,,52,85,15.4,100,85,17.3,100,89,11.5,100,90,9.6,100,,9.6,100,17.3,0,7.7
+Montessori House Llc,charter,2415 N TERRACE CIR,MESA,MARICOPA,85203,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Montessori International Elementary Schoo,private,2401 E BROWN RD,MESA,MARICOPA,85213,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Montessori International Elementary Schoo,private,1230 N GILBERT RD,MESA,MARICOPA,85203,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Montessori Kingdom Of Learning Elem,private,12821 N 93RD DR,PEORIA,MARICOPA,85381,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Montessori School Of Flagstaff,charter,2025 N EAST ST,FLAGSTAFF,COCONINO,86004,n,,21,95,4.8,100,95,4.8,100,91,9.5,100,91,9.5,100,,0,100,4.8,0,4.8
+Moon Mountain School,public,13425 N 19TH AVE,PHOENIX,MARICOPA,85029,n,,105,94,2.9,97,94,2.9,97,97,2.9,100,96,3.8,100,,1.9,100,2.9,1,2.9
+Morgan Maxwell School,public,2802 W ANKLAM RD,TUCSON,PIMA,85745,y,rn,40,98,0,98,98,0,98,95,0,95,98,0,98,,0,98,0,0,0
+Morristown Elementary School District,public,25950 W ROCKAWAY HILLS RD,MORRISTOWN,MARICOPA,85342,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Most Holy Trinity Roman Catholic Parish Phoenix Child Care Center,private,535 E ALICE AVE,PHOENIX,MARICOPA,85020,y,rn,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Mount Turnbull Elementary,public,297 E US HIGHWAY 70,BYLAS,GRAHAM,85530,y,rn,21,100,0,100,100,0,100,100,0,100,100,0,100,,0,100,0,0,0
+Mountain Christian School,private,3171 E SHOW LOW LAKE RD,SHOW LOW,NAVAJO,85901,y,lpn,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Mountain Meadows Primary,public,2181 COUNTRY CLUB DR,OVERGAARD,NAVAJO,85933,y,rn,33,91,9.1,100,91,9.1,100,91,9.1,100,91,9.1,100,,9.1,100,9.1,0,9.1
+Mountain Oak Charter School,charter,1455 WILLOW CREEK RD,PRESCOTT,YAVAPAI,86301,n,,21,29,52.4,81,29,52.4,76,29,52.4,81,43,52.4,95,,52.4,91,52.4,0,52.4
+Mountain School,charter,311 W CATTLE DRIVE TRL,FLAGSTAFF,COCONINO,86005,n,,33,88,12.1,100,88,12.1,100,88,12.1,100,88,12.1,100,,18.2,100,18.2,0,12.1
+Mountain Shadows Elementary School,public,19602 N 45TH AVE,GLENDALE,MARICOPA,85308,n,,58,93,6.9,100,93,5.2,100,93,6.9,100,97,3.4,100,,5.2,100,6.9,0,3.4
+Mountain View Elementary,public,1374 W FRONTAGE RD,RIO RICO,SANTA CRUZ,85648,y,rn,64,100,0,100,100,0,100,100,0,100,100,0,100,,0,100,0,0,0
+Mountain View Elementary School,public,801 W PEORIA AVE,PHOENIX,MARICOPA,85029,n,,165,99,.6,99,99,.6,100,99,.6,100,99,1.2,100,,0,94,1.8,0,0
+Mountain View Elementary School,public,8601 E LOOS DR,PRESCOTT VALLEY,YAVAPAI,86314,y,rn,61,98,1.6,100,98,1.6,100,98,1.6,100,98,1.6,100,,1.6,100,1.6,0,0
+Mountain View Preparatory,public,2939 E DEL RIO DR,COTTONWOOD,YAVAPAI,86326,n,,44,82,18.2,100,82,18.2,100,84,15.9,100,82,18.2,100,,18.2,100,20.5,2.3,15.9
+Mountain View School,public,18302 W BURTON AVE,WADDELL,MARICOPA,85355,y,lpn,98,89,7.1,96,89,8.2,97,91,8.2,99,90,7.1,97,,6.1,100,9.2,0,6.1
+Mountain Vista School,public,2618 W EL PASEO,ORACLE,PINAL,85623,n,,35,97,0,97,97,0,94,100,0,100,94,0,94,,0,100,0,0,0
+Moutain Vista Academy,public,33622 N MOUNTAIN VISTA BLVD,SAN TAN VALLEY,PINAL,85142,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Moya Elementary School,public,406 N 41ST AVE,PHOENIX,MARICOPA,85009,n,,84,99,1.2,100,99,1.2,100,99,1.2,100,99,1.2,100,,1.2,100,1.2,1.2,0
+Mt Tipton Elementary School,public,16500 N PIERCE FERRY RD,DOLAN SPRINGS,MOHAVE,86441,y,rn,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Myers-ganoung Elementary School,public,5000 E ANDREW ST,TUCSON,PIMA,85711,y,rn,58,79,1.7,81,79,1.7,90,90,1.7,91,83,1.7,85,,1.7,95,1.7,0,1.7
+Naco Elementary School,public,1911 VALENZUELA ST.,NACO,COCHISE,85620,n,,27,93,0,93,93,0,96,100,0,100,96,0,96,,0,100,0,0,0
+Nadaburg Elementary School,public,21449 W DOVE VALLEY RD,WITTMANN,MARICOPA,85361,n,,23,100,0,100,100,0,100,100,0,100,100,0,100,,0,100,0,0,0
+Nautilus Elementary School,public,1425 PATRICIAN DR,LAKE HAVASU CITY,MOHAVE,86404,y,rn,46,98,2.2,100,98,4.3,100,98,2.2,100,98,2.2,100,,2.2,100,4.3,0,2.2
+Navajo Elementary School,public,4525 N GRANITE REEF RD,SCOTTSDALE,MARICOPA,85251,n,,64,84,15.6,100,84,15.6,100,84,15.6,100,83,17.2,100,,15.6,100,18.8,1.6,12.5
+Navarrete Elementary,public,6940 S. SUN GROVES BVLD,CHANDLER,MARICOPA,85249,n,,76,95,5.3,100,95,5.3,100,95,5.3,100,96,3.9,100,,5.3,100,6.6,0,6.6
+Naylor Middle School,public,1701 S COLUMBUS BLVD,TUCSON,PIMA,85711,y,rn,35,77,22.9,100,77,17.1,100,89,11.4,100,86,14.3,100,,0,100,20,2.9,0
+Neely Traditional Academy,public,321 W JUNIPER AVE,GILBERT,MARICOPA,85233,y,rn,114,98,1.8,100,98,1.8,100,97,2.6,100,98,1.8,100,,0,97,2.6,0,1.8
+Nevitt Elementary School,public,4525 E SAINT ANNE AVE,PHOENIX,MARICOPA,85042,y,rn,125,98,2.4,100,98,1.6,100,98,1.6,100,98,1.6,100,,2.4,100,2.4,0,0
+New Covenant Preschool And Kindergarten_correct_data,private,15152 N FRANK LLOYD WRIGHT BLVD,SCOTTSDALE,MARICOPA,85260,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+New Horizon School For The Performing Art,charter,446 E BROADWAY RD,MESA,MARICOPA,85204,n,,29,100,0,100,100,0,100,100,0,100,100,0,100,,0,100,0,3.4,0
+New River Elementary School,public,48827 N BLACK CANYON HWY,PHOENIX,MARICOPA,85087,y,lpn,32,91,9.4,100,91,9.4,100,94,6.3,100,91,9.4,100,,6.3,100,9.4,0,0
+New Vistas Academy,private,670 N ARIZONA AVE STE 35,CHANDLER,MARICOPA,85225,n,,51,98,2,100,98,2,100,98,2,100,94,2,96,,2,100,2,0,2
+New World Educational Center,charter,5818 N 7TH ST,PHOENIX,MARICOPA,85014,n,,22,91,9.1,100,91,9.1,100,91,9.1,100,91,9.1,100,,9.1,100,9.1,0,9.1
+Noah Webster Basic School,charter,7301 E BASELINE RD,MESA,MARICOPA,85209,n,,177,93,6.2,99,93,5.6,100,93,6.8,100,96,4,100,,4,100,7.3,0,3.4
+Noah Webster Schools-pima,charter,5399 N PIMA RD APT 154,SCOTTSDALE,MARICOPA,85250,n,,85,93,7.1,100,93,8.2,100,92,8.2,100,95,4.7,100,,3.5,100,9.4,0,3.5
+Noor Academy Of Arizona,private,1130 W 23RD ST,TEMPE,MARICOPA,85282,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Norterra Canyon K-8,public,2200 W MAYA WAY,PHOENIX,MARICOPA,85085,y,rn,116,93,6.9,100,93,7.8,100,92,7.8,100,97,3.4,100,,4.3,97,9.5,0,9.5
+North Ranch Elementary School,public,16406 N 61ST PL,SCOTTSDALE,MARICOPA,85254,y,rn,86,97,1.2,98,97,1.2,100,99,1.2,100,98,1.2,99,,1.2,100,1.2,0,1.2
+North Valley Christian Academy,private,42101 N 41ST DR STE 101,ANTHEM,MARICOPA,85086,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Northland Christian School,private,8000 N US HIGHWAY 89,FLAGSTAFF,COCONINO,86004,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Northminster Christian School,private,2450 E FORT LOWELL RD,TUCSON,PIMA,85719,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Northwest Christian School,private,16401 N 43RD AVE,PHOENIX,MARICOPA,85053,y,rn,85,80,20,100,80,20,100,80,20,100,80,20,100,,14.1,100,25.9,0,0
+Nosotros Academy,charter,440 N GRANDE AVE,TUCSON,PIMA,85745,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+O'connor,public,4840 E ADOBE ST,MESA,MARICOPA,85205,y,rn,51,92,7.8,100,92,5.9,100,94,5.9,100,96,3.9,100,,0,100,9.8,0,2
+O.c. Johnson Elementary,public,1201 W 12TH ST,YUMA,YUMA,85364,n,,86,97,0,97,97,0,94,100,0,100,99,0,99,,0,100,0,0,0
+Oak Creek School,public,11490 E PURPLE SAGE DR,CORNVILLE,YAVAPAI,86325,n,,25,88,12,100,88,12,100,88,12,100,84,12,96,,12,96,12,0,12
+Oak Tree Elementary,public,505 W HOUSTON AVE,GILBERT,MARICOPA,85233,y,rn,71,96,4.2,100,96,2.8,100,96,4.2,100,97,2.8,100,,1.4,100,2.8,1.4,1.4
+Oakwood Elementary,public,12900 N 71ST AVE,PEORIA,MARICOPA,85381,y,lpn,97,92,7.2,99,92,6.2,98,92,7.2,99,93,6.2,99,,6.2,99,7.2,0,7.2
+Oasis Elementary School,public,7841 W SWEETWATER AVE,PEORIA,MARICOPA,85381,y,lpn,87,93,6.9,100,93,5.7,100,91,9.2,100,98,2.3,100,,3.4,100,9.2,0,2.3
+Ochoa Elementary School,public,101 W 25TH ST,TUCSON,PIMA,85713,y,rn,31,97,3.2,100,97,3.2,100,97,3.2,100,97,3.2,100,,0,100,0,3.2,0
+Ocotillo,public,5702 S CAMPBELL AVE,TUCSON,PIMA,85706,y,rn,90,97,2.2,99,97,2.2,99,97,2.2,99,97,2.2,99,,2.2,100,2.2,0,2.2
+Ocotillo Ridge Elementary School,public,10170 S WHITE LIGHTNING LN,VAIL,PIMA,85641,n,,67,93,3,96,93,3,96,93,3,96,93,3,96,,3,96,3,0,0
+Ocotillo School,public,3225 W OCOTILLO RD,PHOENIX,MARICOPA,85017,n,,106,97,.9,98,97,.9,100,98,.9,99,99,.9,100,,0,100,.9,0,.9
+Odyssey Preparatory Academy,charter,17532 W HARRISON ST,GOODYEAR,MARICOPA,85338,y,,79,91,8.9,100,91,8.9,100,87,12.7,100,94,6.3,100,,0,100,15.2,1.3,3.8
+Odyssey Sienna Hills,charter,2400 N. SIENNA HILLS PARKWAY,BUCKEYE,MARICOPA,85396,n,,61,93,6.6,100,93,3.3,100,92,8.2,100,98,1.6,100,,1.6,100,8.2,0,3.3
+Omega Alpha Academy,charter,1402 N SAN ANTONIO AVE,DOUGLAS,COCHISE,85607,n,,28,89,0,89,89,0,89,96,0,96,96,0,96,,0,100,0,0,0
+Open Doors Community School,charter,13644 N SANDARIO RD,MARANA,PIMA,85653,n,,27,100,0,100,100,0,100,93,3.7,96,100,0,100,,0,100,3.7,0,0
+Orange Grove Elementary School,public,3525 W COUNTY 16 1/2 ST,SOMERTON,YUMA,85350,y,rn,72,96,0,96,96,0,96,100,0,100,100,0,100,,0,100,0,0,0
+Orangewood Elementary School,public,7337 N 19TH AVE,PHOENIX,MARICOPA,85021,n,,97,94,4.1,98,94,4.1,98,95,4.1,99,95,4.1,99,,0,100,4.1,0,4.1
+Oro Grande Elementary School,public,1250 PAWNEE DR,LAKE HAVASU CITY,MOHAVE,86406,y,rn,46,98,2.2,100,98,2.2,100,98,2.2,100,98,2.2,100,,2.2,100,2.2,0,2.2
+Our Lady Of Mt. Carmel School,private,2117 S RURAL RD,TEMPE,MARICOPA,85282,y,rn,53,96,3.8,100,96,3.8,100,94,5.7,100,91,9.4,100,,5.7,100,5.7,0,3.8
+Our Lady Of Perpetual Help Catholic School,private,3801 N MILLER RD,SCOTTSDALE,MARICOPA,85251,n,,30,93,6.7,100,93,3.3,100,93,0,93,93,6.7,100,,3.3,100,6.7,0,0
+Our Lady Of Perpetual Help School,private,5614 W ORANGEWOOD AVE,GLENDALE,MARICOPA,85301,n,,36,100,0,100,100,0,100,94,0,94,97,0,97,,0,100,0,0,0
+Our Mother Of Sorrows School,private,1800 S KOLB RD,TUCSON,PIMA,85710,n,,30,93,6.7,100,93,6.7,100,93,6.7,100,93,6.7,100,,6.7,100,6.7,0,6.7
+Owens School District No. 6,public,14109 E. CHICKEN SPRINGS RD.,WIKIEUP,MOHAVE,85360,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+P.e.s.d.#1 - Whittier Peer Club And Preschool,public,2000 N 16TH ST,PHOENIX,MARICOPA,85006,y,rn,59,97,1.7,98,97,1.7,98,98,1.7,100,100,0,100,,0,100,1.7,0,1.7
+P.t. Coe,public,3801 W ROANOKE AVE,PHOENIX,MARICOPA,85009,n,,108,95,0,95,95,0,98,100,0,100,98,0,98,,0,100,0,0,0
+P.v.u.s.d.#69 - Palomino Elementary,public,15833 N 29TH ST,PHOENIX,MARICOPA,85032,y,rn,176,93,0,93,93,0,94,96,0,96,96,0,96,,0,99,0,0,0
+P.v.u.s.d.#69 - Pinnacle Peak Elementary School,public,7690 E WILLIAMS DR,SCOTTSDALE,MARICOPA,85255,y,rn,85,85,15.3,100,85,14.1,100,87,12.9,100,89,10.6,100,,10.6,100,10.6,0,10.6
+Paideia Academies,charter,7777 S 15TH TER,PHOENIX,MARICOPA,85042,y,rn,106,97,2.8,100,97,2.8,100,97,2.8,100,97,2.8,100,,2.8,100,2.8,0,0
+Painted Desert Montessori Academy,charter,2400 S 247TH AVE,BUCKEYE,MARICOPA,85326,n,,38,84,10.5,95,84,10.5,97,74,21.1,95,87,10.5,97,,15.8,100,15.8,0,0
+Painted Sky Elementary School,public,12620 N WOODBURNE AVE,ORO VALLEY,PIMA,85755,n,,65,94,6.2,100,94,4.6,100,94,6.2,100,95,4.6,100,,1.5,100,4.6,3.1,0
+Palm Lane Elementary,public,2043 N 64TH DR,PHOENIX,MARICOPA,85035,y,lpn,115,95,2.6,97,95,2.6,100,97,2.6,100,99,.9,100,,1.7,100,2.6,0,0
+Palm Valley Elementary,public,2801 N 135TH AVE,AVONDALE,MARICOPA,85340,y,lpn,118,96,3.4,99,96,3.4,99,96,3.4,99,97,1.7,98,,3.4,100,4.2,0,3.4
+Palm Valley Montessori Llc,charter,629 N SARIVAL AVE,GOODYEAR,MARICOPA,85338,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Palmcroft Elementary School,public,901 W PALMCROFT DR,YUMA,YUMA,85364,n,,107,98,.9,99,98,.9,99,99,.9,100,99,.9,100,,.9,100,.9,0,.9
+Palms Christian School,private,17475 W BELL RD,SURPRISE,MARICOPA,85374,n,,21,91,9.5,100,91,9.5,100,91,9.5,100,91,9.5,100,,9.5,100,9.5,0,9.5
+Palo Verde,public,40 N ROOSEVELT AVE,CASA GRANDE,PINAL,85122,n,,72,100,0,100,100,0,100,100,0,100,100,0,100,,0,100,0,0,0
+Palo Verde Elementary,public,10700 S. PALO VERDE RD.,PALO VERDE,MARICOPA,85343,n,,44,96,2.3,98,96,2.3,98,98,0,98,98,0,98,,2.3,100,2.3,0,0
+Palominas Elementary School,public,10385 E HIGHWAY 92,HEREFORD,COCHISE,85615,y,lpn,44,100,0,100,100,0,100,100,0,100,100,0,100,,0,100,0,2.3,0
+Pan-american Elementary Charter School,charter,3001 W INDIAN SCHOOL RD STE 150,PHOENIX,MARICOPA,85017,n,,40,100,0,100,100,0,100,100,0,100,100,0,100,,0,100,0,0,0
+Papago Preschool,public,2013 N 36TH ST,PHOENIX,MARICOPA,85008,n,,95,97,1.1,98,97,1.1,99,99,1.1,100,98,1.1,99,,0,100,1.1,0,1.1
+Paradise Education Center,charter,15533 W PARADISE LN,SURPRISE,MARICOPA,85374,y,rn,169,89,5.9,95,89,4.7,96,91,6.5,98,94,3.6,98,,4.1,98,7.1,0,7.1
+Paradise Valley Christian Preparatory,private,11875 N 24TH ST,PHOENIX,MARICOPA,85028,y,rn,24,83,16.7,100,83,16.7,100,83,16.7,100,83,16.7,100,,16.7,100,16.7,0,16.7
+Paragon Science Academy,charter,2975 W LINDA LN,CHANDLER,MARICOPA,85224,n,,51,96,3.9,100,96,2,100,96,3.9,100,98,2,100,,0,100,3.9,0,2
+Paramount Academy,charter,11039 W OLIVE AVE,PEORIA,MARICOPA,85345,n,,53,96,3.8,100,96,3.8,100,94,5.7,100,94,5.7,100,,1.9,100,3.8,1.9,1.9
+Pardes Jewish Day School,private,12753 N SCOTTSDALE RD,SCOTTSDALE,MARICOPA,85254,y,rn,29,93,6.9,100,93,10.3,100,93,6.9,100,86,10.3,97,,6.9,100,10.3,0,0
+Park Elementary School,public,453 N 7TH ST,HOLBROOK,NAVAJO,86025,y,rn,80,93,5,98,93,5,98,93,5,98,93,5,98,,5,100,5,0,5
+Park Meadows Elementary School,public,20012 N 35TH AVE,GLENDALE,MARICOPA,85308,y,rn,112,93,5.4,98,93,5.4,100,95,5.4,100,96,3.6,100,,3.6,100,5.4,0,4.5
+Parkridge Elementary,public,9970 W BEARDSLEY RD,PEORIA,MARICOPA,85382,y,rn,88,92,5.7,98,92,6.8,100,94,5.7,100,94,5.7,100,,4.5,100,6.8,0,4.5
+Parkview Elementary,public,15800 N PARKVIEW PL,SURPRISE,MARICOPA,85374,y,lpn,65,94,4.6,99,94,3.1,100,94,4.6,99,95,3.1,99,,3.1,100,6.2,0,3.1
+Parkway Children's School,private,1751 E MARYLAND AVE,PHOENIX,MARICOPA,85016,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Paseo Hills Elementary,public,3302 W LOUISE DR,PHOENIX,MARICOPA,85027,y,rn,95,95,5.3,100,95,3.2,100,97,3.2,100,94,6.3,100,,3.2,100,6.3,0,3.2
+Paseo Pointe,public,8800 S 55TH AVE,LAVEEN,MARICOPA,85339,y,rn,140,86,2.1,88,86,2.1,90,88,2.1,90,96,3.6,100,,.7,100,1.4,.7,0
+Paseo Verde Elementary,public,7880 W GREENWAY RD,PEORIA,MARICOPA,85381,y,,87,95,4.6,100,95,4.6,100,95,4.6,100,95,4.6,100,,0,98,5.7,1.1,3.4
+Patagonia Community Montessori School,charter,500 N 3RD AVE,PATAGONIA,SANTA CRUZ,85624,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Patagonia Elementary School,public,200 NAUGLE AVENUE,PATAGONIA,SANTA CRUZ,85624,y,lpn,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Pathfinder Academy,charter,2906 N BOULDER CANYON,MESA,MARICOPA,85207,n,,42,81,19,100,81,16.7,100,79,19,98,95,4.8,100,,16.7,100,19,0,19
+Pathfinder Academy At Eastmark,charter,4816 S EASTMARK PKWY,MESA,MARICOPA,85212,n,,48,90,10.4,100,90,8.3,100,90,10.4,100,96,4.2,100,,0,100,12.5,0,0
+Patricia Langford,public,3000 E MANZANITA AVE,TUCSON,PIMA,85718,n,,93,99,1.1,100,99,0,100,99,1.1,100,98,2.2,100,,0,100,2.2,0,0
+Patriot Academy,charter,19011 E SAN TAN BLVD,QUEEN CREEK,MARICOPA,85242,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Patterson Elementary School,public,1211 E GUADALUPE RD,GILBERT,MARICOPA,85234,y,rn,67,97,3,100,97,0,97,97,3,100,99,1.5,100,,3,100,0,3,0
+Paul Dunbar Lawrence School,public,707 W GRANT ST,PHOENIX,MARICOPA,85007,y,rn,26,100,0,100,100,0,100,100,0,100,100,0,100,,0,100,0,0,0
+Paulden Community School,charter,24850 N NAPLES ST,PAULDEN,YAVAPAI,86334,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Payson Christian School,private,1000 E FRONTIER ST,PAYSON,GILA,85541,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Payson Elementary School,public,500 E RANCHO RD,PAYSON,GILA,85541,n,,135,93,4.4,98,93,5.9,98,93,6.7,99,93,6.7,99,,2.2,100,6.7,0,1.5
+Pearce Elementary School,public,1487 E SCHOOL RD,PEARCE,COCHISE,85625,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Pecan Grove Elementary School,public,600 S 21ST AVE,YUMA,YUMA,85364,n,,61,100,0,100,100,0,100,97,0,97,100,0,100,,0,100,0,0,0
+Pedro Guerrero Elementary,public,463 S ALMA SCHOOL RD,MESA,MARICOPA,85210,y,rn,73,92,0,92,92,0,99,100,0,100,99,0,99,,0,100,0,6.8,0
+Pendergast Elementary,public,3802 N 91ST AVE,PHOENIX,MARICOPA,85037,n,,93,93,0,93,93,0,96,98,0,98,100,0,100,,0,100,1.1,0,0
+Peoria Elementary,public,11501 N 79TH AVE,PEORIA,MARICOPA,85345,y,lpn,61,98,1.6,100,98,1.6,100,97,3.3,100,98,1.6,100,,1.6,100,3.3,0,0
+Peoria Traditional,public,21180 N 87TH AVE,PEORIA,MARICOPA,85382,y,rn,50,92,4,96,92,4,96,94,4,98,94,4,98,,2,100,4,0,4
+Peralta Elementary School,public,7125 W ENCANTO BLVD,PHOENIX,MARICOPA,85035,y,lpn,157,98,0,98,98,0,99,99,0,99,99,0,99,,0,100,0,0,0
+Peralta Trail Elementary,public,10965 E PERALTA RD,GOLD CANYON,PINAL,85118,y,rn,52,90,5.8,96,90,5.8,96,94,5.8,100,94,5.8,100,,5.8,100,5.8,0,0
+Percy L Julian Elementary School,public,2149 E CARVER DR,PHOENIX,MARICOPA,85040,y,rn,70,97,2.9,100,97,5.7,100,97,2.9,100,97,2.9,100,,2.9,100,1.4,1.4,1.4
+Peridot-our Savior's Lutheran School,private,INDIAN HWY 170 - 1 MILE NORTH OF HWY 70,PERIDOT,GILA,85542,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Phoenix Advantage Charter School,charter,2741 W CHANUTE PASS,PHOENIX,MARICOPA,85041,n,,32,100,0,100,100,0,100,100,0,100,100,0,100,,0,100,0,0,0
+Phoenix Christian Preparatory School,private,1751 W INDIAN SCHOOL RD,PHOENIX,MARICOPA,85015,y,rn,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Phoenix Christian School Prek-8,private,2425 N 26TH ST,PHOENIX,MARICOPA,85008,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+"Phoenix Collegiate Academy, Elementary School",charter,40 E HIDALGO AVE,PHOENIX,MARICOPA,85040,n,,42,88,0,88,88,0,91,88,0,88,98,0,98,,0,100,0,0,0
+Phoenix Country Day School,private,3901 E STANFORD DR,PARADISE VALLEY,MARICOPA,85253,y,rn,36,97,2.8,100,97,5.6,100,92,8.3,100,94,5.6,100,,2.8,100,5.6,2.8,0
+Phoenix Day School For The Deaf,public,7654 N 19TH AVE,PHOENIX,MARICOPA,85021,y,lpn,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Phoenix Hebrew Academy,private,515 E BETHANY HOME RD,PHOENIX,MARICOPA,85012,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Picacho School,public,17865 S VAIL RD,PICACHO,PINAL,85141,n,,22,100,0,100,100,0,100,100,0,100,100,0,100,,0,100,0,0,0
+Picture Rocks Intermediate School,public,5875 N SANDERS RD,TUCSON,PIMA,85743,n,,78,96,0,96,96,0,96,96,0,96,97,0,97,,0,99,0,1.3,0
+Pieceful Solutions Charter School,charter,550 W WARNER RD,CHANDLER,MARICOPA,85225,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Pilgrim Lutheran Church And School,private,3257 E UNIVERSITY DR,MESA,MARICOPA,85213,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Pima Butte Elementary School,public,42022 W RANCHO EL DORADO PKWY,MARICOPA,PINAL,85239,y,rn,74,92,8.1,100,92,6.8,100,92,8.1,100,93,6.8,100,,6.8,100,9.5,0,6.8
+Pima Elementary,public,192 E 200 S,PIMA,GRAHAM,85543,y,rn,44,96,4.5,100,96,4.5,100,96,4.5,100,93,6.8,100,,4.5,100,6.8,0,4.5
+Pima Elementary School,public,8330 E OSBORN RD,SCOTTSDALE,MARICOPA,85251,y,rn,72,97,2.8,100,97,1.4,99,99,1.4,100,97,2.8,100,,2.8,100,2.8,0,1.4
+Pine Forest School,charter,1120 W KAIBAB LN,FLAGSTAFF,COCONINO,86001,n,,44,71,29.5,100,71,34.1,100,73,27.3,100,71,29.5,100,,27.3,98,43.2,0,22.7
+Pine Springs Day School,charter,10021 PINE SPRINGS RD,PINE SPRINGS,APACHE,86506,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Pine Strawberry Elementary School,public,3868 N PINE CREEK DR,PINE,GILA,85544,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Pinnacle Pointe Academy,charter,6753 W PINNACLE PEAK RD,GLENDALE,MARICOPA,85310,n,,42,93,0,93,93,0,93,95,0,95,93,0,93,,4.8,100,7.1,0,2.4
+Pinon Elementary School,public,NAVAJO HWY 41,PINON,NAVAJO,86510,y,rn,57,100,0,100,100,0,100,93,0,93,100,0,100,,0,100,0,0,0
+Pioneer Elementary,public,6315 W PORT AU PRINCE LN,GLENDALE,MARICOPA,85306,y,rn,24,100,0,100,100,0,100,100,0,100,100,0,100,,0,100,0,0,0
+Pioneer Elementary School,public,1535 N GREENFIELD RD,GILBERT,MARICOPA,85234,y,rn,73,96,4.1,100,96,5.5,100,93,6.8,100,96,4.1,100,,4.1,100,6.8,0,4.1
+Pioneer Preparatory School,charter,6510 W CLARENDON AVE,PHOENIX,MARICOPA,85033,n,,68,100,0,100,100,0,99,100,0,100,100,0,100,,0,100,0,0,0
+Plc Arts Academy At Scottsdale,charter,6140 E THUNDERBIRD RD,SCOTTSDALE,MARICOPA,85254,n,,21,81,19,100,81,19,100,81,19,100,81,19,100,,14.3,100,19,0,14.3
+Pomerene Elementary School,public,1396 N OLD POMERENE RD,POMERENE,COCHISE,85627,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Pomeroy Elementary School,public,1507 W SHAWNEE DR,CHANDLER,MARICOPA,85224,y,rn,99,91,7.1,98,91,7.1,99,92,7.1,99,93,6.1,99,,6.1,98,7.1,0,6.1
+Porfirio H. Gonzales Elementary School,public,9401 W GARFIELD ST,TOLLESON,MARICOPA,85353,y,lpn,74,91,4.1,95,91,4.1,95,91,4.1,95,91,4.1,95,,4.1,99,4.1,0,4.1
+Porter Elementary School,public,1350 S LINDSAY RD,MESA,MARICOPA,85204,y,rn,65,99,0,99,99,0,100,100,0,100,99,0,99,,0,100,0,0,0
+Power Ranch Elementary,public,4351 S RANCH HOUSE PKWY,GILBERT,MARICOPA,85297,n,,59,86,13.6,100,86,5.1,100,88,11.9,100,95,5.1,100,,3.4,100,13.6,0,13.6
+Prescott Valley Charter School,charter,9500 E LORNA LN,PRESCOTT VALLEY,YAVAPAI,86314,n,,25,92,8,100,92,8,100,92,8,100,92,8,100,,0,100,8,0,8
+Presidio High School,charter,1695 E FORT LOWELL RD,TUCSON,PIMA,85719,n,,40,90,7.5,98,90,7.5,100,88,7.5,95,93,7.5,100,,7.5,100,7.5,0,5
+"Primavera School, Inc.",private,1446 MOYER RD,PRESCOTT,YAVAPAI,86303,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Pueblo Del Sol Elementary School,public,5130 PASEO LAS PALMAS,SIERRA VISTA,COCHISE,85635,y,rn,96,99,1,100,99,1,100,99,1,100,99,1,100,,0,100,1,0,1
+Pueblo Del Sol Middle School,public,3449 N 39TH AVE,PHOENIX,MARICOPA,85019,y,rn,73,97,1.4,99,97,1.4,99,97,1.4,99,97,1.4,99,,1.4,99,1.4,0,1.4
+Pueblo Elementary School,public,2803 W 20TH ST,YUMA,YUMA,85364,n,,73,99,1.4,100,99,1.4,100,99,1.4,100,99,1.4,100,,1.4,99,1.4,0,0
+Pueblo Gardens Elementary School,public,2210 E 33RD ST,TUCSON,PIMA,85713,y,rn,47,94,2.1,96,94,2.1,98,96,2.1,98,98,2.1,100,,2.1,100,2.1,0,2.1
+"Pusch Ridge Christian Academy, Grammar School",private,6450 N CAMINO MIRAVAL,TUCSON,PIMA,85718,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Quail Run Elementary School,public,3303 E UTOPIA RD,PHOENIX,MARICOPA,85050,y,rn,108,95,4.6,100,95,4.6,91,90,5.6,95,89,5.6,94,,0,94,8.3,.9,0
+Quail Run Elementary School,public,4600 W CORTARO FARMS RD,TUCSON,PIMA,85742,y,rn,70,97,2.9,100,97,2.9,100,99,1.4,100,97,2.9,100,,0,100,7.1,0,0
+Quality Interactive Montessori Private School - Spur Cross,private,38424 N SPUR CROSS RD,CAVE CREEK,MARICOPA,85331,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Quartz Hill Elementary,public,3680 S QUARTZ ST,GILBERT,MARICOPA,85297,n,,77,97,1.3,99,97,2.6,99,97,1.3,99,97,2.6,100,,2.6,100,6.5,0,1.3
+Queen Creek Elementary,public,23636 S 204TH ST,QUEEN CREEK,MARICOPA,85142,y,rn,125,91,8.8,100,91,8,100,94,6.4,100,94,6.4,100,,5.6,100,9.6,0,0
+Queen Of Peace School,private,109 N MACDONALD,MESA,MARICOPA,85201,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Quentin Elementary School,public,11050 W WHYMAN AVE,AVONDALE,MARICOPA,85323,y,lpn,73,100,0,100,100,0,100,100,0,100,100,0,100,,0,100,0,0,0
+Rainbow Valley Elementary,public,19716 W NARRAMORE RD,BUCKEYE,MARICOPA,85326,y,,48,90,6.3,96,90,6.3,98,90,8.3,98,94,6.3,100,,4.2,100,8.3,8.3,8.3
+Ralph Waldo Emerson Elementary School,public,915 E PALM LN,PHOENIX,MARICOPA,85006,y,rn,40,93,0,93,93,0,98,100,0,100,100,0,100,,0,100,0,0,0
+Ranch Elementary School,public,43521 N KENWORTHY RD,SAN TAN VALLEY,PINAL,85140,n,,75,93,2.7,96,93,2.7,100,96,4,100,99,1.3,100,,1.3,100,4,0,1.3
+Rancho Gabriela Elementary,public,15272 W GABRIELA DR,SURPRISE,MARICOPA,85379,y,,89,93,5.6,99,93,4.5,99,92,6.7,99,94,4.5,99,,5.6,100,6.7,0,6.7
+Rancho Santa Fe Elementary School,public,2150 N RANCHO SANTA FE BLVD,AVONDALE,MARICOPA,85392,y,rn,87,94,5.7,100,94,6.9,100,92,8,100,95,4.6,100,,5.7,100,8,0,3.4
+Rancho Solano Preparatory School (kindergarten),private,5656 E GREENWAY RD,SCOTTSDALE,MARICOPA,85254,y,rn,24,92,8.3,100,92,8.3,100,92,8.3,100,92,8.3,100,,8.3,100,8.3,0,0
+Rancho Viejo Elementary School,public,1020 S AVENUE C,YUMA,YUMA,85364,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Rattlesnake Ridge Elementary,public,8500 N CONTINENTAL RESERVE LOOP,TUCSON,PIMA,85743,y,rn,57,100,0,100,100,0,100,100,0,100,100,0,100,,0,100,0,0,0
+Raul Grijalva Elementary School,public,1795 W DREXEL RD,TUCSON,PIMA,85746,y,rn,84,95,3.6,99,95,2.4,100,98,2.4,100,98,2.4,100,,1.2,100,2.4,0,2.4
+Ray Elementary School,public,675 SENATOR CHASTAIN DR,KEARNY,PINAL,85237,y,rn,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Red Mountain Ranch Elementary,public,6650 E RAFTRIVER ST,MESA,MARICOPA,85215,y,rn,66,96,4.5,100,96,4.5,100,94,6.1,100,97,3,100,,0,100,4.5,1.5,0
+Red Rock Elementary School,public,20854 E HOMESTEAD DR,RED ROCK,PINAL,85145,n,,40,100,0,100,100,0,100,98,2.5,100,100,0,100,,0,100,2.5,0,0
+Redbird Elementary School,public,1020 S EXTENSION RD,MESA,MARICOPA,85210,y,rn,78,97,1.3,99,97,0,99,100,0,100,99,0,99,,0,100,0,2.6,0
+Redeemer Christian School,private,719 N STAPLEY DR,MESA,MARICOPA,85203,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Redeemer Lutheran School,private,8845 N SILVERBELL RD,TUCSON,PIMA,85743,n,,23,96,4.3,100,96,4.3,100,96,4.3,100,96,4.3,100,,4.3,100,4.3,0,0
+Redfield Elementary School,public,9181 E REDFIELD RD,SCOTTSDALE,MARICOPA,85260,n,,54,94,5.6,100,94,7.4,98,93,7.4,100,91,7.4,98,,5.6,100,7.4,7.4,3.7
+Redwood,charter,16454 N 28TH AVE,PHOENIX,MARICOPA,85053,n,,41,81,4.9,85,81,4.9,90,85,4.9,90,90,4.9,95,,4.9,98,4.9,0,4.9
+Reid Traditional School Painted Rock Academy,charter,14841 N BLACK CANYON HWY,PHOENIX,MARICOPA,85023,y,rn,72,92,4.2,96,92,4.2,100,92,4.2,96,89,4.2,93,,4.2,99,4.2,0,4.2
+Resurrection Lutheran Child Development C,private,11575 N 1ST AVE,ORO VALLEY,PIMA,85737,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Reyes Maria Ruiz Leadership Academy,charter,4848 S 2ND ST,PHOENIX,MARICOPA,85040,n,,77,71,0,71,71,0,77,70,0,70,87,0,87,,0,95,0,0,0
+Rice School,public,SAN CARLOS AVE AT YAVAPAI ST,SAN CARLOS,GILA,85550,y,rn,138,95,0,95,95,0,95,94,0,94,99,0,99,,0,100,0,0,0
+Richard B Wilson Jr School,public,2330 W GLOVER RD,ORO VALLEY,PIMA,85742,y,rn,74,96,2.7,99,96,2.7,99,97,2.7,100,96,2.7,99,,2.7,100,2.7,0,2.7
+Richard E Miller School,public,2021 W ALICE AVE,PHOENIX,MARICOPA,85021,n,,84,99,1.2,100,99,1.2,98,99,1.2,100,99,1.2,100,,1.2,100,1.2,0,1.2
+Ridgeline Academy,charter,33625 N NORTH VALLEY PKWY,PHOENIX,MARICOPA,85085,n,,83,57,3.6,60,57,3.6,63,54,3.6,58,69,3.6,72,,3.6,76,3.6,0,3.6
+Riggs,public,6930 S. SEVILLE BVLD. WEST,GILBERT,MARICOPA,85298,n,,90,89,11.1,100,89,12.2,100,88,12.2,100,89,11.1,100,,11.1,100,15.6,0,0
+Rillito Center,public,266 E PASTIME RD,TUCSON,PIMA,85705,y,rn,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Rio Colorado Elementary School,public,1055 N MAIN ST,SAN LUIS,YUMA,85349,n,,86,100,0,100,100,0,100,100,0,100,100,0,100,,0,100,0,0,0
+Rio Vista Elem.,public,1351 E LIMBERLOST DR,TUCSON,PIMA,85719,n,,75,95,5.3,100,95,5.3,100,95,5.3,100,95,5.3,100,,5.3,100,5.3,0,5.3
+Rio Vista School,public,10237 W ENCANTO BLVD,AVONDALE,MARICOPA,85392,n,,71,90,4.2,94,90,4.2,96,97,2.8,100,94,4.2,99,,0,100,4.2,0,0
+Risen Savior Lutheran School Kinder,private,23914 S ALMA SCHOOL RD,SUN LAKES,MARICOPA,85248,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+River Of Life Christian School,private,6902 E GOLF LINKS RD,TUCSON,PIMA,85730,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Rivera Elementary,public,5102 S CHERRY AVE,TUCSON,PIMA,85706,y,rn,62,98,1.6,100,98,1.6,100,98,1.6,100,97,3.2,100,,1.6,100,3.2,0,0
+Riverbend Prep,charter,5625 S 51ST AVE,LAVEEN,MARICOPA,85339,n,,47,89,10.6,100,89,10.6,100,89,10.6,100,89,10.6,100,,10.6,100,10.6,0,0
+Riverside Traditional School,public,1414 S 51ST AVE,PHOENIX,MARICOPA,85043,y,lpn,92,99,1.1,100,99,1.1,98,99,1.1,100,99,1.1,100,,1.1,100,1.1,0,0
+Riverview School,public,12701 N MAIN ST,EL MIRAGE,MARICOPA,85335,y,rn,92,99,1.1,100,99,2.2,100,99,1.1,100,99,1.1,100,,0,100,2.2,0,1.1
+Roadrunner,public,3540 E CHOLLA ST,PHOENIX,MARICOPA,85028,y,rn,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Roadrunner Elementary School,public,16651 W CALLE CARMELA,MARANA,PIMA,85653,y,rn,39,92,2.6,95,92,2.6,95,92,2.6,95,97,2.6,100,,5.1,100,5.1,0,2.6
+Roadrunner Elementary School,public,7702 N 39TH AVE,PHOENIX,MARICOPA,85051,n,,107,95,3.7,99,95,3.7,100,96,3.7,100,95,3.7,99,,3.7,100,3.7,0,0
+Robert And Danell Tarwater Elementary,public,2300 S GARDNER DR,CHANDLER,MARICOPA,85286,n,,111,94,6.3,100,94,6.3,100,93,7.2,100,93,7.2,100,,7.2,100,8.1,0,4.5
+Robert Bracker Elementary,public,121 CAMINO DIEZ MANDAMIENTOS,NOGALES,SANTA CRUZ,85621,y,rn,39,95,5.1,100,95,5.1,100,95,5.1,100,95,5.1,100,,5.1,100,5.1,2.6,0
+Robert Richardson Elementary School,public,6901 N CAMINO DE LA TIERRA,TUCSON,PIMA,85741,n,,61,97,3.3,100,97,3.3,100,97,3.3,100,97,3.3,100,,3.3,100,3.3,0,3.3
+Robins Elementary School,public,3939 N MAGNETITE LN,TUCSON,PIMA,85745,y,rn,64,97,3.1,100,97,3.1,100,97,3.1,100,98,1.6,100,,0,100,3.1,0,0
+Robision Elementary,public,2745 E 18TH ST,TUCSON,PIMA,85716,y,rn,46,94,2.2,96,94,2.2,96,94,2.2,96,96,2.2,98,,2.2,98,2.2,0,0
+Robles Elementary School,public,10451 S SASABE RD,TUCSON,PIMA,85736,y,rn,48,98,0,98,98,0,98,100,0,100,98,0,98,,0,100,0,0,0
+Robson Elementary School,public,2122 E PUEBLO AVE,MESA,MARICOPA,85204,y,rn,97,98,2.1,100,98,2.1,100,98,2.1,100,98,2.1,100,,3.1,100,3.1,0,2.1
+Rogers Ranch School,public,6735 S 47TH AVE,LAVEEN,MARICOPA,85339,y,rn,108,94,.9,95,94,.9,96,95,.9,96,97,1.9,99,,.9,100,.9,0,.9
+Ronald Reagan Fundamental School,public,3200 W 16TH ST,YUMA,YUMA,85364,y,,51,100,0,100,100,0,100,100,0,100,100,0,100,,0,100,0,0,0
+Roosevelt Elementary School,public,828 S VALENCIA,MESA,MARICOPA,85202,y,rn,77,95,0,95,95,0,97,100,0,100,96,0,96,,0,100,0,0,0
+Roosevelt School,public,550 W 5TH ST,YUMA,YUMA,85364,n,,53,94,3.8,98,94,3.8,100,96,3.8,100,96,3.8,100,,0,100,3.8,0,0
+Roskruge Bilingual Magnet Middle School,public,501 E 6TH ST,TUCSON,PIMA,85705,y,rn,44,96,4.5,100,96,4.5,98,96,4.5,100,98,2.3,100,,0,100,4.5,0,4.5
+Rough Rock Community School,charter,HC 61,CHINLE,APACHE,86503,y,rn,21,100,0,100,100,0,100,100,0,100,100,0,100,,0,100,0,0,0
+Round Valley Intermediate School,public,165 BROWN ST,EAGAR,APACHE,85925,n,,100,92,4,96,92,4,96,90,5,95,94,4,98,,4,98,4,1,4
+Rover Elementary School,public,1300 E WATSON DR,TEMPE,MARICOPA,85283,y,rn,92,89,8.7,98,89,7.6,97,90,8.7,99,91,7.6,99,,7.6,100,9.8,1.1,6.5
+Rudy G Bologna Elementary,public,1625 E FRYE RD,CHANDLER,MARICOPA,85225,n,,86,99,1.2,100,99,1.2,100,95,4.7,100,99,1.2,100,,0,100,1.2,0,1.2
+Ruth Fisher Elementary School,public,38201 W INDIAN SCHOOL RD,TONOPAH,MARICOPA,85354,n,,53,91,3.8,94,91,3.8,94,93,3.8,96,93,3.8,96,,3.8,100,3.8,0,0
+Ruth Powell Elementary School,public,1041 S 14TH AVE,SAFFORD,GRAHAM,85546,y,rn,68,94,0,94,94,0,97,99,0,99,100,0,100,,0,99,0,0,0
+S.u.s.d.#48 - Kiva Elementary School,public,6911 E MCDONALD DR,SCOTTSDALE,MARICOPA,85253,y,rn,84,93,6,99,93,4.8,100,94,6,100,95,4.8,100,,4.8,100,6,0,4.8
+Sacaton Elementary,public,92 SKILL CENTER RD,SACATON,PINAL,85247,y,rn,59,100,0,100,100,0,100,100,0,100,100,0,100,,0,100,0,0,0
+Sacred Heart Catholic School,private,131 N SUMMIT AVE,PRESCOTT,YAVAPAI,86301,y,rn,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Sacred Heart Catholic School,private,207 W OAK ST,NOGALES,SANTA CRUZ,85621,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Saddleback Elementary School,public,18600 N PORTER RD,MARICOPA,PINAL,85138,y,rn,76,97,1.3,99,97,1.3,100,99,1.3,100,99,1.3,100,,1.3,100,1.3,0,1.3
+Safford Engineering/technology Magnet Mid,public,200 E 13TH ST,TUCSON,PIMA,85701,y,rn,28,96,3.6,100,96,3.6,100,96,3.6,100,96,3.6,100,,3.6,100,3.6,0,3.6
+Sage Acdemy,charter,1055 E HEARN RD,PHOENIX,MARICOPA,85022,n,,23,83,17.4,100,83,17.4,100,83,17.4,100,91,8.7,100,,8.7,100,17.4,0,4.3
+Saguaro Elementary School,public,1501 N CENTER AVE,CASA GRANDE,PINAL,85122,y,rn,72,97,0,97,97,0,99,100,0,100,100,0,100,,0,100,0,0,0
+Sahuarita Primary School,public,350 W SAHUARITA RD BLDG 40,SAHUARITA,PIMA,85629,n,,253,97,2.8,100,97,2.8,100,97,2.8,100,97,2.8,100,,2.8,100,2.8,0,2.8
+Sahuaro Ranch Elementary,public,10401 N 63RD AVE,GLENDALE,MARICOPA,85302,y,rn,64,95,1.6,97,95,1.6,97,95,1.6,97,98,1.6,100,,1.6,100,1.6,0,1.6
+Sahuaro School,public,12835 N 33RD AVE,PHOENIX,MARICOPA,85029,n,,65,99,0,99,99,0,99,99,0,99,99,0,99,,0,100,0,0,0
+Saint Francis Of Assisi School,private,700 W 18TH ST,YUMA,YUMA,85364,n,,23,96,4.3,100,96,4.3,100,96,4.3,100,96,4.3,100,,4.3,100,4.3,0,0
+Saint John Xxiii Catholic School,private,16235 N 60TH ST,SCOTTSDALE,MARICOPA,85254,y,rn,57,91,8.8,100,91,10.5,100,86,14,100,90,10.5,100,,10.5,100,15.8,0,8.8
+Saint Maria Goretti,private,6261 N GRANITE REEF RD,SCOTTSDALE,MARICOPA,85250,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Saint Michaels Elementary School,private,"ROUTE 12, 1 LUPTON RD.",ST MICHAELS,APACHE,86511,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Saint Theresa Catholic School,private,417 E MCKINLEY ST,TEMPE,MARICOPA,85281,n,,37,97,2.7,100,97,2.7,100,97,2.7,100,95,5.4,100,,2.7,100,2.7,2.7,5.4
+Saints Peter And Paul School,private,1436 N CAMPBELL AVE,TUCSON,PIMA,85719,y,rn,37,97,2.7,100,97,2.7,100,97,2.7,100,97,2.7,100,,2.7,100,2.7,0,2.7
+Salida Del Sol,public,910 S AVENUE C,YUMA,YUMA,85364,n,,102,100,0,100,100,0,98,100,0,100,100,0,100,,0,100,0,0,0
+Salk Elementary School,public,7029 E BROWN RD,MESA,MARICOPA,85207,y,rn,85,95,4.7,100,95,3.5,100,94,5.9,100,100,0,100,,0,100,3.5,0,0
+Salome Elementary School,public,38128 SAGUARO ST,SALOME,LA PAZ,85348,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Salt River Elementary School,private,4815 N CENTER ST,SCOTTSDALE,MARICOPA,85256,y,rn,55,100,0,100,100,0,100,100,0,100,100,0,100,,0,100,0,0,0
+Sam Hughes Elementary School,public,700 N WILSON AVE,TUCSON,PIMA,85719,y,rn,66,100,0,100,100,0,99,100,0,100,100,0,100,,0,100,0,0,0
+San Cayetano Elementary,public,1412 W FRONTAGE RD,RIO RICO,SANTA CRUZ,85648,y,rn,72,100,0,100,100,0,100,100,0,100,100,0,100,,0,100,0,0,0
+San Francisco De Asis Catholic School,private,1600 E ROUTE 66,FLAGSTAFF,COCONINO,86001,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+San Marcos Elementary School,public,451 W FRYE RD,CHANDLER,MARICOPA,85225,n,,67,93,7.5,100,93,7.5,100,90,10.4,100,93,7.5,100,,4.5,100,11.9,0,6
+San Simon School,public,2226 WEST BUSINESS I-10,SAN SIMON,COCHISE,85632,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+San Tan Charter School,charter,3959 E ELLIOT RD,GILBERT,MARICOPA,85234,n,,68,74,17.6,91,74,16.2,93,75,16.2,91,81,17.6,99,,0,82,17.6,0,0
+San Tan Elementary,public,3443 E CALISTOGA DR,GILBERT,MARICOPA,85297,n,,121,99,.8,100,99,.8,100,99,.8,100,99,.8,100,,.8,100,.8,0,.8
+San Tan Heights Elementary,public,2500 W SAN TAN HEIGHTS BLVD,SAN TAN VALLEY,PINAL,85142,y,rn,60,90,0,90,90,0,95,97,0,97,95,0,95,,0,100,0,0,0
+San Xavier Mission School,private,1980 W SAN XAVIER RD,TUCSON,PIMA,85746,y,rn,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Sanborn Elementary School,public,700 N SUPERSTITION BLVD,CHANDLER,MARICOPA,85225,n,,82,98,2.4,100,98,2.4,100,96,3.7,100,99,1.2,100,,0,100,2.4,1.2,0
+Sanders Elementary School,public,"I-40, HWY 191",SANDERS,APACHE,86512,y,rn,51,100,0,100,100,0,98,100,0,100,100,0,100,,0,100,0,0,0
+Sandpiper Elementary School,public,6724 E HEARN RD,SCOTTSDALE,MARICOPA,85254,y,rn,116,90,10.3,100,90,11.2,100,90,9.5,99,92,6.9,99,,6,100,12.9,.9,12.9
+Santa Clara Elementary School,public,6910 S SANTA CLARA AVE,TUCSON,PIMA,85756,y,rn,85,99,0,99,99,0,100,99,0,99,98,0,98,,0,100,0,0,0
+Santa Cruz Elementary,public,19845 N COSTA DEL SOL,MARICOPA,PINAL,85239,y,rn,61,95,3.3,98,95,3.3,100,93,3.3,97,95,4.9,100,,3.3,100,4.9,0,0
+Santa Cruz School,private,29 W 22ND ST,TUCSON,PIMA,85713,y,rn,23,100,0,100,100,0,100,100,0,100,100,0,100,,0,100,0,0,0
+Santa Fe Elementary School,public,9880 N 77TH AVE,PEORIA,MARICOPA,85345,y,lpn,96,95,5.2,100,95,3.1,100,97,3.1,100,98,2.1,100,,1,100,4.2,0,1
+Santa Rosa Elementary School,public,21400 N SANTA ROSA DR,MARICOPA,PINAL,85239,y,lpn,55,89,1.8,91,89,1.8,96,98,1.8,100,98,1.8,100,,1.8,100,1.8,0,1.8
+Santan Elementary School,public,1550 E CHANDLER HEIGHTS RD,CHANDLER,MARICOPA,85249,n,,81,95,4.9,100,95,4.9,100,95,4.9,100,96,3.7,100,,0,100,6.2,0,0
+Sarah Marley School,public,735 E 7TH ST,DOUGLAS,COCHISE,85607,y,rn,33,97,0,97,97,0,100,100,0,100,100,0,100,,0,100,0,0,0
+Satori School,private,3801 N 1ST AVE,TUCSON,PIMA,85719,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Scales Technology Academy,public,1115 W 5TH ST,TEMPE,MARICOPA,85281,y,lpn,57,93,1.8,95,93,1.8,97,98,1.8,100,100,0,100,,0,100,1.8,0,0
+Scott Libby,public,18701 W THOMAS RD,LITCHFIELD PARK,MARICOPA,85340,y,lpn,84,95,3.6,99,95,3.6,99,93,3.6,96,96,3.6,100,,3.6,100,3.6,0,0
+Scottsdale Christian Academy,private,14400 N TATUM BLVD,PHOENIX,MARICOPA,85032,n,,64,83,17.2,100,83,18.8,100,84,15.6,100,77,23.4,100,,12.5,100,26.6,0,10.9
+Scottsdale Country Day School,charter,10460 N 56TH ST,SCOTTSDALE,MARICOPA,85253,n,,38,61,13.2,74,61,13.2,71,32,13.2,45,61,13.2,74,,13.2,79,13.2,0,0
+Self Development Academy - Phoenix,charter,4098 E MARSHALL AVE,GILBERT,MARICOPA,85297,n,,44,89,6.8,96,89,6.8,96,89,6.8,96,89,6.8,96,,6.8,96,6.8,0,0
+Selfdevelopment Charter School,charter,1709 N GREENFIELD RD,MESA,MARICOPA,85205,n,,61,92,8.2,100,92,8.2,100,93,6.6,100,98,1.6,100,,8.2,100,9.8,0,0
+Seligman Elementary School,public,500 N MAIN ST,SELIGMAN,YAVAPAI,86337,y,rn,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Senita Valley Elementary School,public,10750 E BILBY RD,TUCSON,PIMA,85747,n,,98,97,2,99,97,2,99,98,2,100,97,2,99,,0,100,2,0,0
+Sentinel Elementary School,public,53802 W US HWY 80,DATELAND,YUMA,85333,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Sequoia Charter School,charter,1460 S HORNE,MESA,MARICOPA,85204,n,,74,89,0,89,89,0,93,87,0,87,93,0,93,,0,96,0,0,0
+Sequoia Choice Arizona Distance Learning,charter,2331 N HORNE,MESA,MARICOPA,85203,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Sequoia Lehi Charter School,charter,2331 N HORNE,MESA,MARICOPA,85203,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Sequoia Pathway Academy,charter,19287 N PORTER RD,MARICOPA,PINAL,85138,n,,76,95,5.3,100,95,3.9,100,95,5.3,100,96,3.9,100,,0,100,7.9,0,7.9
+Sequoia Village,charter,982 FULL HOUSE LN,SHOW LOW,NAVAJO,85901,n,,34,82,17.6,100,82,17.6,100,82,17.6,100,82,17.6,100,,14.7,100,14.7,2.9,14.7
+Sequoya Elementary School,public,11808 N 64TH ST,SCOTTSDALE,MARICOPA,85254,y,rn,91,96,4.4,100,96,4.4,100,95,5.5,100,97,3.3,100,,1.1,100,38.5,0,38.5
+Settler's Point,public,423 E SETTLERS POINT DR OFC,GILBERT,MARICOPA,85296,y,rn,55,98,1.8,100,98,1.8,100,96,3.6,100,96,3.6,100,,1.8,100,3.6,0,1.8
+Seven Mile School,public,2005 FORT APACHE RD,WHITERIVER,NAVAJO,85941,n,,100,100,0,100,100,0,100,100,0,100,100,0,100,,0,100,0,0,0
+Sevilla Primary School,public,3801 W MISSOURI AVE,PHOENIX,MARICOPA,85019,n,rn,186,97,.5,97,97,.5,98,99,0,99,100,0,100,,0,100,.5,0,0
+Shaw Butte Elementary School,public,12202 N 21ST AVE,PHOENIX,MARICOPA,85029,n,,141,97,0,97,97,0,97,98,0,98,99,0,99,,0,100,.7,0,0
+Sheely Farms Elementary School,public,9450 W ENCANTO BLVD,PHOENIX,MARICOPA,85037,y,rn,87,94,3.4,98,94,3.4,99,95,3.4,99,97,2.3,99,,0,100,2.3,0,0
+Shepherd Of The Desert Lutheran School,private,9590 E SHEA BLVD,SCOTTSDALE,MARICOPA,85260,n,,22,86,13.6,100,86,13.6,100,59,13.6,73,73,18.2,91,,22.7,100,22.7,0,13.6
+Shumway,public,1325 N SHUMWAY AVE,CHANDLER,MARICOPA,85225,n,,74,93,6.8,100,93,6.8,100,95,5.4,100,95,5.4,100,,5.4,100,6.8,0,5.4
+Sierra Verde Elementary,public,7241 W ROSE GARDEN LN,GLENDALE,MARICOPA,85308,y,rn,87,94,5.7,100,94,4.6,100,95,4.6,100,98,2.3,100,,0,100,3.4,2.3,0
+Silvestre S Herrera School,public,1350 S 11TH ST,PHOENIX,MARICOPA,85034,n,,56,95,1.8,96,95,1.8,100,96,3.6,100,98,0,98,,1.8,100,3.6,0,0
+Sirrine Elementary School,public,591 W MESQUITE ST,CHANDLER,MARICOPA,85225,y,rn,44,91,0,91,91,2.3,100,98,0,98,100,0,100,,0,100,2.3,0,0
+Sky View,public,8624 W SWEETWATER AVE,PEORIA,MARICOPA,85381,y,lpn,45,96,4.4,100,96,4.4,100,96,4.4,100,93,6.7,100,,2.2,100,6.7,0,4.4
+Skyline Ranch,public,1084 SAN TAN HILLS DR,SAN TAN VALLEY,PINAL,85143,n,,58,93,6.9,100,93,3.4,100,97,3.4,100,97,3.4,100,,0,100,1.7,0,0
+Skyview School,charter,125 S RUSH ST,PRESCOTT,YAVAPAI,86303,n,,31,71,25.8,97,71,25.8,100,68,25.8,94,71,25.8,97,,0,100,25.8,0,25.8
+Smoketree Elementary School,public,2395 SMOKETREE AVE N,LAKE HAVASU CITY,MOHAVE,86403,y,rn,64,94,3.1,97,94,3.1,97,75,3.1,78,94,3.1,97,,3.1,100,3.1,0,0
+Solano Preschool,public,1526 W MISSOURI AVE,PHOENIX,MARICOPA,85015,n,,102,81,1,82,81,1,82,83,1,84,90,1,91,,1,97,1,0,1
+Soleng Tom Elementary School,public,10520 E CAMINO QUINCE,TUCSON,PIMA,85748,y,rn,74,100,0,100,100,0,100,100,0,100,100,0,100,,0,100,0,0,0
+Solomon Elementary School,public,2250 S STEVENS AVE,SAFFORD,GRAHAM,85546,n,,24,100,0,100,100,0,100,100,0,100,100,0,100,,0,100,0,0,0
+Sonoma Ranch Elementary School,public,601 BUCHANAN ST,GILBERT,MARICOPA,85233,n,,55,100,0,100,100,1.8,100,98,1.8,100,95,5.5,100,,0,100,5.5,0,0
+Sonoran Foothills School,public,32150 N NORTH FOOTHILLS DR,PHOENIX,MARICOPA,85085,y,rn,99,95,5.1,100,95,4,100,96,4,100,96,4,100,,4,100,3,0,3
+Sonoran Heights Elementary,public,11405 N GREER RANCH PKWY,SURPRISE,MARICOPA,85379,y,lpn,87,97,1.1,98,97,1.1,98,95,1.1,97,98,1.1,99,,0,98,1.1,0,1.1
+Sonoran Science Academy,charter,2325 W SUNSET RD,TUCSON,PIMA,85741,n,,47,96,2.1,98,96,4.3,100,98,2.1,100,96,4.3,100,,4.3,100,4.3,0,0
+Sonoran Science Academy - Broadway,charter,6880 E BROADWAY BLVD,TUCSON,PIMA,85710,n,,35,94,5.7,100,94,5.7,100,89,8.6,97,94,5.7,100,,2.9,100,5.7,2.9,0
+Sonoran Science Academy - Peoria,charter,17667 N 91ST AVE,PEORIA,MARICOPA,85382,n,,55,91,9.1,100,91,7.3,100,91,9.1,100,93,7.3,100,,0,100,5.5,0,0
+Sonoran Science Academy - Phoenix,charter,4837 E MCDOWELL RD,PHOENIX,MARICOPA,85008,n,,25,92,0,92,92,0,96,96,0,96,96,0,96,,0,100,0,0,0
+Sonoran Sky Elementary School,public,12990 N 75TH ST,SCOTTSDALE,MARICOPA,85260,y,rn,102,96,3.9,100,96,5.9,100,95,4.9,100,94,5.9,100,,2.9,100,5.9,0,5.9
+Sonoran Sky Elementary School,public,10150 W MISSOURI AVE,GLENDALE,MARICOPA,85307,n,,70,97,2.9,100,97,2.9,100,97,2.9,100,99,0,99,,0,100,2.9,0,0
+Sonshine Christian School,private,1916 N FRANK REED RD,NOGALES,SANTA CRUZ,85621,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Sopori Elementary School,public,5000 W ARIVACA RD,AMADO,PIMA,85645,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Sousa Elementary,public,616 N MOUNTAIN RD,MESA,MARICOPA,85207,y,rn,68,97,1.5,99,97,1.5,99,99,1.5,100,99,1.5,100,,1.5,100,1.5,0,0
+South Phoenix Prep And Arts Academy,charter,7450 S 40TH ST,PHOENIX,MARICOPA,85042,n,,77,97,0,97,97,0,97,99,1.3,100,100,0,100,,0,100,1.3,0,0
+South Pointe Public Charter Elementary,charter,2033 E SOUTHERN AVE,PHOENIX,MARICOPA,85040,n,,41,78,2.4,81,78,2.4,100,83,2.4,85,98,0,98,,0,100,2.4,0,0
+Southgate Academy,charter,850 W VALENCIA RD,TUCSON,PIMA,85706,n,,70,94,1.4,96,94,1.4,96,94,1.4,96,94,1.4,96,,1.4,99,2.9,0,0
+Southside Community School,charter,2701 S CAMPBELL AVE,TUCSON,PIMA,85713,n,,23,100,0,100,100,0,100,100,0,100,100,0,100,,0,100,0,0,0
+Southwest,public,1111 W DOBBINS RD,PHOENIX,MARICOPA,85041,y,lpn,52,96,1.9,98,96,1.9,98,98,1.9,100,98,1.9,100,,1.9,100,1.9,0,1.9
+Southwestern Christian School,private,3261 S AVENUE 6 E,YUMA,YUMA,85365,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Spectrum Elementary,public,2846 S SPECTRUM WAY,GILBERT,MARICOPA,85295,y,rn,63,87,11.1,98,87,9.5,100,87,12.7,100,91,9.5,100,,7.9,100,14.3,0,4.8
+Spirit Of Hope Montessori School,private,14403 N 75TH AVE,PEORIA,MARICOPA,85381,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Spondeo Montessori Preschool and Kindergarten,private,2680 S VAL VISTA DR STE 157,GILBERT,MARICOPA,85295,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Ss. Simon And Jude,private,6351 N 27TH AVE,PHOENIX,MARICOPA,85017,y,rn,35,100,0,100,100,0,100,100,0,100,100,0,100,,0,100,0,0,0
+St Ambrose Catholic School,private,300 S TUCSON BLVD,TUCSON,PIMA,85716,n,,29,100,0,100,100,0,100,100,0,100,100,0,100,,0,97,0,0,0
+St Anthony Catholic School,private,1400 E OWENS,SHOW LOW,NAVAJO,85901,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+St Catherine Of Siena,private,6413 S CENTRAL AVE,PHOENIX,MARICOPA,85042,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+St Elizabeth Ann Seton School,private,8650 N SHANNON RD,TUCSON,PIMA,85742,n,,30,100,0,100,100,0,100,100,0,100,100,0,100,,0,100,0,0,0
+St Peter Indian Mission Catholic School,private,1500 NORTH ST PETER RD,BAPCHULE,PINAL,85121,y,rn,29,100,0,100,100,0,100,100,0,100,100,0,100,,0,100,0,0,0
+St Thomas Aquinas Grade School,private,13720 W THOMAS RD,AVONDALE,MARICOPA,85392,y,rn,43,95,4.7,100,95,2.3,100,95,4.7,100,100,0,100,,0,100,4.7,0,0
+St Vincent De Paul Catholic School,private,3130 N 51ST AVE,PHOENIX,MARICOPA,85031,n,,51,98,2,100,98,2,100,98,2,100,98,2,100,,2,100,2,0,2
+St. Agnes Catholic School,private,2311 E PALM LN,PHOENIX,MARICOPA,85006,n,,24,96,0,96,96,0,96,83,0,83,96,0,96,,0,100,0,0,0
+St. Andrews Preschool And Kindergarten,private,7650 N PASEO DEL NORTE,TUCSON,PIMA,85704,n,,36,94,5.6,100,94,5.6,100,94,5.6,100,89,11.1,100,,5.6,100,16.7,0,16.7
+St. Anthony Of Padua Catholic School,private,501 E 2ND ST,CASA GRANDE,PINAL,85122,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+St. Cyril Of Alexandria,private,4725 E PIMA ST,TUCSON,PIMA,85712,n,,43,98,2.3,100,98,2.3,100,98,2.3,100,98,2.3,100,,2.3,100,2.3,0,2.3
+St. David Elementary School,public,70 PATTON ST,SAINT DAVID,COCHISE,85630,y,rn,27,96,0,96,96,0,100,100,0,100,100,0,100,,0,100,0,0,0
+St. Francis Xavier Elementary School,private,4715 N CENTRAL AVE,PHOENIX,MARICOPA,85012,y,rn,53,98,1.9,100,98,1.9,100,98,1.9,100,98,1.9,100,,1.9,100,1.9,0,1.9
+St. Gregory School,private,3440 N 18TH AVE,PHOENIX,MARICOPA,85015,n,,35,91,0,91,91,0,91,86,0,86,94,0,94,,0,100,0,0,0
+St. Jerome Catholic School,private,10815 N 35TH AVE,PHOENIX,MARICOPA,85029,y,rn,22,100,0,100,100,0,100,100,0,100,100,0,100,,0,100,0,0,0
+St. John Bosco,private,16035 S 48TH ST,PHOENIX,MARICOPA,85048,y,rn,33,94,6.1,100,94,6.1,100,94,6.1,100,94,6.1,100,,6.1,100,6.1,0,6.1
+St. John The Evangelist Catholic School,private,600 W AJO WAY,TUCSON,PIMA,85713,y,rn,48,96,2.1,98,96,2.1,96,92,2.1,94,94,2.1,96,,2.1,98,2.1,0,0
+St. John Vianney Catholic School,private,509 E LA PASADA BLVD,GOODYEAR,MARICOPA,85338,n,,43,100,0,100,100,0,100,100,0,100,100,0,100,,0,100,0,0,0
+St. Joseph Catholic School,private,215 S CRAYCROFT RD,TUCSON,PIMA,85711,n,,31,100,0,100,100,0,100,100,0,100,100,0,100,,0,100,0,0,0
+St. Louis The King Cathoic School,private,4331 W MARYLAND AVE,GLENDALE,MARICOPA,85301,n,,25,100,0,100,100,0,100,100,0,100,100,0,100,,0,100,0,0,0
+St. Mark's,private,3809 E 3RD ST,TUCSON,PIMA,85716,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+St. Mark's Early Childhood Center,private,1431 W MAGEE RD,TUCSON,PIMA,85704,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+St. Mary-basha Catholic School,private,200 W GALVESTON ST,CHANDLER,MARICOPA,85225,y,rn,39,95,2.6,97,95,2.6,97,95,2.6,97,100,0,100,,2.6,100,2.6,0,0
+St. Michael's Parish Day School,private,602 N WILMOT RD,TUCSON,PIMA,85711,y,rn,26,100,0,100,100,0,100,100,0,100,100,0,100,,0,100,0,0,0
+St. Peter's Episcopal Montessori School,private,400 S OLD LITCHFIELD RD,LITCHFIELD PARK,MARICOPA,85340,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+St. Thomas Preschool And Kindergarten,private,5150 N VALLEY VIEW RD,TUCSON,PIMA,85718,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+St. Thomas The Apostle Catholic School,private,4510 N 24TH ST,PHOENIX,MARICOPA,85016,y,rn,45,96,4.4,100,96,4.4,100,96,4.4,100,96,4.4,100,,2.2,100,4.4,0,2.2
+St. Timothy Catholic School,private,2520 S ALMA SCHOOL RD,MESA,MARICOPA,85210,y,rn,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Stanfield Elementary School,public,515 S STANFIELD RD,STANFIELD,PINAL,85172,n,,52,100,0,100,100,0,100,100,0,100,100,0,100,,0,100,0,0,0
+Star Charter School,charter,145 LEUPP RD,FLAGSTAFF,COCONINO,86004,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Starlight Park School,public,7960 W OSBORN RD,PHOENIX,MARICOPA,85033,y,rn,104,95,0,95,95,0,97,96,0,96,99,0,99,,0,100,0,0,0
+Starline Elementary School,public,3150 STARLINE DR,LAKE HAVASU CITY,MOHAVE,86406,y,rn,66,91,9.1,100,91,9.1,99,91,9.1,100,88,10.6,99,,9.1,100,10.6,0,9.1
+Step Up School,charter,44 E 5TH ST,MESA,MARICOPA,85201,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Stepping Stones Academy,charter,35812 N 7TH ST,PHOENIX,MARICOPA,85086,n,,24,96,4.2,100,96,4.2,100,96,4.2,100,96,4.2,100,,4.2,100,4.2,0,0
+Stepping Stones Childcare,public,863 AIRPARK DR,BULLHEAD CITY,MOHAVE,86429,n,,284,92,3.5,95,92,3.5,97,50,3.5,54,86,.4,87,,3.5,98,3.5,0,0
+Stetson Hills Elementary,public,25475 N STETSON HILLS LOOP,PHOENIX,MARICOPA,85083,y,rn,96,95,4.2,99,95,4.2,100,96,4.2,100,97,3.1,100,,3.1,100,4.2,0,0
+Steven R Jasinski Elementary School,public,4280 S 246TH AVE,BUCKEYE,MARICOPA,85326,n,,100,92,4,96,92,4,99,94,4,98,95,4,99,,2,100,3,0,2
+Stevenson Elementary School,public,638 S 96TH ST,MESA,MARICOPA,85208,y,rn,93,99,1.1,100,99,1.1,100,99,1.1,100,99,1.1,100,,1.1,100,1.1,0,1.1
+Stevenson Elementary School,public,1200 E 11TH ST,DOUGLAS,COCHISE,85607,n,,79,99,1.3,100,99,1.3,100,99,1.3,100,99,1.3,100,,1.3,100,1.3,0,1.3
+Sturgeon Cromer Elementary School,public,7150 SILVER SADDLE RD,FLAGSTAFF,COCONINO,86004,y,rn,94,94,6.4,100,94,5.3,100,95,5.3,100,97,3.2,100,,5.3,100,5.3,1.1,0
+Sullivan,public,2 N 31ST AVE,PHOENIX,MARICOPA,85009,n,,47,98,2.1,100,98,2.1,100,98,2.1,100,98,2.1,100,,0,100,2.1,0,0
+Summit Academy,public,1560 W SUMMIT PL,CHANDLER,MARICOPA,85224,y,rn,95,96,3.2,99,96,0,97,95,2.1,97,93,3.2,96,,1.1,100,8.4,0,0
+Summit Of School Ahwatukee,private,4515 E MUIRWOOD DR,PHOENIX,MARICOPA,85048,n,,32,84,6.3,91,84,6.3,97,91,6.3,97,94,0,94,,6.3,94,6.3,0,6.3
+Summit View,public,1900 E SUMMIT ST,TUCSON,PIMA,85756,y,rn,62,100,0,100,100,0,100,100,0,100,100,0,100,,0,100,0,0,0
+Sun Canyon Elementary School,public,8150 W DURANGO ST,PHOENIX,MARICOPA,85043,n,,95,95,4.2,99,95,4.2,100,96,4.2,100,97,0,97,,0,100,5.3,0,0
+Sun Valley Charter School,charter,5806 S 35TH AVE,PHOENIX,MARICOPA,85041,n,,47,100,0,100,100,0,100,100,0,100,100,0,100,,0,100,0,0,0
+Sun Valley Elementary,public,8361 N 95TH AVE,PEORIA,MARICOPA,85345,y,lpn,84,96,3.6,100,96,3.6,100,96,3.6,100,96,3.6,100,,3.6,100,3.6,0,3.6
+Sun Valley Indian School (now Native American Christian Academy),private,8450 S SUN VALLEY RD,SUN VALLEY,NAVAJO,86029,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Sundance Elementary School,public,7051 W CHOLLA ST,PEORIA,MARICOPA,85345,y,rn,68,91,7.4,99,91,5.9,99,93,5.9,99,97,2.9,100,,2.9,96,7.4,0,0
+Sundance Elementary School,public,23800 W HADLEY ST,BUCKEYE,MARICOPA,85326,n,lpn,75,96,1.3,97,96,1.3,97,99,1.3,100,99,1.3,100,,1.3,100,1.3,0,1.3
+Sunflower,public,5490 W PARADISE LN,GLENDALE,MARICOPA,85306,y,rn,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Sunland Elementary School,public,5401 S 7TH AVE,PHOENIX,MARICOPA,85041,y,lpn,86,100,0,100,100,0,100,99,1.2,100,100,0,100,,0,100,0,1.2,0
+Sunnyslope Elementary School,public,245 E MOUNTAIN VIEW RD,PHOENIX,MARICOPA,85020,n,,86,99,1.2,100,99,1.2,100,99,1.2,100,99,1.2,100,,0,100,1.2,0,0
+Sunridge Elementary,public,6244 W ROOSEVELT ST,PHOENIX,MARICOPA,85043,n,,92,99,1.1,100,99,1.1,100,99,1.1,100,100,0,100,,0,100,1.1,0,0
+Sunrise Drive Elementary School,public,5301 E SUNRISE DR,TUCSON,PIMA,85718,y,rn,78,97,0,97,97,0,97,97,0,97,96,0,96,,0,100,2.6,1.3,0
+Sunrise Elementary,public,2645 LANDON DR,BULLHEAD CITY,MOHAVE,86429,n,,58,98,1.7,100,98,1.7,100,98,1.7,100,98,1.7,100,,3.4,100,3.4,0,1.7
+Sunrise Elementary School,public,9943 S 28TH ST,YUMA,YUMA,85367,y,rn,77,97,0,97,97,0,99,96,1.3,97,94,1.3,95,,1.3,100,1.3,0,1.3
+Sunrise Elementary School,public,17624 N 31ST AVE,PHOENIX,MARICOPA,85053,y,lpn,88,94,2.3,97,94,2.3,100,97,2.3,99,99,1.1,100,,2.3,99,2.3,0,0
+Sunset,public,4626 W MOUNTAIN VIEW RD,GLENDALE,MARICOPA,85302,n,,70,99,0,99,99,0,99,100,0,100,99,0,99,,0,100,0,0,0
+Sunset Canyon School,public,2727 E SIESTA LN,PHOENIX,MARICOPA,85050,y,rn,45,98,2.2,100,98,2.2,100,98,2.2,100,98,2.2,100,,0,100,2.2,0,2.2
+Sunset Heights Elementary School,public,9687 W ADAM AVE,PEORIA,MARICOPA,85382,y,rn,102,97,2.9,100,97,5.9,100,97,2.9,100,97,2.9,100,,2,100,5.9,0,2
+Sunset Hills Elementary,public,17825 W SIERRA MONTANA LOOP,SURPRISE,MARICOPA,85388,y,,89,94,5.6,100,94,5.6,100,93,6.7,100,97,3.4,100,,3.4,100,6.7,0,3.4
+Sunset Ridge Elementary,public,35707 N 33RD LN,PHOENIX,MARICOPA,85086,y,rn,59,90,10.2,100,90,10.2,97,83,13.6,97,86,10.2,97,,10.2,97,13.6,13.6,10.2
+Sunset Ridge Elementary,public,8490 W MISSOURI AVE,GLENDALE,MARICOPA,85305,n,,69,96,2.9,99,96,2.9,99,97,2.9,100,99,1.4,100,,0,100,2.9,0,2.9
+Sunset School,public,6602 W OSBORN RD,PHOENIX,MARICOPA,85033,y,rn,117,97,0,97,97,0,99,100,0,100,100,0,100,,0,100,0,0,0
+Sunset Vista,public,7775 W ORANGEWOOD AVE,GLENDALE,MARICOPA,85303,y,lpn,90,89,0,89,89,3.3,92,89,3.3,92,94,3.3,98,,2.2,100,2.2,1.1,0
+Superstition Springs Elementary,public,7125 E MONTEREY AVE,MESA,MARICOPA,85209,y,rn,88,93,6.8,100,93,6.8,100,93,6.8,100,94,5.7,100,,0,100,8,0,5.7
+Surprise Elementary School,public,12907 W GREENWAY RD,EL MIRAGE,MARICOPA,85335,y,lpn,84,96,1.2,98,96,1.2,98,98,2.4,100,94,3.6,98,,1.2,100,3.6,0,1.2
+Sweetwater School,public,4602 W SWEETWATER AVE,GLENDALE,MARICOPA,85304,y,rn,43,100,0,100,100,0,100,95,4.7,100,100,0,100,,2.3,100,4.7,0,0
+Sycamore Elementary,public,16701 S HOUGHTON RD,CORONA DE TUCSON,PIMA,85641,n,,98,95,4.1,99,95,4.1,100,95,4.1,99,96,4.1,100,,4.1,100,4.1,0,0
+T Dale Hancock Elementary,public,2425 S PLEASANT DR,CHANDLER,MARICOPA,85286,n,,93,95,5.4,100,95,5.4,100,91,8.6,100,95,5.4,100,,0,100,11.8,0,5.4
+T.g. Barr,public,2041 E VINEYARD RD,PHOENIX,MARICOPA,85042,n,,39,100,0,100,100,0,100,100,0,100,100,0,100,,0,100,0,0,0
+Taft Elementary School,public,9800 E QUARTERLINE RD,MESA,MARICOPA,85207,y,rn,56,98,0,98,98,0,98,98,0,98,98,0,98,,0,100,3.6,0,0
+Tammy Belt,private,4800 E DOUBLETREE RANCH RD,PARADISE VALLEY,MARICOPA,85253,y,rn,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Tanque  Verde Lutheran Church Preschool And Kindergarten,private,8625 E TANQUE VERDE RD,TUCSON,PIMA,85749,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Tanque Verde Elementary School,public,2600 N FENNIMORE AVE,TUCSON,PIMA,85749,y,rn,82,99,0,99,99,0,100,100,0,100,100,0,100,,0,100,0,0,0
+Tartesso Elementary School,public,29677 W INDIANOLA AVE,BUCKEYE,MARICOPA,85396,y,,39,92,7.7,100,92,7.7,100,92,7.7,100,92,7.7,100,,7.7,100,7.7,0,7.7
+Tavan Elementary School,public,4610 E OSBORN RD,PHOENIX,MARICOPA,85018,y,,100,94,6,100,94,4,100,96,4,100,97,3,100,,0,100,5,16,0
+Taylor Elementary School,public,20 300 ST E,TAYLOR,NAVAJO,85939,y,rn,86,84,16.3,100,84,16.3,100,83,17.4,100,84,16.3,100,,16.3,100,17.4,0,9.3
+Taylor Hicks School,public,1845 CAMPBELL AVE,PRESCOTT,YAVAPAI,86301,y,rn,91,87,9.9,97,87,9.9,97,87,9.9,97,88,7.7,96,,6.6,98,9.9,1.1,5.5
+Teleos Preparatory Academy,charter,1401 E JEFFERSON ST,PHOENIX,MARICOPA,85034,n,,22,59,0,59,59,0,77,68,0,68,77,0,77,,0,77,0,0,0
+Telesis Preparatory,charter,2598 STARLITE LN,LAKE HAVASU CITY,MOHAVE,86403,n,,41,73,9.8,83,73,9.8,88,76,12.2,88,76,9.8,85,,0,88,9.8,2.4,9.8
+Terramar Elementary,public,7000 W HAPPY VALLEY RD,PEORIA,MARICOPA,85383,y,rn,84,95,4.8,100,95,3.6,100,94,6,100,94,6,100,,3.6,100,7.1,0,4.8
+Territorial Early Childhood Center,public,1088 MAHAN LN,CHINO VALLEY,YAVAPAI,86323,y,rn,172,94,5.8,100,94,5.8,100,94,6.4,100,96,4.1,100,,4.1,100,7.6,0,4.1
+Thatcher Elementary School,public,1350 N 4TH AVE,THATCHER,GRAHAM,85552,y,rn,124,95,4.8,100,95,4.8,100,94,6.5,100,97,3.2,100,,0,100,7.3,.8,3.2
+The Aces,private,6815 W CACTUS RD,PEORIA,MARICOPA,85381,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+The Beginning School (kindergarten),private,4440 N CAMPBELL AVE,TUCSON,PIMA,85718,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+The Berean Academy,charter,4699 E HIGHWAY 90,SIERRA VISTA,COCHISE,85635,n,,23,87,0,87,87,0,91,78,0,78,91,0,91,,0,91,8.7,0,8.7
+The Center For Academic Success #3,charter,919 E 3RD ST,DOUGLAS,COCHISE,85607,n,,32,100,0,100,100,0,100,94,0,94,100,0,100,,0,100,0,0,0
+The Family School,private,1127 W MCDOWELL RD,PHOENIX,MARICOPA,85007,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+The French American School Of Arizona,private,2222 S PRICE RD,TEMPE,MARICOPA,85282,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+The Learning Pad Christian Preschool And Kindergarten,private,12716 N FRONTAGE RD,YUMA,YUMA,85367,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+The Montessori Schoolhouse,charter,1127 N 6TH AVE,TUCSON,PIMA,85705,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+The Odyssey Preparatory Academy Apache Campus,charter,6500 S APACHE RD,BUCKEYE,MARICOPA,85326,y,,87,95,3.4,99,95,3.4,100,97,3.4,100,97,3.4,100,,3.4,100,3.4,0,3.4
+The Peak School,charter,2016 N 1ST ST,FLAGSTAFF,COCONINO,86004,n,,23,96,4.3,100,96,4.3,100,96,4.3,100,96,4.3,100,,4.3,100,4.3,0,4.3
+The Shelby School,charter,249 W STANDAGE DR,PAYSON,GILA,85541,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Thomas A Edison School,public,804 N 18TH ST,PHOENIX,MARICOPA,85006,y,rn,57,98,0,98,98,0,98,100,0,100,100,0,100,,0,100,0,0,0
+Thomas M Knoles Elementary School,public,4005 E BUTLER AVE,FLAGSTAFF,COCONINO,86004,y,rn,96,95,5.2,100,95,3.1,100,96,4.2,100,99,1,100,,2.1,100,5.2,0,3.1
+Thompson Ranch Elementary,public,11800 W THOMPSON RANCH RD,EL MIRAGE,MARICOPA,85335,y,rn,94,98,1.1,99,98,1.1,99,98,1.1,99,99,1.1,100,,1.1,100,1.1,0,1.1
+Thornydale Elementary,public,7651 N OLDFATHER DR,TUCSON,PIMA,85741,n,,47,96,2.1,98,96,2.1,100,96,2.1,98,98,2.1,100,,2.1,100,2.1,0,2.1
+Thunderbird Christian Elementary,private,7440 E SUTTON DR,SCOTTSDALE,MARICOPA,85260,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Tierra Del Sol Elementary School,public,1002 S SOMERTON AVE,SOMERTON,YUMA,85350,y,rn,112,97,0,97,97,0,99,99,.9,100,100,0,100,,0,100,.9,0,0
+Tolson Elementary School,public,1000 S GREASEWOOD RD,TUCSON,PIMA,85745,y,rn,48,96,0,96,96,0,100,100,0,100,98,0,98,,0,100,0,0,0
+Toltec Elementary School,public,3315 N TOLTEC RD,ELOY,PINAL,85131,n,,54,100,0,100,100,0,100,100,0,100,100,0,100,,0,100,0,0,0
+Tomahawk,public,7820 W TURNEY AVE,PHOENIX,MARICOPA,85033,y,lpn,127,97,3.1,100,97,.8,100,96,3.9,100,98,1.6,100,,1.6,100,1.6,0,1.6
+Tonalea K-8,public,6720 E CONTINENTAL DR,SCOTTSDALE,MARICOPA,85257,y,rn,45,98,2.2,100,98,2.2,100,98,2.2,100,100,0,100,,0,100,2.2,0,0
+Tonto Basin Elementary,public,PO BOX 337,TONTO BASIN,GILA,85553,y,rn,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Topock Elementary School,public,5083 TULE DR,TOPOCK,MOHAVE,86436,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Town And Country Elementary School,public,1313 S LENZNER AVE,SIERRA VISTA,COCHISE,85635,y,rn,43,93,4.7,98,93,4.7,100,95,4.7,100,95,4.7,100,,0,100,4.7,0,0
+Towne Meadows Elementary School,public,1101 N RECKER RD,GILBERT,MARICOPA,85234,y,,84,95,4.8,100,95,4.8,100,95,4.8,100,95,4.8,100,,4.8,100,4.8,0,0
+Trailside Point Elementary,public,7272 W VINEYARD RD,LAVEEN,MARICOPA,85339,y,rn,80,85,3.8,89,85,3.8,91,85,3.8,89,94,3.8,98,,3.8,100,3.8,0,0
+Tres Rios Elementary,public,5025 S 103RD AVE,TOLLESON,MARICOPA,85353,n,,84,88,2.4,91,88,2.4,94,92,2.4,94,93,2.4,95,,2.4,98,2.4,0,0
+Tri-city Christian Academy,private,2211 W GERMANN RD,CHANDLER,MARICOPA,85286,n,,28,100,0,100,100,0,100,96,3.6,100,100,0,100,,0,100,3.6,0,0
+Trinity Christian School,private,2402 N USERY PASS RD,MESA,MARICOPA,85207,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Trinity Christian School,private,1071 MOGOLLON RD,PRESCOTT,YAVAPAI,86301,n,,29,83,17.2,100,83,24.1,100,72,27.6,100,83,17.2,100,,13.8,100,27.6,0,0
+Trinity Lutheran Elementary School,private,830 E PLAZA CIR,LITCHFIELD PARK,MARICOPA,85340,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Trinity United Methodist,private,3104 W GLENDALE AVE,PHOENIX,MARICOPA,85051,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Triumphant Learning Center,charter,201 E MAIN ST,SAFFORD,GRAHAM,85546,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Tsehootsooi Dine Bi Olta,public,NAVAJO ROUTE 12,FORT DEFIANCE,APACHE,86504,n,,24,100,0,100,100,0,100,100,0,100,100,0,100,,0,100,0,0,0
+Tsinabaas Habitiin Elementary School/ Tuba City Unified School District #15,public,"NORTH HWY 89 RT 20, 2 MILES EAST OF MILE POST 1499",TUBA CITY,COCONINO,86045,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Tuba City Primary School/ Tuba City Unified School District #15,public,67 MAPLE STREET,TUBA CITY,COCONINO,86045,y,,68,100,0,100,100,0,100,100,0,100,100,0,100,,0,100,0,0,0
+Tucson Community School,private,2109 E HEDRICK DR,TUCSON,PIMA,85719,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Tucson Country Day School,charter,9239 E WRIGHTSTOWN RD,TUCSON,PIMA,85715,n,,88,99,1.1,100,99,2.3,100,98,2.3,100,99,1.1,100,,1.1,100,1.1,1.1,0
+Tucson Hebrew Academy,private,3888 E RIVER RD,TUCSON,PIMA,85718,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Tucson International Academy,charter,1230 E BROADWAY BLVD,TUCSON,PIMA,85719,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Tucson International Academy - East,charter,450 N PANTANO RD,TUCSON,PIMA,85710,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Tucson International Academy - West,charter,2700 W BROADWAY BLVD,TUCSON,PIMA,85745,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Tucson International Academy Midvale,charter,1625 W VALENCIA RD STE 109,TUCSON,PIMA,85746,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Tucson Waldorf School,private,3605 E RIVER RD,TUCSON,PIMA,85718,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Tully Kindergarten,public,1701 W EL RIO DR,TUCSON,PIMA,85745,y,rn,42,98,0,98,98,0,98,100,0,100,98,0,98,,0,100,0,0,0
+Tumbleweed Elementary,public,4001 W LAUREL LN,PHOENIX,MARICOPA,85029,n,,68,97,2.9,100,97,2.9,100,97,2.9,100,97,2.9,100,,2.9,100,2.9,0,2.9
+Tuscano Elementary School,public,3850 S 79TH AVE,PHOENIX,MARICOPA,85043,n,,101,96,4,100,96,4,100,96,4,100,96,4,100,,3,100,4,0,3
+Twin Peaks Elementary School,public,7995 W TWIN PEAKS RD,TUCSON,PIMA,85743,n,,67,99,0,99,99,0,99,97,1.5,99,100,0,100,,0,100,1.5,0,0
+Union Middle School,public,3834 S 91ST AVE,TOLLESON,MARICOPA,85353,n,,147,96,2.7,99,96,2,99,98,2,100,98,2,100,,2,88,2,.7,0
+Upward For Children And Families,private,6306 N 7TH ST,PHOENIX,MARICOPA,85014,y,rn,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+V H Lassen Elementary School,public,909 W VINEYARD RD,PHOENIX,MARICOPA,85041,y,,38,100,0,100,100,0,95,95,0,95,95,0,95,,0,97,0,0,0
+Vail Academy and High School,public,7762 E SCIENCE PARK DR,TUCSON,PIMA,85747,n,,22,96,4.5,100,96,4.5,100,96,4.5,100,96,4.5,100,,0,100,4.5,0,0
+Val Vista Academy,charter,4120 S VAL VISTA DR,GILBERT,MARICOPA,85297,n,,41,95,4.9,100,95,2.4,95,85,2.4,88,95,2.4,98,,4.9,100,4.9,0,0
+Val Vista Lakes Elementary School,public,1030 N BLUE GROTTO DR,GILBERT,MARICOPA,85234,y,rn,69,94,5.8,100,94,5.8,100,94,5.8,100,93,7.2,100,,5.8,100,7.2,0,5.8
+Valle Del Encantos Learning Center,public,400 CESAR CHAVEZ AVE,SOMERTON,YUMA,85350,y,rn,71,99,0,99,99,1.4,100,97,1.4,99,100,0,100,,0,100,0,1.4,0
+Valley Academy,charter,1520 W ROSE GARDEN LN,PHOENIX,MARICOPA,85027,y,rn,103,93,6.8,100,93,6.8,100,91,8.7,100,89,10.7,100,,5.8,100,12.6,1,3.9
+Valley Horizon Elementary School,public,4501 W 20TH ST,YUMA,YUMA,85364,n,,73,100,0,100,100,0,100,100,0,100,100,0,100,,0,100,0,0,0
+Valley Of The Sun Waldorf Education Association Dba Desert Marigold School,charter,6210 S 28TH ST,PHOENIX,MARICOPA,85042,n,,36,47,47.2,94,47,44.4,92,47,47.2,94,56,41.7,97,,47.2,97,47.2,0,44.4
+Valley View Elementary School,public,6849 EAST HIGHWAY 92,HEREFORD,COCHISE,85615,n,,21,95,4.8,100,95,4.8,100,95,4.8,100,95,4.8,100,,4.8,100,4.8,0,0
+Valley View School,public,8220 S 7TH AVE,PHOENIX,MARICOPA,85041,y,rn,54,100,0,100,100,0,100,100,0,100,100,0,100,,0,100,0,0,0
+Van Buskirk Elementary,public,725 E FAIR ST,TUCSON,PIMA,85714,y,rn,45,82,0,82,82,0,84,82,0,82,96,0,96,,0,100,0,0,0
+Vasquez De Coronado Francisco School,public,2301 N AL HARRISON RD,NOGALES,SANTA CRUZ,85621,y,rn,88,100,0,100,100,0,100,100,0,100,100,0,100,,0,100,0,0,0
+Vector Prep And Arts Academy,charter,2020 N ARIZONA AVE,CHANDLER,MARICOPA,85225,n,,39,97,2.6,100,97,2.6,100,97,2.6,100,97,2.6,100,,2.6,100,2.6,0,2.6
+Ventana Vista Elementary,public,6085 N KOLB RD,TUCSON,PIMA,85750,y,rn,93,94,6.5,100,94,3.2,100,94,6.5,100,97,3.2,100,,6.5,100,6.5,0,1.1
+Verde Valley Christian School,private,102 S WILLARD ST,COTTONWOOD,YAVAPAI,86326,n,,21,95,4.8,100,95,4.8,71,57,9.5,67,81,9.5,91,,4.8,100,14.3,0,9.5
+Verde Valley Montessori,charter,215 S MAIN ST,COTTONWOOD,YAVAPAI,86326,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Veritas Christian Community School,private,215 TAYLOR DR,SIERRA VISTA,COCHISE,85635,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Vernon Elementary School,public,90 COUNTY RD 3139,VERNON,APACHE,85940,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Verrado Heritage Elementary,public,20895 W HAMILTON ST,BUCKEYE,MARICOPA,85396,y,lpn,83,87,2.4,89,87,2.4,94,88,2.4,90,96,2.4,99,,2.4,99,2.4,0,0
+Vesey Elementary School,public,5005 S BUTTS RD,TUCSON,PIMA,85757,y,rn,97,96,1,97,96,1,97,97,1,98,98,0,98,,0,100,1,0,1
+Villa De Paz Elementary School,public,4940 N 103RD AVE,PHOENIX,MARICOPA,85037,n,,60,95,0,95,95,0,95,100,0,100,98,0,98,,0,95,0,0,0
+Villa Montessori - Main Campuswa,charter,4535 N 28TH ST,PHOENIX,MARICOPA,85016,n,,59,80,13.6,93,80,13.6,97,73,13.6,86,83,13.6,97,,0,90,13.6,0,6.8
+Village Meadows Elementary,public,2020 W MORNINGSIDE DR,PHOENIX,MARICOPA,85023,y,rn,72,100,0,100,100,0,100,99,0,99,99,0,99,,0,100,0,0,0
+Village Meadows Elementary School,public,905 EL CAMINO REAL,SIERRA VISTA,COCHISE,85635,y,rn,69,97,1.4,99,97,1.4,99,99,1.4,100,99,1.4,100,,0,100,1.4,0,0
+Vision Christian Academy,private,13419 W OCOTILLO RD,GLENDALE,MARICOPA,85307,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Vista College Preparatory,charter,812 S 6TH AVE,PHOENIX,MARICOPA,85003,y,rn,58,98,0,98,98,0,100,100,0,100,100,0,100,,0,100,0,0,0
+Vista Del Sur Traditional School,public,3908 W SOUTH MOUNTAIN RD,LAVEEN,MARICOPA,85339,y,rn,89,97,1.1,98,97,1.1,100,98,1.1,99,99,1.1,100,,1.1,100,1.1,0,0
+Vista Grove Preparatory Academy - Elementary,charter,31555 N CACTUS DR,SAN TAN VALLEY,PINAL,85143,n,,26,92,0,92,92,0,92,92,0,92,89,0,89,,0,92,0,0,0
+Vista Peak,public,19825 N 15TH AVE,PHOENIX,MARICOPA,85027,y,rn,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Vistancia Elementary School,public,30009 N SUNSET POINT,PEORIA,MARICOPA,85383,y,rn,107,90,10.3,100,90,9.3,100,90,10.3,100,94,6.5,100,,6.5,100,10.3,0,6.5
+W Arthur Sewel Elementary School,public,425 N SAHUARA AVE,TUCSON,PIMA,85711,y,rn,53,100,0,100,100,0,100,98,0,98,98,0,98,,0,98,0,0,0
+W F Killip Elementary School,public,2300 E 6TH AVE,FLAGSTAFF,COCONINO,86004,y,rn,85,99,1.2,100,99,1.2,100,98,1.2,99,98,1.2,99,,0,100,1.2,0,0
+W V Whitmore Elementary School,public,5330 E GLENN ST,TUCSON,PIMA,85712,y,rn,59,98,1.7,100,98,1.7,100,98,1.7,100,97,1.7,98,,0,100,1.7,0,1.7
+W.e.s.d.#6 - Acacia School,public,3021 W EVANS DR,PHOENIX,MARICOPA,85053,n,,113,100,0,100,100,1.8,98,98,1.8,100,99,.9,100,,0,100,1.8,0,1.8
+W.e.s.d.#6 - Sunburst Elementary School,public,14218 N 47TH AVE,GLENDALE,MARICOPA,85306,n,,86,93,4.7,98,93,4.7,100,95,4.7,100,97,3.5,100,,0,100,7,0,7
+Walker Butte K-8,public,29697 N DESERT WILLOW BLVD,SAN TAN VALLEY,PINAL,85143,n,,78,90,10.3,100,90,10.3,100,89,11.5,100,94,6.4,100,,7.7,100,11.5,0,0
+Walter Douglas Elementary School,public,3302 N FLOWING WELLS RD,TUCSON,PIMA,85705,n,,82,96,1.2,98,96,1.2,98,98,1.2,99,96,1.2,98,,1.2,100,1.2,0,0
+Walter J Meyer School,public,411 N 9TH ST,TOMBSTONE,COCHISE,85638,y,lpn,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Ward Traditional Academy,public,1965 E HERMOSA DR,TEMPE,MARICOPA,85282,y,rn,45,93,6.7,100,93,6.7,100,93,6.7,100,93,6.7,100,,2.2,100,8.9,0,6.7
+Washington Elementary,public,8033 N 27TH AVE,PHOENIX,MARICOPA,85051,y,lpn,131,94,3.8,98,94,3.1,99,95,3.1,99,97,3.1,100,,0,100,3.8,0,0
+Washington Elementary School,public,2260 W ISABELLA AVE,MESA,MARICOPA,85202,y,rn,45,98,2.2,100,98,2.2,98,93,2.2,96,96,2.2,98,,0,100,2.2,0,2.2
+Webster Elementary School,public,202 N SYCAMORE,MESA,MARICOPA,85201,y,rn,81,99,1.2,100,99,0,100,100,0,100,100,0,100,,1.2,100,1.2,0,1.2
+Weinberg Elementary School,public,5245 S VAL VISTA DR,GILBERT,MARICOPA,85298,n,,101,94,5.9,100,94,6.9,100,94,5.9,100,94,5.9,100,,5.9,100,9.9,0,4
+Weitzel's Puente De Hozho Bilinqual Schoo,public,3401 N 4TH ST,FLAGSTAFF,COCONINO,86004,n,,75,100,0,100,100,1.3,100,99,1.3,100,100,0,100,,0,100,1.3,0,0
+Wellton Elementary School,public,29126 E SAN JOSE AVE,WELLTON,YUMA,85356,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Wenden Elementary School,public,71001 SANTA FE AVE,WENDEN,LA PAZ,85357,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+West Elementary School,public,460 S 7TH ST,COOLIDGE,PINAL,85228,y,rn,71,99,1.4,100,99,1.4,100,99,1.4,100,99,1.4,100,,1.4,100,1.4,0,1.4
+West Point Elementary,public,13700 W GREENWAY RD,SURPRISE,MARICOPA,85374,y,lpn,67,96,1.5,97,96,1.5,99,99,1.5,100,97,3,100,,1.5,100,1.5,0,0
+West Sedona Elementary School,public,570 POSSE GROUND RD,SEDONA,YAVAPAI,86336,n,,39,80,7.7,87,80,7.7,87,80,7.7,87,92,7.7,100,,7.7,100,7.7,0,0
+West Valley Christian School,private,16260 W VAN BUREN ST,GOODYEAR,MARICOPA,85338,n,,29,93,6.9,100,93,6.9,100,90,10.3,100,93,6.9,100,,10.3,100,6.9,3.4,6.9
+West Wing Elementary,public,26716 N HIGH DESERT DR,PEORIA,MARICOPA,85383,y,rn,88,90,10.2,100,90,8,100,91,9.1,100,90,10.2,100,,3.4,100,10.2,0,10.2
+Westar Elementary School,public,17777 W WESTAR DR,GOODYEAR,MARICOPA,85338,n,,50,84,16,100,84,16,100,84,16,100,82,18,100,,14,100,16,2,0
+Western Peaks Elementary,public,18063 N. SURPRISE FARMS LOOP SOUTH,SURPRISE,MARICOPA,85335,y,rn,85,82,7.1,89,82,7.1,91,82,7.1,89,91,3.5,94,,5.9,100,7.1,0,7.1
+Western Valley Elementary School,public,6250 W DURANGO ST,PHOENIX,MARICOPA,85043,y,rn,87,98,0,98,98,0,99,100,0,100,100,0,100,,0,100,0,0,0
+Westland School,charter,4141 N 67TH AVE,PHOENIX,MARICOPA,85033,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Westland School Brighton Campus,charter,8632 W NORTHERN AVE,GLENDALE,MARICOPA,85305,n,,42,79,2.4,81,79,2.4,86,81,2.4,83,95,2.4,98,,2.4,100,2.4,0,2.4
+Westpark Elementary School,public,2700 S 257TH DR,BUCKEYE,MARICOPA,85326,n,,61,95,1.6,97,95,1.6,98,97,1.6,98,100,0,100,,1.6,100,1.6,0,0
+Westwind Elementary School,public,9040 W CAMPBELL AVE,PHOENIX,MARICOPA,85037,n,,105,98,1,99,98,1,97,99,1,100,99,1,100,,1,100,1,0,1
+Westwood Primary School,public,4711 N 23RD AVE,PHOENIX,MARICOPA,85015,n,,183,91,0,91,91,0,95,100,0,100,95,0,95,,0,100,0,0,0
+Wheeler Elementary School,public,1818 E AVENIDA DEL SOL,TUCSON,PIMA,85710,y,rn,79,92,3.8,96,92,2.5,98,96,2.5,99,95,2.5,98,,2.5,100,5.1,0,2.5
+Whipple Ranch Elementary School,public,1350 N CENTRAL AVE,SHOW LOW,NAVAJO,85901,n,,152,81,11.2,92,81,11.2,95,80,11.2,91,85,11.2,96,,11.2,98,11.2,0,11.2
+Whispering Wind Academy,public,15844 N 43RD ST,PHOENIX,MARICOPA,85032,y,rn,78,90,10.3,100,90,9,100,89,11.5,100,90,10.3,100,,7.7,100,14.1,0,6.4
+White Mountain Montessori,private,421 WOODLAND RD,LAKESIDE,NAVAJO,85929,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Whiteriver Elementary,public,1 N 1ST AVE,WHITERIVER,NAVAJO,85941,n,,70,99,0,99,99,0,100,97,0,97,100,0,100,,0,100,0,0,0
+Whitman Elementary,public,1829 N GRAND,MESA,MARICOPA,85201,y,rn,96,92,0,92,92,0,92,92,0,92,96,0,96,,0,96,2.1,0,0
+Whittier Elementary School,public,733 N LONGMORE,MESA,MARICOPA,85201,y,rn,65,99,0,99,99,0,99,100,0,100,99,0,99,,0,100,0,0,0
+Wickenburg Christian Academy,private,260 W YAVAPAI ST,WICKENBURG,MARICOPA,85390,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Wildfire Elementary,public,3997 E LOCKWOOD DR,PHOENIX,MARICOPA,85050,y,rn,91,92,6.6,99,92,5.5,99,95,5.5,100,93,5.5,99,,5.5,100,6.6,0,6.6
+Wildflower School,public,325 S WILDFLOWER DR,GOODYEAR,MARICOPA,85338,y,rn,45,98,2.2,100,98,2.2,100,98,2.2,100,98,2.2,100,,2.2,100,2.2,0,2.2
+Willcox Elementary School,public,501 W DELOS ST,WILLCOX,COCHISE,85643,y,rn,87,95,1.1,97,95,1.1,98,97,1.1,98,100,0,100,,2.3,100,2.3,0,1.1
+William C. Jack Elementary,public,6600 W MISSOURI AVE,GLENDALE,MARICOPA,85301,y,rn,169,98,.6,98,98,.6,100,98,.6,98,99,.6,100,,0,100,.6,.6,.6
+William T Machan Elementary School,public,2140 E VIRGINIA AVE,PHOENIX,MARICOPA,85006,y,rn,58,100,0,100,100,0,100,100,0,100,100,0,100,,0,100,0,0,0
+Williams Elementary/middle School,public,601 N 7TH ST,WILLIAMS,COCONINO,86046,n,,35,89,5.7,94,89,5.7,97,86,8.6,94,97,2.9,100,,0,100,8.6,0,0
+Willow Creek Charter School,charter,2100 WILLOW CREEK RD,PRESCOTT,YAVAPAI,86301,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Wilson Primary School,public,415 N 30TH ST,PHOENIX,MARICOPA,85008,y,lpn,155,99,.6,99,99,.6,99,99,.6,100,99,.6,99,,0,100,.6,0,.6
+Winefred Harelson Elementary,public,826 W CHAPALA DR,TUCSON,PIMA,85704,n,,67,99,1.5,100,99,1.5,100,99,1.5,100,99,1.5,100,,1.5,100,1.5,0,0
+Wood,public,722 W CORNELL DR,TEMPE,MARICOPA,85283,y,rn,75,96,4,100,96,2.7,100,96,4,100,99,1.3,100,,1.3,100,4,0,1.3
+Yavapai Apache Nation,private,3580 N SMITH AVE,CAMP VERDE,YAVAPAI,86322,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Yavapai Elementary School,public,701 N MILLER RD,SCOTTSDALE,MARICOPA,85257,y,rn,62,98,1.6,100,98,1.6,100,97,3.2,100,98,1.6,100,,0,100,3.2,0,0
+Young Public School,public,HWY 288 BAKER RANCH RD,YOUNG,GILA,85554,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Young Scholars Academy Charter School,charter,1501 E VALENCIA RD,BULLHEAD CITY,MOHAVE,86426,n,,49,100,0,100,100,0,100,98,0,98,100,0,100,,0,100,0,0,0
+Yucca Elementary School,public,12261 SOUTH 3RD STREET,YUCCA,MOHAVE,86438,n,,= 20,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,,n/a,n/a,n/a,n/a,n/a
+Yuma Lutheran School,private,2555 S ENGLER AVE,YUMA,YUMA,85365,y,rn,60,97,3.3,100,97,3.3,100,97,3.3,100,100,0,100,,6.7,100,6.7,0,3.3
+Zaharis,public,9410 E MCKELLIPS RD # RC,MESA,MARICOPA,85207,y,,116,89,9.5,98,89,6.9,97,90,8.6,98,88,7.8,96,,5.2,98,9.5,0,5.2
+Zuni Hills Elementary School,public,10851 W WILLIAMS RD,SUN CITY,MARICOPA,85373,y,rn,79,99,1.3,100,99,1.3,100,98,2.5,100,99,1.3,100,,1.3,100,1.3,1.3,1.3
